@@ -1,3 +1,0 @@
-# Block all web access to the config folder
-Order deny,allow
-Deny from all
