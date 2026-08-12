@@ -1,0 +1,38 @@
+name: Automated JTV by Krishanuk009
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+jobs:
+  update-file:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          
+      - name: Configure Git User
+        run: |
+          git config --global user.name "Krishanuk009"
+          git config --global user.email "271363488+Krishanuk009@users.noreply.github.com"
+          
+      - name: Sync and Update Log
+        run: |
+          export TZ="Asia/Kolkata"
+          git pull origin main --rebase
+          curl -sS -L -o jtv5.m3u "https://sayan-jiotv.spal75084.workers.dev/jtv.m3u"
+          echo "馃殌 JIOTV  Synced | IST: $(date +'%Y-%m-%d %H:%M:%S')"
+          
+      - name: Commit and Push
+        run: |
+          export TZ="Asia/Kolkata"
+          git add jtv5.m3u 
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "JIOTV Updated 鉁� [$(date +'%d-%m-%Y %H:%M')]"
+          git push origin main

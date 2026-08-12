@@ -1,0 +1,35 @@
+name: Automated JTV PLUS Updater
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+jobs:
+  update-file:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Configure Git User
+        run: |
+          git config --global user.name "sportlive18"
+          git config --global user.email "271363488+sportlive18@users.noreply.github.com"
+      - name: Sync and Update Log
+        run: |
+          export TZ="Asia/Kolkata"
+          git pull origin main --rebase
+          curl -sS -L -o jtv3.m3u "https://raw.githubusercontent.com/sixpg/zeyo/refs/heads/main/jtv.m3u"
+          echo "🚀 JIOTV PLUS Synced | IST: $(date +'%Y-%m-%d %H:%M:%S') | ID: $RANDOM" >> jiotv.txt
+      - name: Commit and Push
+        run: |
+          export TZ="Asia/Kolkata"
+          git add jtv3.m3u jiotv.txt
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "JIOTV PLUS Updated ✅ [$(date +'%d-%m-%Y %H:%M')]"
+          git push origin main
