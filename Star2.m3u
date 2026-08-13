@@ -180,7 +180,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/index
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=200a6dd89c6b5a48b9991d8ab57fc7d2:1f62834669a97e92ea1f3263274853fc
 #EXTVLCOPT:http-user-agent=IndTv
-#EXTHTTP:{"cookie":"__hdnea__=st=1786593562~exp=1786615162~acl=/bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/*~hmac=dfc349083b49e8e11d48be6634120f1e10271caea8e35d248a186a57d33e3219","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1786615162~exp=1786636762~acl=/bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/*~hmac=37bc9afc250eeff91171a708466dce676a24ec923b6e5f0ba88766ec2dbc4c71","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1650" tvg-name="Star Sports 1 Kannada" tvg-logo="https://img.media.jio.com/tvpimages/13/91/302118_1749663894692_l_medium.jpg" group-title="Sports",Star Sports 1 Kannada
