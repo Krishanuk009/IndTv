@@ -68,7 +68,7 @@ https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/inde
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6017d0514d425fa38f6e80ba6dcc852f:0018944b00adf2078f62386f30c68b74
 #EXTVLCOPT:http-user-agent=Virat Paglu
-#EXTHTTP:{"cookie":"__hdnea__=st=1786622473~exp=1786644073~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=8b9ea5f75e1fbf3c857fab9b00ccd30fce01f316655e529ca44a5e14065505ae","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1786644106~exp=1786665706~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=53a038911e6b75115f20729636f839750cc02635b45413976d8e8550cf0c2d3d","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="T1HD" tvg-name="Star Sports 1 Tamil HD" tvg-logo="" group-title="Sports",Star Sports 1 Tamil HD
