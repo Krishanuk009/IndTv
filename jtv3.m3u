@@ -47,7 +47,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/CNTelugu_MOB/WDVLive/index.mpd|Cookie=__h
 #EXTINF:-1 tvg-id="167" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTVHD.png" group-title="Entertainment",Zee TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a472713dd855718b1dc24986efbc752:4215cd7cf5915d1c4f704137ad211f45
-https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1786608479~exp=1786630079~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=d8d58f8c2ab27612420abad4af77300473a7b61fc436c463ce9b8f18644877af
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1786630168~exp=1786651768~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=73f26e0716339566520d91d42fca63dc689921af2c8f8c4ba616c6ed446722ff
 
 #EXTINF:-1 tvg-id="173" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="News",Aaj Tak
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3513,7 +3513,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/index.m
 #EXTINF:-1 tvg-id="3273" tvg-logo="https://img.media.jio.com/tvpimages/50/43/302120_1749664850896_l_medium.jpg" group-title="Sports",Star Sports 2 Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc44fe6251825774b90d58dcfa7d94e0:63e3ae853f483a86752b5b9e6d61eb20
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1786608044~exp=1786629644~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=96643d2ab802a12b3d98da1fe40c6ee1e1f4c29f17802f31ba546eb27fadbfd7
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1786629665~exp=1786651265~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=80fe12a3820b7fc73498ea59229710d0c3ced97633a220b7af814de438504c29
 
 #EXTINF:-1 tvg-id="2853" tvg-logo="https://img.media.jio.com/tvpimages/74/92/301561_1749664725619_l_medium.jpg" group-title="Sports",Star Sports 2 Tamil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
