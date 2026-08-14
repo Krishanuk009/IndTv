@@ -12,7 +12,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsHD_MOB/WDVLive/index.mpd|Cookie=__h
 #EXTINF:-1 tvg-id="146" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="English",History TV18 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e5105a616fb95ce48dbde4fe9d7960ad:272d2bcff8430174fdd5aaf6f93abb6b
-https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1786722910~exp=1786744510~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=71931192fc31ecd6f78ddb336150a849ecf5f21255f7c66e7c35387a54511849
+https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1786744730~exp=1786766330~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=9ce28f06df11d4307eb47380a115cd41587c86058386c328fcd81d1040551fe6
 
 #EXTINF:-1 tvg-id="151" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png" group-title="English",Movies Now HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3473,7 +3473,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd|Co
 #EXTINF:-1 tvg-id="1985" tvg-logo="https://img.media.jio.com/tvpimages/57/17/302124_1749130246443_l_medium.jpg" group-title="Sports",Star Sports 2 Hindi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3ed8dc0e0cb5d238da80ee0a85bd2e1:67a96992e6406606f3480ab58d7f540c
-https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Hin_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1786721815~exp=1786743415~acl=/bpk-tv/StarSports2Hin_BTS/WDVLive/*~hmac=f3e54cebb3bc010305dcd1fd56b1fab874e60516defebda3cce652ac2b1b49eb
+https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Hin_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1786743427~exp=1786765027~acl=/bpk-tv/StarSports2Hin_BTS/WDVLive/*~hmac=ce4c4bc1fbc95379fd6440ecc61ad1e51ce3b5b8a781ead516fa5c937e351f37
 
 #EXTINF:-1 tvg-id="1389" tvg-logo="https://img.media.jio.com/tvpimages/78/2/302117_1749666092192_l_medium.jpg" group-title="Sports",Star Sports 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
