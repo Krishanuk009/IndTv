@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz" x-billed-message="StreamX"
-# Generated: 14 Aug 2026, 13:47:17
+# Generated: 14 Aug 2026, 15:33:52
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -4272,7 +4272,7 @@ http://pkg.uius.live/jplus/3099.mpd|drmScheme=clearkey&drmLicense=d1644aff68865e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=71f9041eea4954e6acf66f0c50d5ebf9:98148dde17f872774f443297745df456
 #EXTVLCOPT:http-user-agent=OTT Navigator
-#EXTHTTP:{"cookie":"__hdnea__=st=1786679964~exp=1786701564~acl=/bpk-tv/Star_Pravah_Picture_HD_BTS/WDVLive/*~hmac=e0a316ec9c89e3cc5cfedda99162f60cb45ee906dae1d6aa5c8cfeb1905d44ca","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1786701564~exp=1786723164~acl=/bpk-tv/Star_Pravah_Picture_HD_BTS/WDVLive/*~hmac=e77a964def43f86c5add0d2212278d4fe5969a0f0c5e76aa1b3edfc687f183a8","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 http://pkg.uius.live/jplus/3100.mpd|drmScheme=clearkey&drmLicense=71f9041eea4954e6acf66f0c50d5ebf9:98148dde17f872774f443297745df456
 
 #EXTINF:-1 tvg-id="414" group-title="JioTV+ ▶ | Marathi" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeYuva.png",Zee Yuva
@@ -4307,7 +4307,7 @@ http://pkg.uius.live/jplus/445.mpd|drmScheme=clearkey&drmLicense=95c378d17d3d5bb
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bf930e665a756bab62df644407e0877:42e5003f036f924d5095e0d6f315c9f6
 #EXTVLCOPT:http-user-agent=OTT Navigator
-#EXTHTTP:{"cookie":"__hdnea__=st=1786679964~exp=1786701564~acl=/bpk-tv/ZeeMarathiHD_BTS/WDVLive/*~hmac=2591dd502e79874c47a112902c1725762b6e1538c37ea65476d3d197bf8bb32f","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1786701564~exp=1786723164~acl=/bpk-tv/ZeeMarathiHD_BTS/WDVLive/*~hmac=a3dbe1d700035a18976b642ac53f292cbb27acbf0cc512c1dee7b44a75d1ba24","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 http://pkg.uius.live/jplus/1360.mpd|drmScheme=clearkey&drmLicense=0bf930e665a756bab62df644407e0877:42e5003f036f924d5095e0d6f315c9f6
 
 #EXTINF:-1 tvg-id="1326" group-title="JioTV+ ▶ | Marathi" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_SD.png",Colors Marathi
@@ -4468,7 +4468,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/TimesofMaharashtra_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7ad3786d9e5efa9e0c4aeb3e58c7b7:907509ccae7e68b30ae75b5d09fe60ef
 #EXTVLCOPT:http-user-agent=OTT Navigator
-#EXTHTTP:{"cookie":"__hdnea__=st=1786679963~exp=1786701563~acl=/bpk-tv/Star_Gold_HD_BTS/WDVLive/*~hmac=81f5cfa38298ced33c57a315ef97ad28e6bf9490aa6d33fdb807f398a27d6c41","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1786701563~exp=1786723163~acl=/bpk-tv/Star_Gold_HD_BTS/WDVLive/*~hmac=c378ba565ca9fbae8f76cfa55c19e9f10ccfd684507037054dfa8639ea799dcd","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 http://pkg.uius.live/jplus/156.mpd|drmScheme=clearkey&drmLicense=ec7ad3786d9e5efa9e0c4aeb3e58c7b7:907509ccae7e68b30ae75b5d09fe60ef
 
 #EXTINF:-1 tvg-id="1125" group-title="JioTV+ ▶ | Movies" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold.png",Star Gold
@@ -4482,7 +4482,7 @@ http://pkg.uius.live/jplus/1125.mpd|drmScheme=clearkey&drmLicense=940a0a4080f553
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6afa4754bc15dd28ab6806f417d319d:6a74ef2884813547109ee96098610387
 #EXTVLCOPT:http-user-agent=OTT Navigator
-#EXTHTTP:{"cookie":"__hdnea__=st=1786679963~exp=1786701563~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=93bde1c81e35869992c0eed3909c41827cc7c8f94af4ea449746e7bc10465450","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1786701563~exp=1786723163~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=2dc28e50f5472b694edc5ca7aad8b667fe1bcf38782f930a6425b5b0d8a7b764","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 http://pkg.uius.live/jplus/3096.mpd|drmScheme=clearkey&drmLicense=e6afa4754bc15dd28ab6806f417d319d:6a74ef2884813547109ee96098610387
 
 #EXTINF:-1 tvg-id="1154" group-title="JioTV+ ▶ | Movies" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2.png",Star Gold 2
@@ -4594,7 +4594,7 @@ http://pkg.uius.live/jplus/1119.mpd|drmScheme=clearkey&drmLicense=09706397be655e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2cb38dd5e6235bd9936ad7a29bc7ffd8:281d7b329be4e22d4e0e3e1d508ba2a4
 #EXTVLCOPT:http-user-agent=OTT Navigator
-#EXTHTTP:{"cookie":"__hdnea__=st=1786679963~exp=1786701563~acl=/bpk-tv/Star_Gold_Select_HD_BTS/WDVLive/*~hmac=3082ff0cab0235f0f625386079f1ef86a175b486180687e8ba37a997087885c0","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1786701563~exp=1786723163~acl=/bpk-tv/Star_Gold_Select_HD_BTS/WDVLive/*~hmac=ac83345b471c8eb44481d3ddbc8d7c94f855dad106e02a55c86fa0e074a97e31","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 http://pkg.uius.live/jplus/1113.mpd|drmScheme=clearkey&drmLicense=2cb38dd5e6235bd9936ad7a29bc7ffd8:281d7b329be4e22d4e0e3e1d508ba2a4
 
 #EXTINF:-1 tvg-id="3543" group-title="JioTV+ ▶ | Movies" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blywcm.png",Eros Universe Bollywood Cinema
@@ -6743,7 +6743,7 @@ http://pkg.uius.live/jplus/3278.mpd|drmScheme=clearkey&drmLicense=49e84b9edfd853
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=200a6dd89c6b5a48b9991d8ab57fc7d2:1f62834669a97e92ea1f3263274853fc
 #EXTVLCOPT:http-user-agent=OTT Navigator
-#EXTHTTP:{"cookie":"__hdnea__=st=1786679964~exp=1786701564~acl=/bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/*~hmac=45e911e18d0c7b29769ca94c3a18b8579a3b0bcd455ec2154c5837a9a5e7a72a","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1786701564~exp=1786723164~acl=/bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/*~hmac=f549bcf440e665ddad207963bf9844c780ef16a957f7b348aa6111da5e4aed5b","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 http://pkg.uius.live/jplus/1651.mpd|drmScheme=clearkey&drmLicense=200a6dd89c6b5a48b9991d8ab57fc7d2:1f62834669a97e92ea1f3263274853fc
 
 #EXTINF:-1 tvg-id="1650" group-title="JioTV+ ▶ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://img.media.jio.com/tvpimages/13/91/302118_1749663894692_l_medium.jpg",Star Sports 1 Kannada
@@ -7842,7 +7842,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Maa_HD_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6744a252854352acbfe40413a14fca0f:1de605f98df36a7417eff631e1a0966a
 #EXTVLCOPT:http-user-agent=OTT Navigator
-#EXTHTTP:{"cookie":"__hdnea__=st=1786679964~exp=1786701564~acl=/bpk-tv/Star_Maa_BTS/WDVLive/*~hmac=943e095090160269bdc47ff4ebdf1604307f7a19cd352a6c6fc3f27391ee3e33","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1786701564~exp=1786723164~acl=/bpk-tv/Star_Maa_BTS/WDVLive/*~hmac=688bb30d689f2a8a82dbf3c57deeb2bb1da374c706596dd795f52c1f6b6adb9d","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 http://pkg.uius.live/jplus/1138.mpd|drmScheme=clearkey&drmLicense=6744a252854352acbfe40413a14fca0f:1de605f98df36a7417eff631e1a0966a
 
 #EXTINF:-1 tvg-id="1129" group-title="JioTV+ ▶ | Telugu" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png",Star Maa Music
@@ -9196,21 +9196,25 @@ https://yashlivetv.fun/phpdirect.php?id=0-9-zeecafehd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://yashlivetv.fun/phpdirect.php?id=0-9-channel_2105335046
 
-#EXTINF:-1 tvg-id="event-0.2742775793068146" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",China vs Bahrain (ICC CWC Challenge League B 2026)
+#EXTINF:-1 tvg-id="event-0.00047189835062455554" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",China vs Bahrain (ICC CWC Challenge League B 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4248257_english_hls_702fea217770542_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786773292~_GO=Generated~acl=/mumbai/4248257_english_hls_702fea217770542_1ta-di_h264/*~Signature=AVMBkTWAPh_0-4AuZ8EPEPsOMN-oIVH2KuYPE3PK4hapWjw1wJ1dLAPsIQcS4VRuVwOo0UJzn-aG-X9mrsnsRJogb1kB
 
-#EXTINF:-1 tvg-id="event-0.870677580218764" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card1.png",Singapore vs Italy (ICC CWC Challenge League B 2026)
+#EXTINF:-1 tvg-id="event-0.6307444215394629" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card1.png",Singapore vs Italy (ICC CWC Challenge League B 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4248258_english_hls_c3f788f1cb70925_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786773293~_GO=Generated~acl=/mumbai/4248258_english_hls_c3f788f1cb70925_1ta-di_h264/*~Signature=AVMBkTWvYYudURw5xHsNjSJxL_rqXbq9eI1vgrcaXxOy35WRTNsMscCcjfdHxqVk1rJUJGPJpyw1NyHWeqLJe7YOQCwI
 
-#EXTINF:-1 tvg-id="event-0.7512240702653992" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248372_53031_FIN_ESP_fc-web.jpg",2026)
+#EXTINF:-1 tvg-id="event-0.044113952003291046" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248372_53031_FIN_ESP_fc-web.jpg",2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4248372_english_hls_081f464aaf16919_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786779986~_GO=Generated~acl=/mumbai/4248372_english_hls_081f464aaf16919_1ta-di_h264/*~Signature=AVMBkTXTjl4HHVjAyKYiGQJePiQfVcQ5B-185GlIwRQdXl7D1Ic8vwAyQs2EeMbKGBnGcclNTARK_DTPbmB1kqgUqS0H
 
-#EXTINF:-1 tvg-id="event-0.9520070420240576" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248380_53031_ISR_POR_fc-web.jpg",2026)
+#EXTINF:-1 tvg-id="event-0.11575061897784644" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248380_53031_ISR_POR_fc-web.jpg",2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4248380_english_hls_e041d6fa9024937_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786779988~_GO=Generated~acl=/mumbai/4248380_english_hls_e041d6fa9024937_1ta-di_h264/*~Signature=AVMBkTVcwYGLNaQqkeTYXGteztsm9I8LGtDHCiPPLyddxSLGiTAbUVpL1rmIQI7IWUNbY1Z6bEyhRdm1VzloxlAwaCAN
+
+#EXTINF:-1 tvg-id="event-0.666674666530044" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",Germany (DTM 2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://in-mc-flive.fancode.com/mumbai/143812_english_hls_e6aef2c92332322_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786785459~_GO=Generated~acl=/mumbai/143812_english_hls_e6aef2c92332322_1ta-di_h264/*~Signature=AVMBkTWb6fZbNmwoCtqDPaBxOGQazyRjs20CESrA1CdwW4O1NVBS1zMpBRLPKPuXbry1ddZLQ8Il70FkxxQxSU5NX6YJ
 
 #EXTINF:-1 tvg-id="SONY SAB HD.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png",Sony SAB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
