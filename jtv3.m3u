@@ -12,7 +12,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsHD_MOB/WDVLive/index.mpd|Cookie=__h
 #EXTINF:-1 tvg-id="146" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="English",History TV18 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e5105a616fb95ce48dbde4fe9d7960ad:272d2bcff8430174fdd5aaf6f93abb6b
-https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1786744730~exp=1786766330~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=9ce28f06df11d4307eb47380a115cd41587c86058386c328fcd81d1040551fe6
+https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1786766381~exp=1786787981~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=bf7fce449972093f911c75e56c5db8053c064ea5df2bb8d5e4208e91a301bb63
 
 #EXTINF:-1 tvg-id="151" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now_HD.png" group-title="English",Movies Now HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
