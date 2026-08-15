@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz" x-billed-message="StreamX"
-# Generated: 15 Aug 2026, 13:02:08
+# Generated: 15 Aug 2026, 14:00:11
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -6785,7 +6785,7 @@ http://pkg.uius.live/jplus/3274.mpd|drmScheme=clearkey&drmLicense=c8a2fb190fc957
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6576a2664bc1563db2abd4fc192152b2:452e28454297a4193dbdf8f5cebc70b0
 #EXTVLCOPT:http-user-agent=OTT Navigator
-#EXTHTTP:{"cookie":"__hdnea__=st=1786759164~exp=1786780764~acl=/bpk-tv/StarSports2Telugu_BTS/WDVLive/*~hmac=d130e2d7297331c84be72948429c7f02477163c2a65f25761e109163750ff641","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1786780764~exp=1786802364~acl=/bpk-tv/StarSports2Telugu_BTS/WDVLive/*~hmac=40ba89e33ad5e1e75d13058e0f3060c00b02f4efd1caa17eeea6d60dd3b5ac85","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 http://pkg.uius.live/jplus/2852.mpd|drmScheme=clearkey&drmLicense=6576a2664bc1563db2abd4fc192152b2:452e28454297a4193dbdf8f5cebc70b0
 
 #EXTINF:-1 tvg-id="1998" group-title="JioTV+ ▶ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/StarSportsKhel.png",Star Sports Khel
@@ -9196,33 +9196,45 @@ https://yashlivetv.fun/phpdirect.php?id=0-9-zeecafehd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://yashlivetv.fun/phpdirect.php?id=0-9-channel_2105335046
 
-#EXTINF:-1 tvg-id="event-0.085243656371923" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",Singapore vs Uganda (ICC CWC Challenge League B 2026)
+#EXTINF:-1 tvg-id="event-0.8275163112510514" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",Singapore vs Uganda (ICC CWC Challenge League B 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4248259_english_hls_4c4e1623d073953_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786859190~_GO=Generated~acl=/mumbai/4248259_english_hls_4c4e1623d073953_1ta-di_h264/*~Signature=AVMBkTXrLPWYLbQGM5FphHEKdAAZwrKb4GYooyNNi9Xy-dT0WI_Hth3XBpdqY8pBmDfamsPF4btAHwRT4gojfA1OnIgP
 
-#EXTINF:-1 tvg-id="event-0.9430948558472413" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card1.png",Bahrain vs Tanzania (ICC CWC Challenge League B 2026)
+#EXTINF:-1 tvg-id="event-0.4247022481553405" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card1.png",Bahrain vs Tanzania (ICC CWC Challenge League B 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4248260_english_hls_72e46570ae1164_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786859194~_GO=Generated~acl=/mumbai/4248260_english_hls_72e46570ae1164_1ta-di_h264/*~Signature=AVMBkTWxWdBHDaAjNHC4vt-q6FpY0-x6NY4YPBg9L9rsdSHJPOdEM9dEQh5D2yIrq_PVSspb_9O1XQhc4Y23LB6S78cF
 
-#EXTINF:-1 tvg-id="event-0.47588260149506056" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022210/1786721377288986_SL_vs_IND_1stTest_Day1_landscape_thumb.jpg",Day 1 - 1st Test - 15 Aug 2026 [ENG] - India Tour of Sri Lanka 2026
+#EXTINF:-1 tvg-id="event-0.49413580755688424" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248368_53031_IOM_ESP_fc-web.jpg",2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786821840~acl=/*~id=07693198772963361453056351712498~hmac=da2364bbd67e587e5fd8cdef94e442cd463cc260523d72654d726ee02a2343c7
+https://in-mc-flive.fancode.com/mumbai/4248368_english_hls_f8b49ef5d138245_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786866517~_GO=Generated~acl=/mumbai/4248368_english_hls_f8b49ef5d138245_1ta-di_h264/*~Signature=AVMBkTUG3rZBkH6xh-qDWdjehIPDCPiDtFixQ3NPkn33CWfSmYakEnX_klkL02DCpJYKoAgfmGj9ip1rvtEYoaUYbXsO
 
-#EXTINF:-1 tvg-id="event-0.45939088859727994" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022210/1786721377288986_SL_vs_IND_1stTest_Day1_landscape_thumb.jpg",Day 1 - 1st Test - 15 Aug 2026 [HIN] - India Tour of Sri Lanka 2026
+#EXTINF:-1 tvg-id="event-0.3694616419386102" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248370_53031_CZE_GRE_fc-web.jpg",2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1508/HIN/std_lrh-800300010.m3u8?hdnea=exp=1786821840~acl=/*~id=07693198772963361453056351712498~hmac=da2364bbd67e587e5fd8cdef94e442cd463cc260523d72654d726ee02a2343c7
+https://in-mc-flive.fancode.com/mumbai/4248370_english_hls_e9af9e61b166670_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786866519~_GO=Generated~acl=/mumbai/4248370_english_hls_e9af9e61b166670_1ta-di_h264/*~Signature=AVMBkTV9pOCOsazPkFD_67HMc1yrLHwUQLbbSlg2PIbM0Z8QaCSW94kgO7kjgcOFKMFPp36Re2w3Ye2KOiH-3wt0WOoH
 
-#EXTINF:-1 tvg-id="event-0.32353403127798064" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022210/1786721377288986_SL_vs_IND_1stTest_Day1_landscape_thumb.jpg",Day 1 - 1st Test - 15 Aug 2026 [TAM] - India Tour of Sri Lanka 2026
+#EXTINF:-1 tvg-id="event-0.5252252891086954" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",Germany (DTM 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1508/TAM/std_lrh-800300010.m3u8?hdnea=exp=1786821840~acl=/*~id=07693198772963361453056351712498~hmac=da2364bbd67e587e5fd8cdef94e442cd463cc260523d72654d726ee02a2343c7
+https://in-mc-flive.fancode.com/mumbai/143814_english_hls_637a538c8752006_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786866520~_GO=Generated~acl=/mumbai/143814_english_hls_637a538c8752006_1ta-di_h264/*~Signature=AVMBkTWs5xZFpmgi6zjNoFq0IpCXgHz9tWy_RyIgitIrMtIkUtFS-H6JwgwtxRxZVNQ2Q9rjepVZa_E5d3K-TJ2TajMM
 
-#EXTINF:-1 tvg-id="event-0.8224739480351516" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022210/1786721377288986_SL_vs_IND_1stTest_Day1_landscape_thumb.jpg",Day 1 - 1st Test - 15 Aug 2026 [TEL] - India Tour of Sri Lanka 2026
+#EXTINF:-1 tvg-id="event-0.29116666222941123" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022210/1786721377288986_SL_vs_IND_1stTest_Day1_landscape_thumb.jpg",Day 1 - 1st Test - 15 Aug 2026 [ENG] - India Tour of Sri Lanka 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1508/TEL/std_lrh-800300010.m3u8?hdnea=exp=1786821840~acl=/*~id=07693198772963361453056351712498~hmac=da2364bbd67e587e5fd8cdef94e442cd463cc260523d72654d726ee02a2343c7
+https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786825490~acl=/*~id=87850993686949513832764062991275~hmac=7d46884879a505660ceeac726e6131684c1d1ec27e70969f83b3b86383399c68
 
-#EXTINF:-1 tvg-id="event-0.5665414296306571" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022210/1786721377288986_SL_vs_IND_1stTest_Day1_landscape_thumb.jpg",Day 1 - 1st Test - 15 Aug 2026 [KAN] - India Tour of Sri Lanka 2026
+#EXTINF:-1 tvg-id="event-0.20393501326869679" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022210/1786721377288986_SL_vs_IND_1stTest_Day1_landscape_thumb.jpg",Day 1 - 1st Test - 15 Aug 2026 [HIN] - India Tour of Sri Lanka 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1508/KAN/std_lrh-800300010.m3u8?hdnea=exp=1786821840~acl=/*~id=07693198772963361453056351712498~hmac=da2364bbd67e587e5fd8cdef94e442cd463cc260523d72654d726ee02a2343c7
+https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1508/HIN/std_lrh-800300010.m3u8?hdnea=exp=1786825490~acl=/*~id=87850993686949513832764062991275~hmac=7d46884879a505660ceeac726e6131684c1d1ec27e70969f83b3b86383399c68
+
+#EXTINF:-1 tvg-id="event-0.9206318484267384" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022210/1786721377288986_SL_vs_IND_1stTest_Day1_landscape_thumb.jpg",Day 1 - 1st Test - 15 Aug 2026 [TAM] - India Tour of Sri Lanka 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1508/TAM/std_lrh-800300010.m3u8?hdnea=exp=1786825490~acl=/*~id=87850993686949513832764062991275~hmac=7d46884879a505660ceeac726e6131684c1d1ec27e70969f83b3b86383399c68
+
+#EXTINF:-1 tvg-id="event-0.6161165237092047" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022210/1786721377288986_SL_vs_IND_1stTest_Day1_landscape_thumb.jpg",Day 1 - 1st Test - 15 Aug 2026 [TEL] - India Tour of Sri Lanka 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1508/TEL/std_lrh-800300010.m3u8?hdnea=exp=1786825490~acl=/*~id=87850993686949513832764062991275~hmac=7d46884879a505660ceeac726e6131684c1d1ec27e70969f83b3b86383399c68
+
+#EXTINF:-1 tvg-id="event-0.008608137568075436" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022210/1786721377288986_SL_vs_IND_1stTest_Day1_landscape_thumb.jpg",Day 1 - 1st Test - 15 Aug 2026 [KAN] - India Tour of Sri Lanka 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1508/KAN/std_lrh-800300010.m3u8?hdnea=exp=1786825490~acl=/*~id=87850993686949513832764062991275~hmac=7d46884879a505660ceeac726e6131684c1d1ec27e70969f83b3b86383399c68
 
 #EXTINF:-1 tvg-id="SONY SAB HD.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png",Sony SAB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
