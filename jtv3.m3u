@@ -2549,7 +2549,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Gyandarshan_MOB/WDVLive/index.mpd|Cook
 #EXTINF:-1 tvg-id="1332" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png" group-title="English",Nat Geo Wild HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=999ce48f3e4d5de8b72c34f213176d9e:13e3ca891d32d158d8108007fef88388
-https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd|Cookie=__hdnea__=st=1786792809~exp=1786814409~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=e70bca95096ff76819e3798e07cd5c2a6fdcb8fbc0a4e73117dc95bc201f1749
+https://jiotvmblive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_MOB/WDVLive/index.mpd|Cookie=__hdnea__=st=1786788037~exp=1786809637~acl=/*~hmac=5837b0d3a87b249b4b11fb240d6dc3a7d669d73a3a28f0397c838b66f6e3fae3
 
 #EXTINF:-1 tvg-id="1335" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="English",National Geographic HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
