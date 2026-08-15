@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz" x-billed-message="StreamX"
-# Generated: 16 Aug 2026, 01:53:41
+# Generated: 16 Aug 2026, 02:52:11
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -9196,31 +9196,31 @@ https://yashlivetv.fun/phpdirect.php?id=0-9-zeecafehd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://yashlivetv.fun/phpdirect.php?id=0-9-channel_2105335046
 
-#EXTINF:-1 tvg-id="event-0.719269416871003" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247568_53004_SEV_RVL_FC-Web.png",Sevilla FC vs Rayo Vallecano (LALIGA 2026-27)
+#EXTINF:-1 tvg-id="event-0.32889384388838316" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247568_53004_SEV_RVL_FC-Web.png",Sevilla FC vs Rayo Vallecano (LALIGA 2026-27)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4247568_english_hls_df4cfa719c8142_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786906811~_GO=Generated~acl=/mumbai/4247568_english_hls_df4cfa719c8142_1ta-di_h264/*~Signature=AVMBkTWz6XBjul77bSwdYoyJmQQY-Y84_XkTUQYEnlw2zQPvgg1G5S8B0vQ-BXavAFsrZunSEVvJz5Q8012rV1K4yfQB
 
-#EXTINF:-1 tvg-id="event-0.5093318875799807" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2026_Web_1080_x_810.jpg",Tennessee (FedEx St. Jude Championship 2026)
+#EXTINF:-1 tvg-id="event-0.37954886406983046" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2026_Web_1080_x_810.jpg",Tennessee (FedEx St. Jude Championship 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786910455~_GO=Generated~acl=/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/*~Signature=AVMBkTVMmXmAwN1AFD0IMFmIquneUT8hcitGDL-SI4fpT697GSbJ-Pf7OM-3-7iTASmiel-kbgUP6t6kgDSVnv4gMZ0O
 
-#EXTINF:-1 tvg-id="event-0.5830994430229912" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",United States (ATP Masters Cincinnati Open 2026)
+#EXTINF:-1 tvg-id="event-0.5204806147317457" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",United States (ATP Masters Cincinnati Open 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4248114_english_hls_a57b5f7c3484034_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786891509~_GO=Generated~acl=/mumbai/4248114_english_hls_a57b5f7c3484034_1ta-di_h264/*~Signature=AVMBkTXRh3KHK82aPreLzVe6nC71yxmAcCnNf1ujdUCIcDIzvwwLfMrX9W49MGCrruFlsyTZmPxpLgkFkflW1739j0cO
 
-#EXTINF:-1 tvg-id="event-0.27684272645483443" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",United States (ATP Masters Cincinnati Open 2026)
+#EXTINF:-1 tvg-id="event-0.5250713414349517" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",United States (ATP Masters Cincinnati Open 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4248115_english_hls_cd4923856285672_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786891508~_GO=Generated~acl=/mumbai/4248115_english_hls_cd4923856285672_1ta-di_h264/*~Signature=AVMBkTVAzz0cQaZTwBlmoTg2q9_33UfLX86csVYT_ck8gJpaSGbrKQiOfCLvjXwdFJNhTQd-5HOUlLHiULxm9CEE3LUI
 
-#EXTINF:-1 tvg-id="event-0.3459278080454895" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",United States (ATP Masters Cincinnati Open 2026)
+#EXTINF:-1 tvg-id="event-0.0893847236236377" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",United States (ATP Masters Cincinnati Open 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4248116_english_hls_a195ec36e02873_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786898864~_GO=Generated~acl=/mumbai/4248116_english_hls_a195ec36e02873_1ta-di_h264/*~Signature=AVMBkTUDIwoZEEBpIt5dVziUeXWQJXDqtIh_K6Jorp3PUd08UZQ2BLanzg47JyOWghncBI_lNyaqISxtsnxXnevhtR8J
 
-#EXTINF:-1 tvg-id="event-0.14671208043045747" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2026_Web_1080_x_810.jpg",Tennessee (FedEx St. Jude Championship 2026)
+#EXTINF:-1 tvg-id="event-0.3464832965704394" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2026_Web_1080_x_810.jpg",Tennessee (FedEx St. Jude Championship 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4248404_english_hls_23c89b3bfa17494_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786899474~_GO=Generated~acl=/mumbai/4248404_english_hls_23c89b3bfa17494_1ta-di_h264/*~Signature=AVMBkTW_3K5tziu-lSdHSA8J4uGs625W1jQqDrZ3eV3g6Fy3gn9M4tb8Us5J_K75bA0qLq6j80AexA3vHsYrcL_eSyUJ
 
-#EXTINF:-1 tvg-id="event-0.5779190187411405" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",United States (ATP Masters Cincinnati Open 2026)
+#EXTINF:-1 tvg-id="event-0.7809765364662253" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",United States (ATP Masters Cincinnati Open 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4248117_english_hls_9c03e7126085619_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786900703~_GO=Generated~acl=/mumbai/4248117_english_hls_9c03e7126085619_1ta-di_h264/*~Signature=AVMBkTU0Mc26kjml-T2QrMNV_JNjxg6GUiVsh20ne-8_zYv7nmKZq9dVhr0IS61WLMAqgDwrvxbrOSRWp4c1bt3YVHYJ
 
