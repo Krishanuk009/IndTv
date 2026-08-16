@@ -5332,7 +5332,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Rongeen_TV_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=67e52f4bdcfc525898be0446feb7f185:8cf5c24b168105bca24b358eb05f6df4
 #EXTVLCOPT:http-user-agent=IndTv
-#EXTHTTP:{"cookie":"__hdnea__=st=1786784747~exp=1786806347~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=be8da7170afc808b2c9358ac0429707eb132cf8c14d4340781b3685f82352dc1","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1786848080~exp=1786869680~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=76ba69888c3429996da2aebf2b74fa289550d82118f13b60b90197ce673dd189","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1669" tvg-name="Sun Bangla" tvg-logo="" group-title="Bengali",Sun Bangla
@@ -5468,7 +5468,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Hornbill_TV_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=71b2f1f7ceed5d4ab62273dbdc16e3ac:2d42ff5481ea336970c75f938b2e1473
 #EXTVLCOPT:http-user-agent=IndTv
-#EXTHTTP:{"cookie":"__hdnea__=st=1786784746~exp=1786806346~acl=/bpk-tv/ZeeBiskope_BTS/WDVLive/*~hmac=3f750e3bb155bbd3e69c2377457691ffb5a5f38566a258c0477b86cf460e936e","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1786848079~exp=1786869679~acl=/bpk-tv/ZeeBiskope_BTS/WDVLive/*~hmac=b8d93d6798562b625dac6aeccf6e5ba8a86016890b11ccedaf042fbd73c92147","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeBiskope_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1746" tvg-name="Zee Power HD" tvg-logo="" group-title="Kannada",Zee Power HD
@@ -6588,7 +6588,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/SikhRatnavali/HLSPartner/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a19c52e13a755afaa457a3c8488f4822:89dc06fb26e0fc72e9b9a1226073c8a2
 #EXTVLCOPT:http-user-agent=IndTv
-#EXTHTTP:{"cookie":"__hdnea__=st=1786784808~exp=1786806408~acl=/bpk-tv/ZeeZestHD_BTS/WDVLive/*~hmac=4540ae74447a9f9387385f7408640d6655054bee918b5919c5b6eec000c7a4b5","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1786848099~exp=1786869699~acl=/bpk-tv/ZeeZestHD_BTS/WDVLive/*~hmac=b3ec207d3e3bce60b5b192d5d53983fe5b2e2fec2b7838fa482f2ccaa904477f","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeZestHD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="2759" tvg-name="DD North East" tvg-logo="" group-title="Assamese",DD North East
@@ -8212,7 +8212,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Vijay_Takkar_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b7d579e28d45041ba78c3a92f0acc92:fbf33acfca489b1354955cbfb09570b5
 #EXTVLCOPT:http-user-agent=IndTv
-#EXTHTTP:{"cookie":"__hdnea__=st=1786784874~exp=1786806474~acl=/bpk-tv/Star_Movies_Select_BTS/WDVLive/*~hmac=32e2b2559b8b5eb94759333e89cc57c46cb2834bd03726998fe2e6d4ac562237","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1786848149~exp=1786869749~acl=/bpk-tv/Star_Movies_Select_BTS/WDVLive/*~hmac=63e3a674ce86d607f39791a1ebf6a0fe34a1e869482aae3c74d6e0f4d15462d4","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="3279" tvg-name="OM TV" tvg-logo="" group-title="English",OM TV
