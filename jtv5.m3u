@@ -92,7 +92,7 @@ https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc3aafe80845584199a637249fad2ffa:ca4474972fdb4bf8ecb164482853c692
 #EXTVLCOPT:http-user-agent=Virat Paglu
-#EXTHTTP:{"cookie":"__hdnea__=st=1786831165~exp=1786852765~acl=/bpk-tv/Star_Sports_2_BTS/WDVLive/*~hmac=1c725ce2c4be2b60e9691f041f75c266330f24f96c9888bbdc2f6ffa65be1f74","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1786845568~exp=1786867168~acl=/bpk-tv/Star_Sports_2_BTS/WDVLive/*~hmac=5af044ff67848327e72590cff4fd211c22a060f3ee7ab10af2b361db74c8afce","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_2_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="E2HD" tvg-name="Star Sports 2 HD" tvg-logo="" group-title="Sports",Star Sports 2 HD
@@ -108,7 +108,7 @@ https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3ed8dc0e0cb5d238da80ee0a85bd2e1:67a96992e6406606f3480ab58d7f540c
 #EXTVLCOPT:http-user-agent=Virat Paglu
-#EXTHTTP:{"cookie":"__hdnea__=st=1786831165~exp=1786852765~acl=/bpk-tv/StarSports2Hin_BTS/WDVLive/*~hmac=bb66448a67a426f29d5b771f9088b7ab69e695ccd288201f90fce2dd0860993e","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1786845568~exp=1786867168~acl=/bpk-tv/StarSports2Hin_BTS/WDVLive/*~hmac=a2ca1eaf02bf4b4bcb5e4923569aeaef8b6a358fa2f676b379f87cdbe442b9d4","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Hin_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="H2HD" tvg-name="Star Sports 2 Hindi HD" tvg-logo="" group-title="Sports",Star Sports 2 Hindi HD
@@ -116,7 +116,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Hin_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd1ea6a1c1fb5dcdb709434e0826bbc0:f57f22cba32739ce7beb1fab3f3d060b
 #EXTVLCOPT:http-user-agent=Virat Paglu
-#EXTHTTP:{"cookie":"__hdnea__=st=1786831165~exp=1786852765~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=b8ad6211bf74ea57f9b9d3dfbcc3d1762d34f4c6143823b39fb97d3faad87e09","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1786845568~exp=1786867168~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=3abcb28cf1729562fa9cdd00dfa24f83c9616f3a3ec13ca7f3b3d135dabba018","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="SS3" tvg-name="Star Sports 3 SD" tvg-logo="" group-title="Sports",Star Sports 3 SD
@@ -124,7 +124,7 @@ https://jiotvpllive.cdn.jio.com//bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e4e8647eaf0659ac85f61765a5abcdc1:d749c9b27505beb0e1a8b6c30ca65de6
 #EXTVLCOPT:http-user-agent=Virat Paglu
-#EXTHTTP:{"cookie":"__hdnea__=st=1786831165~exp=1786852765~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=730cd1d05fff3c33dc248cf478f80acd3bc5ea24f2f63a12cbd51086861c25c5","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1786845568~exp=1786867168~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=5e327d429869b2f6d3f9eb83bdec2b642020b97209b15a46505acbc7c055ae99","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="SE1" tvg-name="Star Sports Select 1 SD" tvg-logo="" group-title="Sports",Star Sports Select 1 SD
@@ -180,7 +180,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/index.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=200a6dd89c6b5a48b9991d8ab57fc7d2:1f62834669a97e92ea1f3263274853fc
 #EXTVLCOPT:http-user-agent=Virat Paglu
-#EXTHTTP:{"cookie":"__hdnea__=st=1786831165~exp=1786852765~acl=/bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/*~hmac=88e4e40e4c18f584bc19c8576d1243ce5afca2852901f28a12cef9f38a689b1b","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1786845569~exp=1786867169~acl=/bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/*~hmac=b1aa6265d210e0e0ced5ccc1613f2748b852d78edef7ce34123860fbbcac0a45","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="TE1HD" tvg-name="Star Sports 1 Telugu HD" tvg-logo="" group-title="Sports",Star Sports 1 Telugu HD
@@ -188,7 +188,7 @@ https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/index.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5
 #EXTVLCOPT:http-user-agent=Virat Paglu
-#EXTHTTP:{"cookie":"__hdnea__=st=1786831165~exp=1786852765~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/*~hmac=0e958d59998205f33210f31f0d5114c5682217265cd3cb1f79414797898a483e","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1786845569~exp=1786867169~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/*~hmac=938d06a17bb14c991b44408e5bbc58292cf14781217cac2260a26f5e92afb1a8","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="KA1SD" tvg-name="Star Sports 1 Kannada SD" tvg-logo="" group-title="Sports",Star Sports 1 Kannada SD
