@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz" x-billed-message="StreamX"
-# Generated: 18 Aug 2026, 00:58:57
+# Generated: 18 Aug 2026, 01:58:28
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -9196,23 +9196,23 @@ https://yashlivetv.fun/phpdirect.php?id=0-9-zeecafehd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://yashlivetv.fun/phpdirect.php?id=0-9-channel_2105335046
 
-#EXTINF:-1 tvg-id="event-0.5654951587008391" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247472_52993_CAR_WRX_fc-web_1786657253836.jpg",Cardiff City vs Wrexham A.F.C. (EFL Championship 2026-27)
+#EXTINF:-1 tvg-id="event-0.27566318227926834" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247472_52993_CAR_WRX_fc-web_1786657253836.jpg",Cardiff City vs Wrexham A.F.C. (EFL Championship 2026-27)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4247472_english_hls_bc1752fc6183738_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787079128~_GO=Generated~acl=/mumbai/4247472_english_hls_bc1752fc6183738_1ta-di_h264/*~Signature=ARceAWPGKJv0tXJjekhz4c9n9j6N1hP4oTMAAu7PbawgK8uURpaFwg1AfChw92EmgnmPZ920R7T5JeInYmYwU9OTvWkD
 
-#EXTINF:-1 tvg-id="event-0.22835653142950496" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247574_53004_COR_ELC_FC-Web.png",Deportivo de La Coruna vs Elche CF (LALIGA 2026-27)
+#EXTINF:-1 tvg-id="event-0.14724118830505128" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247574_53004_COR_ELC_FC-Web.png",Deportivo de La Coruna vs Elche CF (LALIGA 2026-27)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4247574_english_hls_5b22f5c77a82581_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1787077909~_GO=Generated~acl=/mumbai/4247574_english_hls_5b22f5c77a82581_1ta-di_h264/*~Signature=ARceAWP0CsTEU4LdGYJr9y2sZ9oAZoYV-LKnsgC-jg4uf-4tMoq35E2Q3EknFVwts3kRmrq_vXgroB15nCRF6Scv6G8O
 
-#EXTINF:-1 tvg-id="event-0.37695173731737386" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",United States (ATP Masters Cincinnati Open 2026)
+#EXTINF:-1 tvg-id="event-0.9988578974339568" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",United States (ATP Masters Cincinnati Open 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4248123_english_hls_079996aa1121319_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787064466~_GO=Generated~acl=/mumbai/4248123_english_hls_079996aa1121319_1ta-di_h264/*~Signature=ARceAWMg5kXEk9dW5AIZNPsgUCYpRUpqkdx-vnS9xu4YpsTrYnIV8ZusMkkFwPgBqpXKe5-ddvOqzi2Xb_PsBVf5b8gP
 
-#EXTINF:-1 tvg-id="event-0.7260988559305934" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",United States (ATP Masters Cincinnati Open 2026)
+#EXTINF:-1 tvg-id="event-0.2118401255115433" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",United States (ATP Masters Cincinnati Open 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4248124_english_hls_4b87b954b990993_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787064467~_GO=Generated~acl=/mumbai/4248124_english_hls_4b87b954b990993_1ta-di_h264/*~Signature=ARceAWN89IrGeHwd_WjJzR5cssi_6sWK4rtZm6a7d8VB355ZmlcMqJ8y8umS1mLpFEP5rbfOSsfkefTp03HDmlimzqAB
 
-#EXTINF:-1 tvg-id="event-0.021125962976287993" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",United States (ATP Masters Cincinnati Open 2026)
+#EXTINF:-1 tvg-id="event-0.5689940649697208" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",United States (ATP Masters Cincinnati Open 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4248122_english_hls_3e9dac52ed18957_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787071817~_GO=Generated~acl=/mumbai/4248122_english_hls_3e9dac52ed18957_1ta-di_h264/*~Signature=ARceAWMPFzYRLPK1THfVVxaB6zm8gaelrph1F5PKrseaIltxILwZPrajiF3YbbqdN_4wXTAZC6OVAGlgewiVbRhEDMED
 
