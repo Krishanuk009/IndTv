@@ -90,7 +90,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Vijay_HD_MOB/WDVLive/index.mpd?__hdn
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ab3810fc9505eaf9121202a5acf3656:eab9ac2b629171ed27c105ea62ea4fda
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-http://pkg.uius.live/jplus/1356.mpd
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTamilHD_BTS/WDVLive/index.mpd?__hdnea__=st=1786965871~exp=1786987471~acl=/bpk-tv/ZeeTamilHD_BTS/WDVLive/*~hmac=ffda507c5d9018aabe77bc601d601cf12649d8d25b4639a3ef9e79f2fc96eebe
 
 #EXTINF:-1 tvg-id="674" group-title="Tamil" tvg-logo="https://tatalogo.pages.dev/674.png",Colors Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -129,7 +129,7 @@ https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ecfc67bf2dd54fa84495c4c299c51ec:85337048d7be42ef66f6198a99376fa7
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-http://pkg.uius.live/jplus/3051.mpd
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeThiraiHD_BTS/WDVLive/index.mpd?__hdnea__=st=1786965875~exp=1786987475~acl=/bpk-tv/ZeeThiraiHD_BTS/WDVLive/*~hmac=97389e321116dd12ba71d12fa15ce969392e9c6197fcd7843a5226cf75b85247
 
 #EXTINF:-1 tvg-id="ts1176" group-title="Tamil" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11197-j9i4fbbs-v2/imageContent-11197-j9i4fbbs-m4.png",Vijay Super HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3587,10 +3587,50 @@ http://filex.homes:8080//live/87654321/12345678/507272.ts
 http://filex.homes:8080//live/87654321/12345678/507273.ts
 #EXTINF:-1  tvg-name="Cinemania" tvg-id="24.7.Dummy.us" group-title="Premium 24/7" tvg-logo="https://i.ibb.co/xFrH2L0/1000150257.jpg",Cinemania 4
 http://filex.homes:8080//live/87654321/12345678/533338.ts
-#EXTINF:-1  tvg-name="Tamil cinema" tvg-id="24.7.Dummy.us" group-title="Premium 24/7" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 1
-https://ksr.indevs.in/m3u/?stream=475474
-#EXTINF:-1  tvg-name="Tamil cinema" tvg-id="24.7.Dummy.us" group-title="Premium 24/7" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 2
-https://ksr.indevs.in/m3u/?stream=3609
+
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL MOVIES 2025" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/72145.png" group-title="Premium 24/7",TAMIL MOVIES 2025
+https://fusion4k.psrutube.workers.dev/475474.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL MOVIES 2024" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/72146.png" group-title="Premium 24/7",TAMIL MOVIES 2024
+https://fusion4k.psrutube.workers.dev/475475.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL MOVIES 2020 - 2023" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/72147.png" group-title="Premium 24/7",TAMIL MOVIES 2020 - 2023
+https://fusion4k.psrutube.workers.dev/475476.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL BOX OFFICE" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/72148.png" group-title="Premium 24/7",TAMIL BOX OFFICE
+https://fusion4k.psrutube.workers.dev/475477.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL ALL TIME HIT MOVIES" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3607.png" group-title="Premium 24/7",TAMIL ALL TIME HIT MOVIES
+https://fusion4k.psrutube.workers.dev/3607.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL DUBBED MOVIES" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3608.png" group-title="Premium 24/7",TAMIL DUBBED MOVIES
+https://fusion4k.psrutube.workers.dev/3608.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL ACTION MOVIES" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3609.png" group-title="Premium 24/7",TAMIL ACTION MOVIES
+https://fusion4k.psrutube.workers.dev/3609.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL CRIME MOVIES" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3611.png" group-title="Premium 24/7",TAMIL CRIME MOVIES
+https://fusion4k.psrutube.workers.dev/3611.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL ROMANTIC MOVIES" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3613.png" group-title="Premium 24/7",TAMIL ROMANTIC MOVIES
+https://fusion4k.psrutube.workers.dev/3613.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL SUSPENCEFUL MOVIES" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3614.png" group-title="Premium 24/7",TAMIL SUSPENCEFUL MOVIES
+https://fusion4k.psrutube.workers.dev/3614.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL THRILLER MOVIES" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/3612.png" group-title="Premium 24/7",TAMIL THRILLER MOVIES
+https://fusion4k.psrutube.workers.dev/3612.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K TAMIL NEW SERIES" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77361.jpg" group-title="Premium 24/7", Tamil New Series
+https://fusion4k.psrutube.workers.dev/481003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tamil Web Series 1" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77363.jpg" group-title="Premium 24/7",Tamil Web Series 1
+https://fusion4k.psrutube.workers.dev/481005.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tamil Web Series 2" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77364.jpg" group-title="Premium 24/7",Tamil Web Series 2
+https://fusion4k.psrutube.workers.dev/481006.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tamil Web Series 3" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77365.jpg" group-title="Premium 24/7",Tamil Web Series 3
+https://fusion4k.psrutube.workers.dev/481007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tamil Web Series 4" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77366.jpg" group-title="Premium 24/7",Tamil Web Series 4
+https://fusion4k.psrutube.workers.dev/481008.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tamil Web Series 5" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77367.jpg" group-title="Premium 24/7",Tamil Web Series 5
+https://fusion4k.psrutube.workers.dev/481009.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tamil Web Series 6" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77368.jpg" group-title="Premium 24/7",Tamil Web Series 6
+https://fusion4k.psrutube.workers.dev/481010.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tamil Web Series 7" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77369.jpg" group-title="Premium 24/7",Tamil Web Series 7
+https://fusion4k.psrutube.workers.dev/481011.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K HINDI OTT TAMIL DUBBED" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77370.jpg" group-title="Premium 24/7",HINDI OTT TAMIL DUBBED
+https://fusion4k.psrutube.workers.dev/481012.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K ENGLISH OTT TAMIL DUBBED" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77371.jpg" group-title="Premium 24/7",ENGLISH OTT TAMIL DUBBED
+https://fusion4k.psrutube.workers.dev/481013.m3u8
+
 #EXTINF:-1  tvg-name="Tamil cinema" tvg-id="24.7.Dummy.us" group-title="Premium 24/7" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 3
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:EE:CB&stream=734174&extension=ts
 #EXTINF:-1  tvg-name="Tamil cinema" tvg-id="24.7.Dummy.us" group-title="Premium 24/7" tvg-logo="https://i.ibb.co/YcKWQVq/IMG-20241103-191826.jpg",Tamil Cinema HD 4
