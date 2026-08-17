@@ -7,7 +7,7 @@
     "keyId": "71719eea0bbb5319a4e854ac52ea7871",
     "key": "752ed8f45c43ed858af4c1716c05241a",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png",
-    "cookie": "Error: No Token found (Status 520)",
+    "cookie": "Error: No Token found (Status 404)",
     "expire_time": ""
   },
   {
@@ -18,7 +18,7 @@
     "keyId": "ab947ddbb9795d38bff35597b4f73108",
     "key": "2671e22eb7dc174c35b6aad4b113f7b0",
     "logo": "https://jiotv.catchup.cdn_jio.com/dare_images/images/Sports18_Khel.png",
-    "cookie": "Error: No Token found (Status 520)",
+    "cookie": "Error: No Token found (Status 404)",
     "expire_time": ""
   },
   {
@@ -40,7 +40,7 @@
     "keyId": "509216860f8e594aaf7e921296f53851",
     "key": "536df1e35e2bb055be0117b51db8139c",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZeeTalkies.png",
-    "cookie": "Error: No Token found (Status 520)",
+    "cookie": "Error: No Token found (Status 404)",
     "expire_time": ""
   },
   {
@@ -51,7 +51,7 @@
     "keyId": "fa2af2feb3395a7b8b931bd772683831",
     "key": "411e7ecb174921ff97cc0162c2372c69",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZeeYuva.png",
-    "cookie": "Error: No Token found (Status 522)",
+    "cookie": "Error: No Token found (Status 404)",
     "expire_time": ""
   },
   {
@@ -62,7 +62,7 @@
     "keyId": "a881e2bda4785fecbd13e50e6e3ba530",
     "key": "3e27c8b04a620f1094bcbfdf0472c744",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZeeAction.png",
-    "cookie": "Error: No Token found (Status 520)",
+    "cookie": "Error: No Token found (Status 404)",
     "expire_time": ""
   },
   {
@@ -139,7 +139,7 @@
     "keyId": "a4ca77c81bc556d994f7ecbee3bcbd20",
     "key": "dade64f6771f47a113f6cfdf67606cd0",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZeeClassicSD.png",
-    "cookie": "Error: No Token found (Status 520)",
+    "cookie": "Error: No Token found (Status 404)",
     "expire_time": ""
   },
   {
@@ -227,7 +227,7 @@
     "keyId": "817e28c7f03456f1ae7383f244853b2b",
     "key": "7c03f916ec20cfd68f0a6a5735c6aaca",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZeeTeluguHD.png",
-    "cookie": "Error: No Token found (Status 520)",
+    "cookie": "Error: No Token found (Status 404)",
     "expire_time": ""
   },
   {
