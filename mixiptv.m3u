@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz" x-billed-message="StreamX"
-# Generated: 19 Aug 2026, 02:55:41
+# Generated: 19 Aug 2026, 03:54:50
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -9196,11 +9196,11 @@ https://yashlivetv.fun/phpdirect.php?id=0-9-zeecafehd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://yashlivetv.fun/phpdirect.php?id=0-9-channel_2105335046
 
-#EXTINF:-1 tvg-id="event-0.3745277054128978" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",United States (ATP Masters Cincinnati Open 2026)
+#EXTINF:-1 tvg-id="event-0.10341878423346162" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",United States (ATP Masters Cincinnati Open 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4248127_english_hls_51ebb2812247506_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787150902~_GO=Generated~acl=/mumbai/4248127_english_hls_51ebb2812247506_1ta-di_h264/*~Signature=ARceAWPqasiefYeUdd1kGIwigC8NM1VVzlbQ7VotOAAU7rYHpAfNhg3PBcHVfRg_Fhtbzug5_JOodNcfOSsb_WHciNoL
 
-#EXTINF:-1 tvg-id="event-0.08502978677332795" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",United States (ATP Masters Cincinnati Open 2026)
+#EXTINF:-1 tvg-id="event-0.9190461179001128" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",United States (ATP Masters Cincinnati Open 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4248129_english_hls_0e2f429a1350115_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787156412~_GO=Generated~acl=/mumbai/4248129_english_hls_0e2f429a1350115_1ta-di_h264/*~Signature=ARceAWPbk6xA6OOTjY3NqzSC8M9plIMAiQ5ePdmnM4mamJ51l2r7u5LiXJWBMbqFr-j8gtfJL4Xq4RrrFDWEgEW5E54N
 
