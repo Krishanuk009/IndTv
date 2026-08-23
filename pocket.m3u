@@ -709,7 +709,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://tataprime.files.wordpress.com/2024/05/20240513_0718037281702601479724023.png" group-title="Sports", Sky Sports Cricket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21
-https://leaf.highfly.dev/m3u/now-sky-sports-cricket/live.m3u8
 https://7nyaler.streamhostingcdn.top/stream/10/master.m3u8
 #http://ae325328.ucomist.net/iptv/Z3SWF9EL3YPX5N/9258/index.m3u8
 
@@ -747,11 +746,8 @@ https://playztv-apps.pages.dev/asports/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amq001/tapmad/refs/heads/main/public/tapmadLogo.png" group-title="Sports",Tapmad
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports", TveSports
-https://livetv.mahotsavtv.com/trinityvision/tvesports/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51am3fgD1lL.png" group-title="Sports", ATN Sports
-https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/PK%20Sports.jpeg" group-title="Sports", PK Sports
+https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 
 ------
 
@@ -1535,10 +1531,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
 ================================LOCAL CHANNELS================================
 
 
-#EXTINF:-1 tvg-logo="" group-title="Local Channels",D TV
+#EXTINF:-1 tvg-logo="https://d6pro.in/uploads/tv_image/dtv.png" group-title="Local Channels",D TV
 https://stream.d6-pro.com/Dtv/live/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Local Channels",D BHAKTHI TV
-https://stream.d6-pro.com/Dbhakhi/live/index.m3u8
 #EXTINF:-1 tvg-id="MeiAlaiTV" tvg-logo="https://www.meialai.in/logo.png" group-title="Local Channels",Mei Alai TV
 https://thendralstream.in/Meialaitv/meihd/index.m3u8
 #EXTINF:-1 tvg-id="AnandamAbiTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/AnandamAbiTV.png" tvg-region="Madurai" group-title="Local Channels",Anandam Abi TV
@@ -1581,6 +1575,8 @@ https://stream.ottlive.co.in/suriyantvtamil/index.m3u8
 https://mumt04.tangotv.in/m18aqlK4TAMILRATNAM/index.m3u8
 #EXTINF:-1 tvg-id="OMTV" tvg-logo="" tvg-region="Unknown" group-title="Local Channels",OM TV
 http://198.144.158.33:8888/TAMIL-TV_OMTV_LIVE_Transcoder/index.m3u8
+#EXTINF:-1 tvg-logo="https://d6pro.in/uploads/tv_image/dbhakti.jpg" group-title="Local Channels",D BHAKTHI TV
+https://stream.d6-pro.com/Dbhakhi/live/index.m3u8
 
 
 LIVEBOX
@@ -1589,8 +1585,6 @@ LIVEBOX
 https://account18.livebox.co.in/IMAGESEQUENCEhls/live.m3u8
 #EXTINF:-1  tvg-name="Irattai Pathai Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_2114196845832868490079177.png",Irratai Pathai Tv
 https://account31.livebox.co.in/IRATTAIPAATHAITVhls/live.m3u8
-#EXTINF:-1  tvg-name="Vidiyal Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240301_0038213835560881142704349.jpg",Vidiyal Tv
-https://account11.livebox.co.in/vidyaltvhls/live.m3u8
 #EXTINF:-1 tvg-id="TharunMovies" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739599242_IMG_20250215_111845_234.png" tvg-region="Chengalpattu" group-title="Local Channels",Tharun Movies
 https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
 #EXTINF:-1 tvg-id="7Green4K" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739599670_IMG_20250215_113627_583.png" tvg-region="Chengalpattu" group-title="Local Channels",7 Green 4K
@@ -1607,8 +1601,6 @@ https://live.yettelevision.com:5443/LiveApp/streams/T7mQx9LpV2Nc8HdRw5Ka.m3u8
 https://stream6.livebox.co.in/manasutvhls/live.m3u8
 #EXTINF:-1  tvg-name="Annai" group-title="Local Channels" tvg-logo="https://i.ibb.co/F4htQDVY/Annai-TVHD.jpg",Annai TV
 https://annainew.livebox.co.in/annailivehls/live.m3u8
-#EXTINF:-1  tvg-name="Annai" group-title="Local Channels" tvg-logo="https://i.ibb.co/BhR84nG/Annai-Tamil-HD.jpg",Annai Tamil
-https://annainew.livebox.co.in/annaitamilhls/live.m3u8
 #EXTINF:-1  tvg-name="7star" group-title="Local Channels" tvg-logo="https://i.ibb.co/C3gpVrps/7-Star-Television.jpg",7Star TV
 https://annainew.livebox.co.in/7startvhls/livestream.m3u8
 #EXTINF:-1  tvg-name="Annai" group-title="Local Channels" tvg-logo="https://i.ibb.co/Zp4nBKwg/Amma-TV.jpg",Amma Tv
@@ -1650,6 +1642,8 @@ https://ipcloud.live/nilatvsvg/nilatv/index.m3u8
 https://ipcloud.live/riotv/riotvhd/index.m3u8
 #EXTINF:-1 tvg-id="ShaliniTVTiruvannamalai" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746462375_WhatsApp_Image_2025-05-05_at_8.18.04_PM-removebg-preview.png&w=1080&q=75" group-title="Local Channels",Shalini TV Tiruvannamalai
 https://ipcloud.live/shalinitv/shalinitv/index.m3u8
+#EXTINF:-1 tvg-id="SachinMusic" tvg-name="" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1736158383_Comp%201_00075.png" tvg-region="Sambavarvadakarai" group-title="Music",Sachin Music
+https://ipcloud.live/sachintv/musichd/index.m3u8
 #EXTINF:-1  tvg-name="Veera Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240330_1043373423456639852726320.png",Veera Tv
 https://ipcloud.live/veeratv/veeratvhd/index.m3u8
 #EXTINF:-1  tvg-name="Veera Tv" group-title="Local Channels" tvg-logo="",Mathan Tv
@@ -1924,6 +1918,8 @@ https://app.xstream.onecloudlive.in/abinayatv/abinayatv/index.m3u8
 https://stream.onecloudlive.in/righttv/live/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local Channels", NILA TV PANNUR
 https://live.olidigital.in/nilatv/nilatv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Local Channels", Adhir Alai
+https://hlsstream.olidigital.in/adhiralaitv/adhiralaitv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local Channels", KNR TV
 http://stream.onecloudlive.in/knrtv/knrtvhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rp4mXZK.jpg" group-title="Local Channels", GTV
