@@ -9,7 +9,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.net/mix/allowipmpd_key.php?id=chlajabsdk
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3Yf3PHX/DRMLIVE-Aggressive-Logo.png" group-title="1-Playlist-Activation",Activate Playlist
-https://mix.drmlive.net/mix/actchaljabsdk.mpd?token=YWJTTzZKeWI2amJwZ3FJY0hHb1RNNkoxUjlNSTdDRFF6aHFQRFpmN2Nyb3ROdGdkSHI4WmFWbTNGeXNDbGVkMDl5aytMcWowVHJMb29OVGhUT2xqcWc9PQ==
+https://mix.drmlive.net/mix/actchaljabsdk.mpd?token=YWJTTzZKeWI2amJwZ3FJY0hHb1RNenBHU3dwbWUyaVZmN2NtaGlrRFo4cEZtNXlpRGQxQkRxVnlQd041NDdrbldGQk5GWlFBVEdjaEdTeW5tRVZNVnc9PQ==
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.net/tp/sling_ck?id=2152
@@ -108,6 +108,27 @@ https://mix.drmlive.net/mix/primevwcb2.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_7iNmiXwS-57BOkHtqkXQdZL7PWxs5mXLnTgSD7XNGP8iLlfX7Y-TKlE&s" group-title="Cricket", Willow by Cricbuzz Event 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.5563.58 Mobile Safari/537.36
 https://mix.drmlive.net/mix/primevwcb3.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.net/mix/primevwcb4.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_7iNmiXwS-57BOkHtqkXQdZL7PWxs5mXLnTgSD7XNGP8iLlfX7Y-TKlE&s" group-title="Cricket", Willow by Cricbuzz Event 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.5563.58 Mobile Safari/537.36
+https://mix.drmlive.net/mix/primevwcb4.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.net/mix/primevwcb5.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_7iNmiXwS-57BOkHtqkXQdZL7PWxs5mXLnTgSD7XNGP8iLlfX7Y-TKlE&s" group-title="Cricket", Willow by Cricbuzz Event 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.5563.58 Mobile Safari/537.36
+https://mix.drmlive.net/mix/primevwcb5.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.net/mix/primevwcb6.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_7iNmiXwS-57BOkHtqkXQdZL7PWxs5mXLnTgSD7XNGP8iLlfX7Y-TKlE&s" group-title="Cricket", Willow by Cricbuzz Event 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.5563.58 Mobile Safari/537.36
+https://mix.drmlive.net/mix/primevwcb6.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3143,6 +3164,8 @@ https://mix.drmlive.net/mix/playboxtv.m3u8?id=621146662
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=737367535
 #EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/318296789.jpeg" group-title="News",22 Scope
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=318296789
+#EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/349456337.jpeg" group-title="News",Kashish News
+https://mix.drmlive.net/mix/playboxtv.m3u8?id=349456337
 #EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-100041780576198942.png" group-title="News",JAN TV
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-10004
 #EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-10511780576971277.png" group-title="News",BANSAL NEWS
@@ -3443,8 +3466,6 @@ https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-993
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-1453
 #EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/976549907.jpg" group-title="Entertainment",BCN Channel
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=976549907
-#EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/746504243.jpeg" group-title="Entertainment",SS TV
-https://mix.drmlive.net/mix/playboxtv.m3u8?id=746504243
 #EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/699110417.jpeg" group-title="Entertainment",Asianet Me
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=699110417
 #EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-100191780576799097.png" group-title="Entertainment",SPONDON
@@ -3519,8 +3540,6 @@ https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-1462
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-1482
 #EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-14991780576269252.png" group-title="Entertainment",ORANGE BANGLA
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-1499
-#EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-15131780575018760.png" group-title="Entertainment",SAFARI
-https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-1513
 #EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-15261780575701706.png" group-title="Entertainment",TV5 KANNADA
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-1526
 #EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-9651780575372772.png" group-title="Entertainment",NIREEKSHANA TV
@@ -3659,8 +3678,6 @@ https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-1293
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=698423057
 #EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/pishow-433.png" group-title="Music",MK TUNES
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-433
-#EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/417554543.jpeg" group-title="Music",Pure Punjabi TV
-https://mix.drmlive.net/mix/playboxtv.m3u8?id=417554543
 #EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/417344236.jpeg" group-title="Music",Only Music
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=417344236
 #EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/417479419.jpeg" group-title="Music",Just In
