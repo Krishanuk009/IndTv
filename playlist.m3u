@@ -9,7 +9,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.net/mix/allowipmpd_key.php?id=chlajabsdk
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3Yf3PHX/DRMLIVE-Aggressive-Logo.png" group-title="1-Playlist-Activation",Activate Playlist
-https://mix.drmlive.net/mix/actchaljabsdk.mpd?token=YWJTTzZKeWI2amJwZ3FJY0hHb1RNenBHU3dwbWUyaVZmN2NtaGlrRFo4cEZtNXlpRGQxQkRxVnlQd041NDdrbldGQk5GWlFBVEdjaEdTeW5tRVZNVnc9PQ==
+https://mix.drmlive.net/mix/actchaljabsdk.mpd?token=YWJTTzZKeWI2amJwZ3FJY0hHb1RNK3VLVHBQTXpXWFdEZUpiUEt5N2pyNmVVTHJzUWMvSUdscFJHQ2ozUnBLNGozd1Fkd1BFcXN2MCtVWVZicnRtOGc9PQ==
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.net/tp/sling_ck?id=2152
@@ -253,7 +253,7 @@ https://mix.drmlive.net/mix/star-6.m3u8
 https://mix.drmlive.net/mix/star-6.m3u8?audio=hin
 
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp" group-title="Cricket",Sony Ten Cricket
-https://bd.drmlive.net/toffee/cdn/live/ten_cricket/playlist.m3u8
+#https://bd.drmlive.net/toffee/cdn/live/ten_cricket/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/drmlive/mix/refs/heads/main/fancode.png" group-title="Cricket",Fancode Event 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
@@ -378,7 +378,7 @@ https://mix.drmlive.net/mix/engsonysab.mpd
 https://la.drmlive.net/tp/sliv-sony.m3u8
 
 #EXTINF:-1 tvg-id="ts559" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12081-j9oc38xc-v8/imageContent-12081-j9oc38xc-m7.png" group-title="Entertainment",SONY SAB (toffee)
-https://bd.drmlive.net/toffee/cdn/live/sonysab_hd/playlist.m3u8
+#https://bd.drmlive.net/toffee/cdn/live/sonysab_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment",SONY SAB HD
 https://la.drmlive.net/tp/sliv-sab.m3u8
