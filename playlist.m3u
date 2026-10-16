@@ -9,7 +9,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.net/mix/allowipmpd_key.php?id=chlajabsdk
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3Yf3PHX/DRMLIVE-Aggressive-Logo.png" group-title="1-Playlist-Activation",Activate Playlist
-https://mix.drmlive.net/mix/actchaljabsdk.mpd?token=YWJTTzZKeWI2amJwZ3FJY0hHb1RNMkRUdzZOa3hYNkRITXcxTmNuMStUNTE3Y2ZBUVZOajRsRTBmS3dDMmc4cTFaUERqdnovbkVIYmNQaFR3Ukx5d1E9PQ==
+https://mix.drmlive.net/mix/actchaljabsdk.mpd?token=YWJTTzZKeWI2amJwZ3FJY0hHb1RNNHZpTHFiVEYva0NvUWxxckRYaktJNmxPVk00TGZIQURFcW5wc2sxOEdCais1anJBMEt0ZENLeG0rbnN4b042bEE9PQ==
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.net/tp/sling_ck?id=2152
@@ -3425,6 +3425,8 @@ https://mix.drmlive.net/mix/playboxtv.m3u8?id=847222954
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=847274749
 #EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/193741663.jpeg" group-title="News",Indo Canada TV
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=193741663
+#EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/138142179.png" group-title="News",Today punjab 24 channel
+https://mix.drmlive.net/mix/playboxtv.m3u8?id=138142179
 #EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/compressed/7681970951790838640961.jpg" group-title="News",Indian News Gujarat
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=768197095
 #EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-10546.jpg" group-title="News",GOOD NEWS TODAY
