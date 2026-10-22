@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 22/10/2026, 04:19:37
+# Generated: 22/10/2026, 06:30:57
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -8598,4 +8598,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="ev-0.844978579262809" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249665_53087_TAS_VCT_FC-WEB_1791295173197.jpg",2026/27 [English]
+https://in-mc-flive.fancode.com/mumbai/4249665_english_hls_910773056329761_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792711464~_GO=Generated~acl=/mumbai/4249665_english_hls_910773056329761_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c1e931dc-9758-45~Signature=ASgJGVCv8yjFKIS9KcTs16MsTYY4TSHjszA48MXf8R5pxpkhhf9kmq1z1jRSo3Hv3SqhUX8R3eNGB5U6qycLzUiQUjsH
 
