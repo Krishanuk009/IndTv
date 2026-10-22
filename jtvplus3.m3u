@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 22/10/2026, 23:11:18
+# Generated: 23/10/2026, 02:22:56
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -8599,21 +8599,12 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.34446483564431973" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250481_53130_SHA_ABD_fc-web_1792412929288.jpg",2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250481_english_hls_b5ed5279eb83693_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1792772673~_GO=Generated~acl=/mumbai/4250481_english_hls_b5ed5279eb83693_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_828f4aeb-b385-4d~Signature=ASgJGVAsCQuu3iXP9r1X-lBQqB4DzmhtXOGf-7Twp3l44OQ5oFb3_BXah-Ri0zbCagvKYt8e900GNhZR3XMVYhN-xosL
+#EXTINF:-1 tvg-id="ev-0.36143757773627805" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791244113649235_UEL2627_MD3_Bournemouth_vs_Milan_landscape_thumb.jpg",Bournemouth vs Milan - 23 Oct 2026 [ENG] - UEFA Europa League 2026-27
+https://sonydaime.akamaized.net/hls/live/2120302/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792745295~acl=/*~id=09172681696810518070227640840284~hmac=c917df3de7be1e9208e2514fc5095da4991dacc4e5f830223b509303568d7a61
 
-#EXTINF:-1 tvg-id="ev-0.9965631834100693" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg",BWF Super 750 - French Open 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250154_english_hls_3c611f41f696154_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792748427~_GO=Generated~acl=/mumbai/4250154_english_hls_3c611f41f696154_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4cf53f19-7091-44~Signature=ASgJGVAhRKk-Sw-svZSWJFVUT4KaPSa-Uoy0FjcrhALthYYERUVHKfqNvU01GjoVZNCbDLAe3TDhax4G49zgTWrSarkH
+#EXTINF:-1 tvg-id="ev-0.9731033479546521" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791245711395235_UEL2627_MD3_Besiktas_vs_Crystal_Palace_landscape_thumb.jpg",Beşiktaş vs Crystal Palace - 23 Oct 2026 [ENG] - UEFA Europa League 2026-27
+https://sonydaime.akamaized.net/hls/live/2018458/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792745295~acl=/*~id=09172681696810518070227640840284~hmac=c917df3de7be1e9208e2514fc5095da4991dacc4e5f830223b509303568d7a61
 
-#EXTINF:-1 tvg-id="ev-0.17521022359518323" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249617_english_hls_a8e888094b44085_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792756308~_GO=Generated~acl=/mumbai/4249617_english_hls_a8e888094b44085_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_74d33aec-83cc-45~Signature=ASgJGVAl6ZBZORSemJvz-swby9kFaKkIkxIeOuoEqYUnKHO-zcArS1OZKRkuoPT9nOGKdmmwE5XxuSE7OMCVHdgUWJwF
-
-#EXTINF:-1 tvg-id="ev-0.04122877878461273" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Butterfield-bermuda-golf_Web-match-card.png",Butterfield Bermuda Championship 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250351_english_hls_d172a73f9981710_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792770857~_GO=Generated~acl=/mumbai/4250351_english_hls_d172a73f9981710_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_88d0fe81-c180-43~Signature=ASgJGVAOrSZMk3AZTnozmns0RRHmnt8rZviZ7sYOaN82oREee5Iv3nnkfYRPmfd-GrPRQV-dQI2dA6fnmoyUnz1dXRIC
-
-#EXTINF:-1 tvg-id="ev-0.002270584851895796" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026477/1792131894013184_UECL_26_MD2_Jablonec-vs-Brighton_live_landscape_thumb.jpg",Jablonec vs Brighton - 22 Oct 2026 [ENG] - UEFA Conference League 2026-27
-https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792733775~acl=/*~id=28250572815279475930423922314396~hmac=46e0f6d4a84dfe30296faeb98a4a30753a24d935c9f1f1d60a0ea469a9a06936
-
-#EXTINF:-1 tvg-id="ev-0.8702735247016016" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026937/179261767506469_STCL26_mumbai_vs_tamilnadu_landscape_thumb.jpg",Mumbai Mavericks vs Tamilnadu Thunders - 22 Oct 2026 [HIN] - Salute Tiranga Cricket League (STCL) 2026
-https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792733775~acl=/*~id=28250572815279475930423922314396~hmac=46e0f6d4a84dfe30296faeb98a4a30753a24d935c9f1f1d60a0ea469a9a06936
+#EXTINF:-1 tvg-id="ev-0.519046246709426" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026498/1792147436477574_UECL_26_MD2_Ajax-vs-Atalanta_live_landscape_thumb.jpg",Ajax vs Atalanta - 23 Oct 2026 [ENG] - UEFA Conference League 2026-27
+https://sonydaime.akamaized.net/hls/live/2118669/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792745295~acl=/*~id=09172681696810518070227640840284~hmac=c917df3de7be1e9208e2514fc5095da4991dacc4e5f830223b509303568d7a61
 
