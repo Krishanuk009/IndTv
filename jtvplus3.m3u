@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 23/10/2026, 07:35:23
+# Generated: 23/10/2026, 13:28:48
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -8599,6 +8599,21 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.6429340340633586" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Australiaold-match-card.png",GRAND PRIX OF AUSTRALIA 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/139978_english_hls_907152588e45860_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1792792145~_GO=Generated~acl=/mumbai/139978_english_hls_907152588e45860_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_bcb69c1d-6c02-48~Signature=ASgJGVAlIy2IX1vRc4jI2KUbWSzCHwGDvaD5FGurbflYFxtf_t2CBJiG2bylEovA6nDBUb7RdyhBqioiiAtHQsD3yLYA
+#EXTINF:-1 tvg-id="ev-0.6117489313849004" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png",ATP 250 - Almaty Open 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4249611_english_hls_b8e15a815945358_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792823057~_GO=Generated~acl=/mumbai/4249611_english_hls_b8e15a815945358_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_152cd9af-cb08-49~Signature=ASgJGVAiwukhY1oeHtXbq8XPyng9qD6knaBDo0KWMUUQVDpDJZHSdObzvPakF1iHIGH_2nQtqQ0hx59rMpVCU-NyUgUJ
+
+#EXTINF:-1 tvg-id="ev-0.3245774632434948" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg",BWF Super 750 - French Open 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792826688~_GO=Generated~acl=/mumbai/4250156_english_hls_eaffc4881757714_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_474f33f8-e3c2-4a~Signature=ASgJGVAx2Q4S4JMWRnzlEse8JiyUvpwA489VT2hD-4vKwVXChUfZBC5ZheNzS7E00HBDXcLUewofkzYBCt5uTOKxwGQH
+
+#EXTINF:-1 tvg-id="ev-0.7572023893844471" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg",BWF Super 750 - French Open 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250157_english_hls_5b7e4a7fb27605_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792826689~_GO=Generated~acl=/mumbai/4250157_english_hls_5b7e4a7fb27605_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_4262585e-716c-4b~Signature=ASgJGVArt-JiXDHEvi50fc6ftqELwvTkLHiHkfLITMABTie_4mW2qWTD-J-cxnsikzQbadxu-Dkv8uTg15WFpW6_Br4H
+
+#EXTINF:-1 tvg-id="ev-0.361776692898936" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792418899640732_STCL_Punjab-Falcons-vs-UP-Dhurandhar_live_landscape_thumb.jpg",Punjab Falcons vs UP Dhurandhar - 23 Oct 2026 [HIN] - Salute Tiranga Cricket League (STCL) 2026
+https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792785299~acl=/*~id=72218170799422391746061241155428~hmac=2d4943d823aed9ebaf29eba04720eabfe652d4809bfee4fbd8f63070e34df102
+
+#EXTINF:-1 tvg-id="ev-0.6155360542101505" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055341445141_Asian-Tour_LINK-Hong-Kong-Open_D2_live_landscape_thumb.jpg",LINK Hong Kong Open - Day 2 - 23 Oct 2026 [ENG] - Asian Tour 2026
+https://sonydaime.akamaized.net/hls/live/2120299/Golf_LIN2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792785299~acl=/*~id=72218170799422391746061241155428~hmac=2d4943d823aed9ebaf29eba04720eabfe652d4809bfee4fbd8f63070e34df102
+
+#EXTINF:-1 tvg-id="ev-0.11380745874307396" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611478125924_DP-World_Genesis-Championship_D2_live_landscape_thumb.jpg",Genesis Championship - Day 2 - 23 Oct 2026 [ENG] - DP World Tour
+https://sonydaime.akamaized.net/hls/live/2120301/Golf_Gen2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792785299~acl=/*~id=72218170799422391746061241155428~hmac=2d4943d823aed9ebaf29eba04720eabfe652d4809bfee4fbd8f63070e34df102
 
