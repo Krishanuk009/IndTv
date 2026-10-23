@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 23/10/2026, 05:12:14
+# Generated: 23/10/2026, 07:35:23
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -8599,6 +8599,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.9718446748131048" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Australiaold-match-card.png",GRAND PRIX OF AUSTRALIA 2026 [English]
+#EXTINF:-1 tvg-id="ev-0.6429340340633586" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Australiaold-match-card.png",GRAND PRIX OF AUSTRALIA 2026 [English]
 https://in-mc-flive.fancode.com/mumbai/139978_english_hls_907152588e45860_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1792792145~_GO=Generated~acl=/mumbai/139978_english_hls_907152588e45860_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_bcb69c1d-6c02-48~Signature=ASgJGVAlIy2IX1vRc4jI2KUbWSzCHwGDvaD5FGurbflYFxtf_t2CBJiG2bylEovA6nDBUb7RdyhBqioiiAtHQsD3yLYA
 
