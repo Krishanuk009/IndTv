@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 24/10/2026, 13:08:30
+# Generated: 24/10/2026, 17:46:15
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -8599,39 +8599,27 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.4926329728566422" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249282_53072_WAU_NSW_FC-Web.jpg",2026/27 [English]
+#EXTINF:-1 tvg-id="ev-0.9689872949323546" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249282_53072_WAU_NSW_FC-Web.jpg",2026/27 [English]
 https://in-mc-flive.fancode.com/mumbai/4249282_english_hls_43ae1cf2385812_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792907589~_GO=Generated~acl=/mumbai/4249282_english_hls_43ae1cf2385812_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_244f951a-2254-4c~Signature=ASgJGVDniEiDt7EtGWMqXxOmf5SVRoq5FnZDuCxUcU-cYD8joGiVZgQm8NLWUFy01GKiWljioZErPe5LQlxpzCXFWTwM
 
-#EXTINF:-1 tvg-id="ev-0.9032298465819285" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",ICC CWC Challenge League A 2026 [English]
+#EXTINF:-1 tvg-id="ev-0.6166173341031479" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",ICC CWC Challenge League A 2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4250339_english_hls_f94881589528837_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792910013~_GO=Generated~acl=/mumbai/4250339_english_hls_f94881589528837_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_2a6f21eb-31c8-4b~Signature=ASgJGVC82batzUCt7H11R3LnFzH6FlVy3t22NPaErQxFm2zFuhMGfa6Dn6NNldi-hnRd3Xf_yYmar7rSzbe2v91-DQMO
 
-#EXTINF:-1 tvg-id="ev-0.8238577721587511" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",ICC CWC Challenge League A 2026 [English]
+#EXTINF:-1 tvg-id="ev-0.21422329786207273" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",ICC CWC Challenge League A 2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792910014~_GO=Generated~acl=/mumbai/4250340_english_hls_ba610ffa8719836_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0a567ef6-edab-4f~Signature=ASgJGVCvUf8QZQKW3N6Tsz8oLCyIOuP-VArhQJSUwPiJlHytZyWlESIcZJ6-vpCJXI_0Qt_JCNro_hNb-FHgnNPuhxQL
 
-#EXTINF:-1 tvg-id="ev-0.8032482920388266" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg",2026 [English]
+#EXTINF:-1 tvg-id="ev-0.4960964824514753" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg",2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4250332_english_hls_1aa599cf365384_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792911831~_GO=Generated~acl=/mumbai/4250332_english_hls_1aa599cf365384_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_1449d916-3251-4c~Signature=ASgJGVDtOG7rBHiN37qweSUJeC48Jp9K31k3k6HSmgaLX7CA1hxxQr2CPXP7hKpeqhwBoh1zJoxzVuUWsD1GhLwOgqoI
 
-#EXTINF:-1 tvg-id="ev-0.002810561769896691" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249842_53101_SYW_AFC_fc-Web_1792223292033.jpg",A-League 2026-27 [English]
-https://in-mc-flive.fancode.com/mumbai/4249842_english_hls_a1fed7bbe836144_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792907590~_GO=Generated~acl=/mumbai/4249842_english_hls_a1fed7bbe836144_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_698d1d1a-76f7-45~Signature=ASgJGVAZhOHAgVDiZeKi6t9HznZj6T3rSRpR8J0Zjlh29ytE9dASsa6dWKYsGg8UrikOnV1hkAnjiDcD_xdOTzNfO_wB
+#EXTINF:-1 tvg-id="ev-0.0038246373657395694" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249598_52993_CHL_NOR_fc-web.jpg",EFL Championship 2026-27 [English]
+https://in-mc-flive.fancode.com/mumbai/4249598_english_hls_9b604f07bf73738_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792926967~_GO=Generated~acl=/mumbai/4249598_english_hls_9b604f07bf73738_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_bcfa5e4b-1162-42~Signature=ASgJGVBcygaNPp4YXcs6WIDeKnuZhwwuO27akBvvlSwpcxu_CXSEiQgPVIk38u983Alf10h399Jwv1sEB05XfBcFmwkK
 
-#EXTINF:-1 tvg-id="ev-0.15536338497296964" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg",BWF Super 750 - French Open 2026 [English]
+#EXTINF:-1 tvg-id="ev-0.5864195676781154" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249200_53038_TOT-W_ARS-W_fc-web.jpg",Barclays Women's Super League 2026-27 [English]
+https://in-mc-flive.fancode.com/mumbai/4249200_english_hls_d5650a431f25560_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1792928201~_GO=Generated~acl=/mumbai/4249200_english_hls_d5650a431f25560_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_791fc896-fa18-49~Signature=ASgJGVCAYP4XorzIQ3yadCWqrXNhncgvP2RCfkGyPUgdecdXShRnBGX1O0Ho0qCcT4UATOmMZXa0yYWnSsnhEgRPv6UO
+
+#EXTINF:-1 tvg-id="ev-0.9646089942515431" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg",BWF Super 750 - French Open 2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4250158_english_hls_6fe83d089b42758_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792913041~_GO=Generated~acl=/mumbai/4250158_english_hls_6fe83d089b42758_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_f683311f-c19e-4a~Signature=ASgJGVD98NN_ZFWboQKEDDAlAVkiZLN1-K8IC-1ob6lLAbFXQDOJ_Er0klA90n6MK_paUXoc8uYFGYogc7R2aavJy4EK
 
-#EXTINF:-1 tvg-id="ev-0.3852574803988129" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg",2nd T20I - 24 Oct 2026 [ENG] - India Tour of New Zealand 2026
-https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792870287~acl=/*~id=78451665048164593157821358187062~hmac=469c7a8229ccadbee9ea5424ea73c1bfa0d9dc44bca729dc2d51804bcca97747
-
-#EXTINF:-1 tvg-id="ev-0.8989316775912767" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg",2nd T20I - 24 Oct 2026 [HIN] - India Tour of New Zealand 2026
-https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792870287~acl=/*~id=78451665048164593157821358187062~hmac=469c7a8229ccadbee9ea5424ea73c1bfa0d9dc44bca729dc2d51804bcca97747
-
-#EXTINF:-1 tvg-id="ev-0.5315427067111187" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg",2nd T20I - 24 Oct 2026 [TAM] - India Tour of New Zealand 2026
-https://sonydaime.akamaized.net/hls/live/2119951/cricodi_2410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792870287~acl=/*~id=78451665048164593157821358187062~hmac=469c7a8229ccadbee9ea5424ea73c1bfa0d9dc44bca729dc2d51804bcca97747
-
-#EXTINF:-1 tvg-id="ev-0.23239898261100445" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg",2nd T20I - 24 Oct 2026 [KAN] - India Tour of New Zealand 2026
-https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792870287~acl=/*~id=78451665048164593157821358187062~hmac=469c7a8229ccadbee9ea5424ea73c1bfa0d9dc44bca729dc2d51804bcca97747
-
-#EXTINF:-1 tvg-id="ev-0.3380763657125103" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611472051924_DP-World_Genesis-Championship_D3_live_landscape_thumb.jpg",Genesis Championship - Day 3 - 24 Oct 2026 [ENG] - DP World Tour
-https://sonydaime.akamaized.net/hls/live/2120302/Genesis_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792870287~acl=/*~id=78451665048164593157821358187062~hmac=469c7a8229ccadbee9ea5424ea73c1bfa0d9dc44bca729dc2d51804bcca97747
-
-#EXTINF:-1 tvg-id="ev-0.0935857083187519" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055358975141_Asian-Tour_LINK-Hong-Kong-Open_D3_live_landscape_thumb.jpg",LINK Hong Kong Open - Day 3 - 24 Oct 2026 [ENG] - Asian Tour 2026
-https://sonydaime.akamaized.net/hls/live/2120307/AsianTou2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792870287~acl=/*~id=78451665048164593157821358187062~hmac=469c7a8229ccadbee9ea5424ea73c1bfa0d9dc44bca729dc2d51804bcca97747
+#EXTINF:-1 tvg-id="ev-0.500946764957724" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png",ATP 250 - Almaty Open 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4249612_english_hls_4bb5d239f294482_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792921520~_GO=Generated~acl=/mumbai/4249612_english_hls_4bb5d239f294482_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_02c2ba69-468d-4b~Signature=ASgJGVAyRmW96jNHfqzTxlFn2WeheYvy6wu1ZsgF4OkN7p6N6-nU7pTFYmAeTc5-KQN0-F6_nlJ9yLjhxMk57sQyLgEJ
 
