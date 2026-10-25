@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 25/10/2026, 06:06:23
+# Generated: 25/10/2026, 10:54:36
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -8599,9 +8599,27 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.8219604789231373" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Australiaold-match-card.png",GRAND PRIX OF AUSTRALIA 2026 [English]
+#EXTINF:-1 tvg-id="ev-0.5832166385205476" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png",2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250516_english_hls_794c5fa68798836_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792991803~_GO=Generated~acl=/mumbai/4250516_english_hls_794c5fa68798836_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_816dcef4-6d5a-48~Signature=ASgJGVAWSM9HC47UAy276SSKy-nVLdSIN9ZmmahwrsB0sEhPwEQiEHv3nOoc-Wbh33QSIwtvDBJJvGIHd5k0FlrDpskP
+
+#EXTINF:-1 tvg-id="ev-0.9788022614572053" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Australiaold-match-card.png",GRAND PRIX OF AUSTRALIA 2026 [English]
 https://in-mc-flive.fancode.com/mumbai/139980_english_hls_4fd0f7b58694482_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1792965087~_GO=Generated~acl=/mumbai/139980_english_hls_4fd0f7b58694482_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e4f181ef-175c-43~Signature=ASgJGVCaJRm-WFaGqYaKGjdaHqCgNPb45-i_sajVmfXdbCoA_zPLaFporTTpOOh75msYGAizrOEy-8V5I6OO_KkRzT8J
 
-#EXTINF:-1 tvg-id="ev-0.9232645790829973" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027143/179275469748881_NZ_vs_IND_A_1st_test_day2_live_landscape_thumb.jpg",1st Unofficial Test - Day 2 - 25 Oct 2026 [ENG] - India A Tour of New Zealand
-https://sonydaime.akamaized.net/hls/live/2094589/criclive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792931700~acl=/*~id=68976840745411759784981617791843~hmac=035f26c0f2e6711b665e4733b90ede955c7b2c3886ebc394221f4710a1e17f89
+#EXTINF:-1 tvg-id="ev-0.6549747898109688" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249845_53101_SYD_ADL_fc-Web_1792223294286.jpg",A-League 2026-27 [English]
+https://in-mc-flive.fancode.com/mumbai/4249845_english_hls_bf2f0076bc49928_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792986350~_GO=Generated~acl=/mumbai/4249845_english_hls_bf2f0076bc49928_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_082e1a7d-b333-41~Signature=ASgJGVCuF8kTdrmI1SUY7pU0QZ69g2QkOyDu76tcxfQUrfvRczENwENNkr5HAyDV7aUolZ1IWPlKdo-1ixGNfGHAMtcB
+
+#EXTINF:-1 tvg-id="ev-0.1890672058652444" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/JK-Tyre-_Web-match-card.png",CTR-JK Tyre FMSCI Indian National Car Racing Championship 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250528_english_hls_5f5972517d95754_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792986351~_GO=Generated~acl=/mumbai/4250528_english_hls_5f5972517d95754_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ba9049d3-d1e5-40~Signature=ASgJGVAb3w547_XBaKnwmbgU4pzbtc2OTk10kddmWANWJN9YWKAd-XRdnI7TcshSjmsEZ-MdktV7o21s1waeEZvbCtcE
+
+#EXTINF:-1 tvg-id="ev-0.889443046920678" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027143/179275469748881_NZ_vs_IND_A_1st_test_day2_live_landscape_thumb.jpg",1st Unofficial Test - Day 2 - 25 Oct 2026 [ENG] - India A Tour of New Zealand
+https://sonydaime.akamaized.net/hls/live/2094589/criclive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792948645~acl=/*~id=82873977680531830679972428805134~hmac=4e4327e64bb17a851cc3b716a27799acd48066eb3ef3341d30128d08420948b4
+
+#EXTINF:-1 tvg-id="ev-0.49298209744430377" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026942/1792622523106954_STCL26_delhi_vs_mumbai_landscape_thumb.jpg",Delhi Leaders vs Mumbai Mavericks - 25 Oct 2026 [HIN] - Salute Tiranga Cricket League (STCL) 2026
+https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792948645~acl=/*~id=82873977680531830679972428805134~hmac=4e4327e64bb17a851cc3b716a27799acd48066eb3ef3341d30128d08420948b4
+
+#EXTINF:-1 tvg-id="ev-0.5382448678361478" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055378971141_Asian-Tour_LINK-Hong-Kong-Open_D4_live_landscape_thumb.jpg",LINK Hong Kong Open - Day 4 - 25 Oct 2026 [ENG] - Asian Tour 2026
+https://sonydaime.akamaized.net/hls/live/2120307/Golf_LIN2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792948645~acl=/*~id=82873977680531830679972428805134~hmac=4e4327e64bb17a851cc3b716a27799acd48066eb3ef3341d30128d08420948b4
+
+#EXTINF:-1 tvg-id="ev-0.3696701964468355" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611466128924_DP-World_Genesis-Championship_D4_live_landscape_thumb.jpg",Genesis Championship - Day 4 - 25 Oct 2026 [ENG] - DP World Tour
+https://sonydaime.akamaized.net/hls/live/2094588/Golf_Gen2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792948645~acl=/*~id=82873977680531830679972428805134~hmac=4e4327e64bb17a851cc3b716a27799acd48066eb3ef3341d30128d08420948b4
 
