@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 25/10/2026, 10:54:36
+# Generated: 25/10/2026, 15:43:06
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -7767,45 +7767,45 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/utvtamil/HLSPartner/index.m3u8
 
 #EXTINF:-1 tvg-id="162" group-title="JioTV+ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png",Sony LIV Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e4c5dba5bfe5a7c9338bc086eb80379:b8e8932f440084e1d2b705fa52eef94b
+#KODIPROP:inputstream.adaptive.license_key=3525c924e54154b39533d86b1c7a428a:8548b566fc6608a7d3bd601ee5f3d889
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_1_MOB/WDVLive/index.mpd
+https://sliv.tgaadi.workers.dev/ten1hd.m3u8
 
 #EXTINF:-1 tvg-id="3373" group-title="JioTV+ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png",Sony LIV Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ef24516ae38b50d18049343cd1cd998a:eb4810ec250a1795a0019dba7881ff45
+#KODIPROP:inputstream.adaptive.license_key=91fce77f2f8056f084ed961c7ebe86ed:8214bd5eb6c21444e8ea644824affd79
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_2_MOB/WDVLive/index.mpd
+https://sliv.tgaadi.workers.dev/ten2hd.m3u8
 
 #EXTINF:-1 tvg-id="3374" group-title="JioTV+ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png",Sony LIV Sports 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3afa887864e6545aa006db21aeb39054:6b8cce271f3cd923d0df32d45b44f6df
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_3_MOB/WDVLive/index.mpd
+https://sliv.tgaadi.workers.dev/ten3hd.m3u8
 
 #EXTINF:-1 tvg-id="3397" group-title="JioTV+ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_4_Tamil.png",Sony LIV Sports 4 Tamil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f266ceda9555faf8b40c586ac40406a:92f9a1ca4c16545db65ad0578bd1baa3
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_4_Tamil_MOB/WDVLive/index.mpd
+https://sliv.tgaadi.workers.dev/ten4sd.m3u8
 
 #EXTINF:-1 tvg-id="3398" group-title="JioTV+ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_4_Telugu.png",Sony LIV Sports 4 Telugu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d39c423d72a5f1ca5df1de110c80422:572a9370c22c8b5d741352ebf8f68721
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_4_Telugu_MOB/WDVLive/index.mpd
+https://sliv.tgaadi.workers.dev/ten4hd.m3u8
 
 #EXTINF:-1 tvg-id="3399" group-title="JioTV+ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_5.png",Sony LIV Sports 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cee8550bf50b569d8ad2ed0c5264f0d2:565a95f1c332c03534e1e5fcc1ff9a8b
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_5_MOB/WDVLive/index.mpd
+https://sliv.tgaadi.workers.dev/sonysixhd.m3u8
 
 #EXTINF:-1 tvg-id="3401" group-title="JioTV+ | Unknown" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swastik_Stories.png",Swastik Stories
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
@@ -8599,27 +8599,30 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.5832166385205476" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png",2026 [English]
+#EXTINF:-1 tvg-id="ev-0.19115875230309898" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png",2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4250516_english_hls_794c5fa68798836_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792991803~_GO=Generated~acl=/mumbai/4250516_english_hls_794c5fa68798836_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_816dcef4-6d5a-48~Signature=ASgJGVAWSM9HC47UAy276SSKy-nVLdSIN9ZmmahwrsB0sEhPwEQiEHv3nOoc-Wbh33QSIwtvDBJJvGIHd5k0FlrDpskP
 
-#EXTINF:-1 tvg-id="ev-0.9788022614572053" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Australiaold-match-card.png",GRAND PRIX OF AUSTRALIA 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/139980_english_hls_4fd0f7b58694482_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1792965087~_GO=Generated~acl=/mumbai/139980_english_hls_4fd0f7b58694482_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_e4f181ef-175c-43~Signature=ASgJGVCaJRm-WFaGqYaKGjdaHqCgNPb45-i_sajVmfXdbCoA_zPLaFporTTpOOh75msYGAizrOEy-8V5I6OO_KkRzT8J
+#EXTINF:-1 tvg-id="ev-0.3291651589112091" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",ICC CWC Challenge League A 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250341_english_hls_c58feffa0698348_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792996654~_GO=Generated~acl=/mumbai/4250341_english_hls_c58feffa0698348_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_c2569f73-ada9-4f~Signature=ASgJGVCGTgT4jV4b5Gjh3jm-B6CVTNROXIaagDf8dkIpObinU_bCM43weNcEpu3TVoCqhZBtjMEyqrLlJmyyaB2p5T8K
 
-#EXTINF:-1 tvg-id="ev-0.6549747898109688" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249845_53101_SYD_ADL_fc-Web_1792223294286.jpg",A-League 2026-27 [English]
-https://in-mc-flive.fancode.com/mumbai/4249845_english_hls_bf2f0076bc49928_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792986350~_GO=Generated~acl=/mumbai/4249845_english_hls_bf2f0076bc49928_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_082e1a7d-b333-41~Signature=ASgJGVCuF8kTdrmI1SUY7pU0QZ69g2QkOyDu76tcxfQUrfvRczENwENNkr5HAyDV7aUolZ1IWPlKdo-1ixGNfGHAMtcB
+#EXTINF:-1 tvg-id="ev-0.10189878341745995" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",ICC CWC Challenge League A 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250342_english_hls_9a7010219d23415_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792996655~_GO=Generated~acl=/mumbai/4250342_english_hls_9a7010219d23415_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_d58d4619-f9cf-4f~Signature=ASgJGVBMglrfiE093hvP7P4dPdozM3fc-4ijXRq6xSNbCmWq6BoR3SbD41bjhcZxpyVydyuegMi-XFGUm3nQOHcas1IB
 
-#EXTINF:-1 tvg-id="ev-0.1890672058652444" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/JK-Tyre-_Web-match-card.png",CTR-JK Tyre FMSCI Indian National Car Racing Championship 2026 [English]
+#EXTINF:-1 tvg-id="ev-0.2737597767519392" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249766_53093_GAM_LES_FC-Web_1792493253302.png",2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4249766_english_hls_452249917198475_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793002712~_GO=Generated~acl=/mumbai/4249766_english_hls_452249917198475_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_864955a7-b96c-40~Signature=ASgJGVA2W_IuGxm6F9aIx8Rz4G6aXIBD6UeN0CzpfikmnFU37NlyZMFXkCZAqBaqRSLJVKyMURtRMHfD3NDnlX7O4YgP
+
+#EXTINF:-1 tvg-id="ev-0.7153818373363383" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249767_53093_MOZ_ZAM_FC-Web_1792493252681.png",2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4249767_english_hls_3fd0e646ca11655_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793002713~_GO=Generated~acl=/mumbai/4249767_english_hls_3fd0e646ca11655_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_73c2d52b-de70-42~Signature=ASgJGVDM1aL4hDiAlcdcR2wFLoZCtj_IKI-WCvgzZldGQHx3uU-E2_0nYURGuxs8dfdvdoSMz2gStlSyQMuCnL9TfToM
+
+#EXTINF:-1 tvg-id="ev-0.6134649372331332" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/JK-Tyre-_Web-match-card.png",CTR-JK Tyre FMSCI Indian National Car Racing Championship 2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4250528_english_hls_5f5972517d95754_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792986351~_GO=Generated~acl=/mumbai/4250528_english_hls_5f5972517d95754_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_ba9049d3-d1e5-40~Signature=ASgJGVAb3w547_XBaKnwmbgU4pzbtc2OTk10kddmWANWJN9YWKAd-XRdnI7TcshSjmsEZ-MdktV7o21s1waeEZvbCtcE
 
-#EXTINF:-1 tvg-id="ev-0.889443046920678" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027143/179275469748881_NZ_vs_IND_A_1st_test_day2_live_landscape_thumb.jpg",1st Unofficial Test - Day 2 - 25 Oct 2026 [ENG] - India A Tour of New Zealand
-https://sonydaime.akamaized.net/hls/live/2094589/criclive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792948645~acl=/*~id=82873977680531830679972428805134~hmac=4e4327e64bb17a851cc3b716a27799acd48066eb3ef3341d30128d08420948b4
+#EXTINF:-1 tvg-id="ev-0.5865364529854459" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png",ATP 250 - Almaty Open 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4249613_english_hls_720b338d056084_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793008163~_GO=Generated~acl=/mumbai/4249613_english_hls_720b338d056084_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0325054b-4c38-41~Signature=ASgJGVDN-CBxIqGKfATfo1MYQHUaFIIkc1GCKfTmsFUeJpj3d4xz3cG4xd68pD2anvzI1rNVc-qUf9WuoPINirksqeAB
 
-#EXTINF:-1 tvg-id="ev-0.49298209744430377" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026942/1792622523106954_STCL26_delhi_vs_mumbai_landscape_thumb.jpg",Delhi Leaders vs Mumbai Mavericks - 25 Oct 2026 [HIN] - Salute Tiranga Cricket League (STCL) 2026
-https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792948645~acl=/*~id=82873977680531830679972428805134~hmac=4e4327e64bb17a851cc3b716a27799acd48066eb3ef3341d30128d08420948b4
+#EXTINF:-1 tvg-id="ev-0.85730111999635" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/An_Se_Young_PV_Sindhu_FC-App-V2_FC-WEB.jpg",BWF Super 750 - French Open 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250159_english_hls_f0bf5565811704_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793008164~_GO=Generated~acl=/mumbai/4250159_english_hls_f0bf5565811704_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_0b6154b4-128f-46~Signature=ASgJGVAJ-OucAB8B31GoPuabUj-5iCXKPwKw9vOxmObuuXEBtXARdwn_ZRCKKZbnQ7WN1tciSJjjtq5bs0gQRYGhAUEK
 
-#EXTINF:-1 tvg-id="ev-0.5382448678361478" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055378971141_Asian-Tour_LINK-Hong-Kong-Open_D4_live_landscape_thumb.jpg",LINK Hong Kong Open - Day 4 - 25 Oct 2026 [ENG] - Asian Tour 2026
-https://sonydaime.akamaized.net/hls/live/2120307/Golf_LIN2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792948645~acl=/*~id=82873977680531830679972428805134~hmac=4e4327e64bb17a851cc3b716a27799acd48066eb3ef3341d30128d08420948b4
-
-#EXTINF:-1 tvg-id="ev-0.3696701964468355" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611466128924_DP-World_Genesis-Championship_D4_live_landscape_thumb.jpg",Genesis Championship - Day 4 - 25 Oct 2026 [ENG] - DP World Tour
-https://sonydaime.akamaized.net/hls/live/2094588/Golf_Gen2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792948645~acl=/*~id=82873977680531830679972428805134~hmac=4e4327e64bb17a851cc3b716a27799acd48066eb3ef3341d30128d08420948b4
+#EXTINF:-1 tvg-id="ev-0.6077105665619709" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026766/1792484827162767_Tamilnadu_Thunders_vs_Gujarat_royals_landscape_thumb.jpg",Tamilnadu Thunders vs Gujarat royals - 25 Oct 2026 [HIN] - Salute Tiranga Cricket League (STCL) 2026
+https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792965604~acl=/*~id=93932701126846069282725874751038~hmac=192a3e0865080b76c21a1c39158a6bd2df9224134b06a2e03e52fcde17e74c69
 
