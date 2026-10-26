@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 26/10/2026, 04:21:16
+# Generated: 26/10/2026, 06:16:59
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -8599,6 +8599,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.44002350334357765" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027143/179275492633881_NZ_vs_IND_A_1st_test_day3_live_landscape_thumb.jpg",1st Unofficial Test - Day 3 - 26 Oct 2026 [ENG] - India A Tour of New Zealand
-https://sonydaime.akamaized.net/hls/live/2120299/criclive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793011632~acl=/*~id=55455403267192191655001099262698~hmac=ceaae3d78e39ab8ae0b6523e67f0ba5955022546d8c34cf50a9498430227e521
+#EXTINF:-1 tvg-id="ev-0.48528595099631255" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027143/179275492633881_NZ_vs_IND_A_1st_test_day3_live_landscape_thumb.jpg",1st Unofficial Test - Day 3 - 26 Oct 2026 [ENG] - India A Tour of New Zealand
+https://sonydaime.akamaized.net/hls/live/2120299/criclive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793018285~acl=/*~id=87763378439271445906158816433908~hmac=4899488cbd826ca4fd512d656b73631e81cdc287a630b06d8bd62aeb18323071
 
