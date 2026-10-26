@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 26/10/2026, 10:59:02
+# Generated: 26/10/2026, 17:06:29
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -8599,9 +8599,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.16396318475571803" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",Delhi Dynamites vs Haryana Hustlers (Northern Artist Champions League 2026)
-https://in-mc-flive.fancode.com/mumbai/4250529_english_hls_e5433aa61a5575_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793074641~_GO=Generated~acl=/mumbai/4250529_english_hls_e5433aa61a5575_1ta-di_h264/*~SessionID=122002764__fad98e44-a2ba-42~Signature=ASgJGVDZ0cJsKCco5Xw0Eje8sDYczG2X7TNSjeeui88vuoTt_HLbhZ9K1f8gwA1axhzFd97VxnILxvQh144eR41zCAYL
-
-#EXTINF:-1 tvg-id="ev-0.12202290664818038" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027143/179275492633881_NZ_vs_IND_A_1st_test_day3_live_landscape_thumb.jpg",1st Unofficial Test - Day 3 - 26 Oct 2026 [ENG] - India A Tour of New Zealand
-https://sonydaime.akamaized.net/hls/live/2120299/criclive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793034632~acl=/*~id=51902158350287375659717152230688~hmac=1428b9fba6b587a9461ada26f03c250c366d97a54056831bdf92f82e2e634890
+#EXTINF:-1 tvg-id="ev-0.856356308543727" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026790/1792495475611963_Rajasthan_Frontiers_vs_Punjab_Falcons_landscape_thumb.jpg",Rajasthan Frontiers vs Punjab Falcons - 26 Oct 2026 [HIN] - Salute Tiranga Cricket League (STCL) 2026
+https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793057632~acl=/*~id=64295304051736257548245060950099~hmac=7d2241c73ccb05179a8046a3668dba0821f5313e7e201c0111d0657c8776e538
 
