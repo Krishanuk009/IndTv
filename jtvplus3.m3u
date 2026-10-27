@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 27/10/2026, 03:27:26
+# Generated: 27/10/2026, 06:31:14
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -8599,12 +8599,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.3090460186261851" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card-2.png",Walsall vs Salford City (League Two 2026-27)
-https://in-mc-flive.fancode.com/mumbai/4250000_english_hls_76ed4f8d9d26684_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793130651~_GO=Generated~acl=/mumbai/4250000_english_hls_76ed4f8d9d26684_1ta-di_h264/*~SessionID=122002764__68a9dd8a-0e3c-43~Signature=ATFKiJtsL0Fs-io2Gvg_bDYnDlpsKxFK2H7l3U9YdGOUiNgmZvBvf9qc0zny-Yj-HndiFFfp-yod25PJnxwzHsySEUgK
-
-#EXTINF:-1 tvg-id="ev-0.1973457299133402" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",ATP 500 - Swiss Indoors Basel 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250546_english_hls_999c99ff213863_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793126979~_GO=Generated~acl=/mumbai/4250546_english_hls_999c99ff213863_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a21_watcho_9a3bb5d0-5fad-42~Signature=ATFKiJsFFg--A2t5giv0rcSf-HpvZdCRf13hLuy9Zt6F0f0y5d4Z6EHjT5jf7cSWIy9RbfDKw7xnlJQbh9vmigkEU24B
-
-#EXTINF:-1 tvg-id="ev-0.8550605145054976" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027325/1792938503930905_NZ_A_vs_IND_A_1st_Unofficial_Test_Day4_live_landscape_thumb.jpg",1st Unofficial Test - Day 4 - 27 Oct 2026 [ENG] - India A Tour of New Zealand
-https://sonydaime.akamaized.net/hls/live/2120299/criclive2610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793094611~acl=/*~id=07102768838210276312929413959767~hmac=fb2ceac3c1029d5b0c61f2434bc4ba23341bbcba531714a471e7aa76b389875f
+#EXTINF:-1 tvg-id="ev-0.6141977396236137" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027325/1792938503930905_NZ_A_vs_IND_A_1st_Unofficial_Test_Day4_live_landscape_thumb.jpg",1st Unofficial Test - Day 4 - 27 Oct 2026 [ENG] - India A Tour of New Zealand
+https://sonydaime.akamaized.net/hls/live/2120299/criclive2610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793105509~acl=/*~id=95202446262689830458699592741341~hmac=7566cd3cf391d2037d0c381f046146c14370f5347ed633b6629d8b0542155d0e
 
