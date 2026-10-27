@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 27/10/2026, 23:54:36
+# Generated: 28/10/2026, 04:11:11
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -8599,27 +8599,12 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.13012363712641473" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM1.jpg",2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249769_english_hls_260c41cdcf27321_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793196260~_GO=Generated~acl=/mumbai/4249769_english_hls_260c41cdcf27321_1ta-di_h264/*~SessionID=fc-app_sportsguruand_3b4_watcho_0cc5f8eb-f4db-40~Signature=ATFKiJvfnM43KV-utrFp5uhIlV-LqLGyFuh8U3ryyorKvSsJaxIfuls0ZLsGaLuvZD4adter9SrJHoVs3qRtNbBZJVoM
+#EXTINF:-1 tvg-id="ev-0.9556602809340089" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249711_53016_FLW_ARS_fc-web.jpg",Carabao Cup 2026-27 [English]
+https://in-mc-flive.fancode.com/mumbai/4249711_english_hls_0ae47e17b011105_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793216982~_GO=Generated~acl=/mumbai/4249711_english_hls_0ae47e17b011105_1ta-di_h264/*~SessionID=fc-app_sportsguruand_1a3_watcho_029fd4ce-2d42-43~Signature=ATFKiJvPRNasFSTX9bxOGSXQ-MMX9nefU4XOQdBaF7sjKTQgFkPU-cJwjBIOHg05WwicAciYLxbGu_YvMfIXYMxKeJYH
 
-#EXTINF:-1 tvg-id="ev-0.028999356268852194" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249990_53043_ESS_LEP_FC-WEB.jpg",DFB Pokal 2026-27 [English]
-https://in-mc-flive.fancode.com/mumbai/4249990_english_hls_e56a022c6b53316_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1793206066~_GO=Generated~acl=/mumbai/4249990_english_hls_e56a022c6b53316_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7e2_watcho_371d207c-a1ac-4c~Signature=ATFKiJtc7gWEpp3yNCywaTYblN7zXky4UvOybQJTyS6S7nQ-Aq8Hhiht08m-rbBpm0SetAlscxUclHrEaZaP8QdAQgkH
+#EXTINF:-1 tvg-id="ev-0.6428568516934716" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",ATP 500 - Erste Bank Open 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4249629_english_hls_934d6d9fab39308_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793219407~_GO=Generated~acl=/mumbai/4249629_english_hls_934d6d9fab39308_1ta-di_h264/*~SessionID=fc-app_sportsguruand_262_watcho_aea5158c-6fbd-42~Signature=ATFKiJtHSiNbn6DnFWg-acHMYTg74JPKrzj1NKYPc0rvJH_aoe65S_z22WeBCDmFydr6NZfzMxyq6VUdgdla3lTsLTYH
 
-#EXTINF:-1 tvg-id="ev-0.7072621173807047" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248719_53053_ALS_AHS_fc-web_1792675117387.jpg",AFC Champions League Elite 2026-27 [English]
-https://in-mc-flive.fancode.com/mumbai/4248719_english_hls_22de867db318134_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793210916~_GO=Generated~acl=/mumbai/4248719_english_hls_22de867db318134_1ta-di_h264/*~SessionID=fc-app_sportsguruand_284_watcho_afd73969-3518-4e~Signature=ATFKiJtzGSip90yybwv3MCWv564fg_uLKiZ4j8SSFsKqxdiUsqZuBLu4c2cvn5RHI953vLsxa_THqjOnHr-Wdiuyv88P
-
-#EXTINF:-1 tvg-id="ev-0.6025240541163042" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248992_53057_SHR_HUS_fc-web_1789025066785.jpg",AFC Champions League Two 2026-27 [English]
-https://in-mc-flive.fancode.com/mumbai/4248992_english_hls_384e380f0233032_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793210918~_GO=Generated~acl=/mumbai/4248992_english_hls_384e380f0233032_1ta-di_h264/*~SessionID=fc-app_sportsguruand_610_watcho_74716d21-e078-47~Signature=ATFKiJt5fOaiJAl6U_7Gl9jS56s1iVflw9oCXQpV1XzAb-sZ56u1TjOKKUuKJGDJDv6X9YorjJvN5yq7PsT2z5A5610F
-
-#EXTINF:-1 tvg-id="ev-0.551831548925221" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",ATP 500 - Erste Bank Open 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249636_english_hls_c755f6996c26929_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793182868~_GO=Generated~acl=/mumbai/4249636_english_hls_c755f6996c26929_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c93_watcho_82c5ac78-56b8-49~Signature=ATFKiJuNbz4YLc28yrl1u9WKdgcfsKISdZmDdkxQu9jQCSSVa11QAvLLTqerSK8oRvyLh2NvfqFQ3kdTZh_FnDyb8bIC
-
-#EXTINF:-1 tvg-id="ev-0.8310451828206727" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",ATP 500 - Swiss Indoors Basel 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249650_english_hls_8941f86d5194089_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793184687~_GO=Generated~acl=/mumbai/4249650_english_hls_8941f86d5194089_1ta-di_h264/*~SessionID=fc-app_sportsguruand_57e_watcho_0bffce30-ba70-4d~Signature=ATFKiJtTyflE2HswPlNbL0MmvvcImL5Vq0x_ezjpZVw3N_ggxJWlTW7QvyGqerzUHowkc-uXWrJjFc0dSbJabF4O9B0G
-
-#EXTINF:-1 tvg-id="ev-0.8563090634088043" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zverev-vs-Martin-Landaluce-Open-web-match-card.png",ATP 500 - Erste Bank Open 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249629_english_hls_934d6d9fab39308_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793190152~_GO=Generated~acl=/mumbai/4249629_english_hls_934d6d9fab39308_1ta-di_h264/*~SessionID=fc-app_sportsguruand_27c_watcho_72331de0-cb16-43~Signature=ATFKiJupbTM0i-N1LIVk4KyvyNfcKdgB-Fv1GZA5zUI70hfgZuo_Of_yRWbhBFRa1CcepHQP500LPN6Gi82j_rhqYp0H
-
-#EXTINF:-1 tvg-id="ev-0.2855738695647212" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",ATP 500 - Swiss Indoors Basel 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249643_english_hls_c14cffe8e137141_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793191986~_GO=Generated~acl=/mumbai/4249643_english_hls_c14cffe8e137141_1ta-di_h264/*~SessionID=fc-app_sportsguruand_43a_watcho_d9e2add6-4764-42~Signature=ATFKiJsdy4oIfnwqMaS5vvmvRMn54FvXP-UiTDhVV7gpTtFaS3NEZ87q7aKkqjFgUgk8rrMVZjK6sEjlrW7hLUp86MEK
+#EXTINF:-1 tvg-id="ev-0.24351739814739948" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",ATP 500 - Swiss Indoors Basel 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4249643_english_hls_c14cffe8e137141_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793221224~_GO=Generated~acl=/mumbai/4249643_english_hls_c14cffe8e137141_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e2d_watcho_bdedc8af-328a-46~Signature=ATFKiJs_0sy_t4PbeWN_oLEmAAo8ma7JIhA5-ZmsQnrX89zhdYJ0cneFutsVgYyXmXk_sTv0pdSm3JdPpf6RLUDbmokG
 
