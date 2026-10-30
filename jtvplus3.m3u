@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 30/10/2026, 20:07:25
+# Generated: 31/10/2026, 01:15:13
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -8599,33 +8599,15 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.46698144662889873" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249783_english_hls_97c5a4780073832_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793433803~_GO=Generated~acl=/mumbai/4249783_english_hls_97c5a4780073832_1ta-di_h264/*~SessionID=fc-app_sportsguruand_ba1_watcho_188c2002-784f-4b~Signature=ATFKiJuJww0HwCWt7AnNcoq4_pfAURTjQ75SeRJpD16M-fHFrIfHM5bsLL6lfVgejfReKRknnmrL_Yq8bepj7xHLNyoE
+#EXTINF:-1 tvg-id="ev-0.45388905352017106" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250495_53130_DUB_EMB_fc-web_1792412930095.jpg",2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250495_english_hls_68f22275454877_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793463662~_GO=Generated~acl=/mumbai/4250495_english_hls_68f22275454877_1ta-di_h264/*~SessionID=fc-app_sportsguruand_97b_watcho_42ce8038-aa7b-4b~Signature=ATFKiJuYkcWqIvi3LSOtYEMD-IqIa9qP0tOcI_tbn7PnOTiXsZ6eW1ksF_wOiL_sDnuWaSJRoXzpz3O2tU1LS9X0ErUJ
 
-#EXTINF:-1 tvg-id="ev-0.37434658963848677" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg",2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250334_english_hls_dc1520bda59332_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793430728~_GO=Generated~acl=/mumbai/4250334_english_hls_dc1520bda59332_1ta-di_h264/*~SessionID=fc-app_sportsguruand_4b7_watcho_97e52dc3-f227-43~Signature=ATFKiJuVCqdseAR9_eqMN2QmDauSP2bpMs0SP9tDTOnzgm9WHxZbA08fU92ewXIr0jbFZ1mJuS5UL8T39ne9dyLgeUMG
+#EXTINF:-1 tvg-id="ev-0.9127231395282625" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250272_53025_ASF_AAS_FC-Web.png",Roshn Saudi League 2026-2027 [English]
+https://in-mc-flive.fancode.com/mumbai/4250272_english_hls_fac8dade1711476_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793469112~_GO=Generated~acl=/mumbai/4250272_english_hls_fac8dade1711476_1ta-di_h264/*~SessionID=fc-app_sportsguruand_b76_watcho_581e696c-a004-43~Signature=ATFKiJt6l8jT6mQG6ZAJeSpcm-EaOsaDUtZIm2zN_JXxqommqZEER8ptdjvyh12bJxEjtEhaWBvYc2V0BqhkT3w4vVAC
 
-#EXTINF:-1 tvg-id="ev-0.3622901108602625" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250494_53130_ABD_AJM_fc-web_1792412929370.jpg",2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250494_english_hls_db4edab47762333_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793449101~_GO=Generated~acl=/mumbai/4250494_english_hls_db4edab47762333_1ta-di_h264/*~SessionID=fc-app_sportsguruand_acb_watcho_1f9f2258-5443-42~Signature=ATFKiJteYj20SkeiyZ-6xBHrrSFdyw6zilgqevAZ6Mmf9a-lvMfVqCKJ2Do6jjgE9ScVP1CBClBwumRyECJFfsQzH30F
-
-#EXTINF:-1 tvg-id="ev-0.03505046167719672" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250271_53025_ABC_ITT_FC-Web.png",Roshn Saudi League 2026-2027 [English]
-https://in-mc-flive.fancode.com/mumbai/4250271_english_hls_b3d40c593095862_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793449107~_GO=Generated~acl=/mumbai/4250271_english_hls_b3d40c593095862_1ta-di_h264/*~SessionID=fc-app_sportsguruand_416_watcho_d718e5b6-a50a-4c~Signature=ATFKiJtabXp6PenH6qYCjgjegvaIvaEHmrGgI46zSpawXo8LiMiQdhA0KYR8ejSIn3Xsj_5JGqKL3owiMuiHXSCSCnQM
-
-#EXTINF:-1 tvg-id="ev-0.021003390338244388" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",ATP 500 - Erste Bank Open 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249639_english_hls_6794afdacb61694_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793447264~_GO=Generated~acl=/mumbai/4249639_english_hls_6794afdacb61694_1ta-di_h264/*~SessionID=fc-app_sportsguruand_c39_watcho_b8b08634-bd7e-47~Signature=ATFKiJuJboZPEBrd0TpNRHkiNpYyHLlSN34A2u6A0nPKG6MOScQkRt25Rirg12AjUUAu74QzvAsWEA2id5bbcAXiYv8L
-
-#EXTINF:-1 tvg-id="ev-0.4359980230740811" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",ATP 500 - Swiss Indoors Basel 2026 [English]
+#EXTINF:-1 tvg-id="ev-0.8662876058312254" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",ATP 500 - Swiss Indoors Basel 2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4249646_english_hls_602e11646b22980_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793447873~_GO=Generated~acl=/mumbai/4249646_english_hls_602e11646b22980_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0e6_watcho_b2dd14ae-932b-40~Signature=ATFKiJutnY1TAQ1veIVNW90xdQ6nLJ4oyjoVwOUKdyWZhL13Nq6LXBeDaWxivt-Y6pBqZmsdpY0u31UEHfVvOMG9SewL
 
-#EXTINF:-1 tvg-id="ev-0.08171571886933005" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hylo-Open-2026_fc-web.jpg",BWF Super 500 - Hylo Open 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250523_english_hls_df9219e67c34239_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793447288~_GO=Generated~acl=/mumbai/4250523_english_hls_df9219e67c34239_1ta-di_h264/*~SessionID=fc-app_sportsguruand_1e4_watcho_0e06c481-7c15-40~Signature=ATFKiJtoem8dY8s8h7tbflmeqIzpgVvuX2x2HP1jWuRMFx1_CMpSruKcqURM1nZBFhC9k3KTQysQGv95nU2vWPhIWpMN
-
-#EXTINF:-1 tvg-id="ev-0.14920539030885116" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Daniil-Medvedev-vs-Adrian-Mannarino-web-match-card.png",ATP 500 - Erste Bank Open 2026 [English]
+#EXTINF:-1 tvg-id="ev-0.06011161228490214" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",ATP 500 - Erste Bank Open 2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4249632_english_hls_5043c1251292601_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793449108~_GO=Generated~acl=/mumbai/4249632_english_hls_5043c1251292601_1ta-di_h264/*~SessionID=fc-app_sportsguruand_90d_watcho_f2ca27f2-b133-49~Signature=ATFKiJuBr5Um-7cYSWH6RZw4bWzPysChTQOycihQ44nly49AmDz-Z04fl3yWUXh6PJKJEvgj0RyXjU6mb34ixR7AOV8D
-
-#EXTINF:-1 tvg-id="ev-0.9828710348212114" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026666/1792354036062910_ISL26_NorthEastUnitedFC_vs_BengaluruFC_landscape_thumb.jpg",NorthEast United FC vs Bengaluru FC - 30 Oct 2026 [ENG] - MG Indian Super League 2026-27
-https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/master.m3u8?hdnea=exp=1793413753~acl=/*~id=29040122434929515561230800528124~hmac=9f002b4245e39b5ecba6cf463023f560f9dae7a9577026d97d6a7068d03def21
-
-#EXTINF:-1 tvg-id="ev-0.2394486740747238" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026666/1792354036062910_ISL26_NorthEastUnitedFC_vs_BengaluruFC_landscape_thumb.jpg",NorthEast United FC vs Bengaluru FC - 30 Oct 2026 [HIN] - MG Indian Super League 2026-27
-https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/master.m3u8?hdnea=exp=1793413753~acl=/*~id=29040122434929515561230800528124~hmac=9f002b4245e39b5ecba6cf463023f560f9dae7a9577026d97d6a7068d03def21
 
