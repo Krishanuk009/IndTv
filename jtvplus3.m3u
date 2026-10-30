@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 30/10/2026, 02:58:32
+# Generated: 30/10/2026, 06:53:09
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -8599,21 +8599,15 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.3065305968754165" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249717_53016_EVE_NEW_fc-web.jpg",Carabao Cup 2026-27 [English]
-https://in-mc-flive.fancode.com/mumbai/4249717_english_hls_56768eb31379558_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793388824~_GO=Generated~acl=/mumbai/4249717_english_hls_56768eb31379558_1ta-di_h264/*~SessionID=fc-app_sportsguruand_e24_watcho_774c4f23-9e05-4f~Signature=ATFKiJsFa6jYE65Lgb350mpMjRVYFKrK3FV8z3sPwyT2GhLVsmVTDyyAgr8nnY_XK4larjM9OfTqPME3oQr6PN3V6TwN
+#EXTINF:-1 tvg-id="ev-0.06457462376996315" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249668_53087_SAU_WAU_FC-WEB.jpg",2026/27 [English]
+https://in-mc-flive.fancode.com/mumbai/4249668_english_hls_a2c3979ec983696_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793404590~_GO=Generated~acl=/mumbai/4249668_english_hls_a2c3979ec983696_1ta-di_h264/*~SessionID=fc-app_sportsguruand_92b_watcho_e329347a-c11b-4b~Signature=ATFKiJsNotphON-xNhbtaDkcKvikryZa4v6tQ6BhY40OO_dcpO1kv-u-it4y1ylmem2ng5kB3r6MrGU5S_KK9YI8eREN
 
-#EXTINF:-1 tvg-id="ev-0.18031464239953332" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249493_53078_KOG-W_BAR-W_fc-web.jpg",UEFA Women's Champions League 2026-27 [English]
-https://in-mc-flive.fancode.com/mumbai/4249493_english_hls_9dd889a4e575816_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793390036~_GO=Generated~acl=/mumbai/4249493_english_hls_9dd889a4e575816_1ta-di_h264/*~SessionID=fc-app_sportsguruand_061_watcho_bbd15a75-7cf2-4e~Signature=ATFKiJuPDTq_OQiKVmtl0YJyijR_kjOrmwP0RKKNIrE8lb4T1l1fRZHb4G8_RON4SwzdSJNpoJGmUhlnyBkFMmzXf9oB
+#EXTINF:-1 tvg-id="ev-0.9716294139694008" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249669_53087_TAS_NSW_FC-WEB.jpg",2026/27 [English]
+https://in-mc-flive.fancode.com/mumbai/4249669_english_hls_0ad52e993394154_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793402771~_GO=Generated~acl=/mumbai/4249669_english_hls_0ad52e993394154_1ta-di_h264/*~SessionID=fc-app_sportsguruand_370_watcho_95711197-b5bf-43~Signature=ATFKiJuVjOilCtpiPXf7JT1g6r9Kp0hL_ZwaL4OEQymvmrmzwm-jVJ74W4H0Y57XT1Qvd1ThNAHtR7Eu-5ypW53MhIUM
 
-#EXTINF:-1 tvg-id="ev-0.8606992046642591" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249494_53078_MCI-W_PSG-W_fc-web.jpg",UEFA Women's Champions League 2026-27 [English]
-https://in-mc-flive.fancode.com/mumbai/4249494_english_hls_909a072ec77130_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793390037~_GO=Generated~acl=/mumbai/4249494_english_hls_909a072ec77130_1ta-di_h264/*~SessionID=fc-app_sportsguruand_0d9_watcho_02563d75-49ab-4f~Signature=ATFKiJt2MFcV6QAhmx_Da5VdqHDG6xBx02FoJChJG8MduQ8HYSYxQbsF5N6Cn2foPN5uzRveNtw3Jtde6nGElqI_Ug0G
+#EXTINF:-1 tvg-id="ev-0.7640005371956633" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250307_53120_AUS_HK_fc-web.jpg",2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250307_english_hls_37a9a212eb16184_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793405802~_GO=Generated~acl=/mumbai/4250307_english_hls_37a9a212eb16184_1ta-di_h264/*~SessionID=fc-app_sportsguruand_a11_watcho_f715c582-51c4-4a~Signature=ATFKiJub7nqlDE7bvQOz9gM4VIhX-8ZmksF3Bv6cyIJhhGwGDIZZZzLSDKGl1ELg87qBENo2xXdfgz5imDqkjiMOfdoI
 
-#EXTINF:-1 tvg-id="ev-0.6411324162540672" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Djokov_Mini.png",ATP 500 - Swiss Indoors Basel 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249645_english_hls_4a573c125888268_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793386397~_GO=Generated~acl=/mumbai/4249645_english_hls_4a573c125888268_1ta-di_h264/*~SessionID=fc-app_sportsguruand_08d_watcho_32064cd4-474f-42~Signature=ATFKiJvcjDHAgVzOkgc4Yhtw0pxqLiBhIlLxDk7jPISWN_ryjIxfsePaYTg1Iik3MAMV85jycsZlrhoEeRkPSlkkcioN
-
-#EXTINF:-1 tvg-id="ev-0.0786941483629825" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",ATP 500 - Swiss Indoors Basel 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249652_english_hls_99fa8a4e1b71160_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793390038~_GO=Generated~acl=/mumbai/4249652_english_hls_99fa8a4e1b71160_1ta-di_h264/*~SessionID=fc-app_sportsguruand_2ff_watcho_49b732fd-dfc7-48~Signature=ATFKiJtB80qvgFG84rrCZhOM3k15Q9mbT9ZW0Bb2-m5J3Ldk71nrrCoynf8UI36ZNj37jYvuelGiu3TeuBuv9N7sYZ8M
-
-#EXTINF:-1 tvg-id="ev-0.9537387195507142" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1792760641052.png",VidantaWorld Mexico Open 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250508_english_hls_254b30342475381_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793390040~_GO=Generated~acl=/mumbai/4250508_english_hls_254b30342475381_1ta-di_h264/*~SessionID=fc-app_sportsguruand_326_watcho_9a8b589d-cac0-40~Signature=ATFKiJs784izYUfI9Ofd5QgGsB92-IWhbJHsNKNMcszCzaPTEfGmjKTBDI4S6Eg63uFD5raJdV8cixw0Dp09-Fiouk4H
+#EXTINF:-1 tvg-id="ev-0.9860721393295002" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Petronas-Grand-Prix-of-Malaysia_fc-web.jpg",PETRONAS GRAND PRIX OF MALAYSIA 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/139981_english_hls_dc18e2235392788_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1793407617~_GO=Generated~acl=/mumbai/139981_english_hls_dc18e2235392788_1ta-di_h264/*~SessionID=fc-app_sportsguruand_915_watcho_8cb7816c-8d49-44~Signature=ATFKiJtCpzPKzmpUPNSrjJzQ_BP3GkYM1Abusiarfl41use6mahrGGChsTCyUdao2PANJVTNdJGSmX6p6yfnGhBGjYEN
 
