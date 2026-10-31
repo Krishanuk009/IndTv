@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 31/10/2026, 08:20:34
+# Generated: 31/10/2026, 14:28:54
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -400,13 +400,6 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTV_BTS/WDVLive/index.mpd
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Aaj_Tak_MOB/WDVLive/index.mpd
-
-#EXTINF:-1 tvg-id="2176" group-title="JioTV+ | Entertainment" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://yt3.googleusercontent.com/vIzIao3mUOa_nWNShkI1_IlixE1L0HJrTXZbJ0UtMcvzn5WWktnLPfdMd377J9TPZrE7zv9jPw=s900-c-k-c0x00ffffff-no-rj",Epic Crimes
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e05bb7fccc9c541ebc3d180fb3004d1a:fd8ff50906c9b384c894ec084f8b6aee
-#EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8
 
 #EXTINF:-1 tvg-id="175" group-title="JioTV+ | Devotional" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png",Aastha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4784,25 +4777,25 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeClassicSD_BTS/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
 
-#EXTINF:-1 tvg-id="1005" group-title="JioTV+ | Movies" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg",Goldmines
-#EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8
-
-#EXTINF:-1 tvg-id="0150" group-title="JioTV+ | Movies" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://i.postimg.cc/tTJMDJ95/Goldmines2.png",Goldmines 2
+#EXTINF:-1 tvg-id="1111" group-title="JioTV+ | Movies" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://i.postimg.cc/tTJMDJ95/Goldmines2.png",Goldmines 2
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8
+
+#EXTINF:-1 tvg-id="1005" group-title="JioTV+ | Movies" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg",Goldmines
+#EXTVLCOPT:http-user-agent=TiviMate/5.1.0
+#EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="0154" group-title="JioTV+ | Movies" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s900-c-k-c0x00ffffff-no-rj",Goldmines Movies
+#EXTVLCOPT:http-user-agent=TiviMate/5.1.0
+#EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="0254" group-title="JioTV+ | Movies" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://yt3.googleusercontent.com/_X6U6bMLF-pTu5wBMFwsSI6aubGrXk2B0kUKdGiLIMqFLyDIne4Ot4ro76BS1S8fX3pWcCwS=s900-c-k-c0x00ffffff-no-rj",Goldmines Action
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
-
-#EXTINF:-1 tvg-id="0540" group-title="JioTV+ | Movies" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://yt3.googleusercontent.com/d66J-MMZ06-55gkF5maclPGB5f5j1L0SAs3iWnl3lhoswlWrJ67wD2a3mZGkgHgt-W3kMrIT=s900-c-k-c0x00ffffff-no-rj",Goldmines Movies
-#EXTVLCOPT:http-user-agent=TiviMate/5.1.0
-#EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8
 
 #EXTINF:-1 tvg-id="1692" group-title="JioTV+ | Odia" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Badakhabar.png",Badakhabar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5241,7 +5234,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/PMC_Hindi_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-id="1972" group-title="JioTV+ | Marathi" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/topnewsmarathi.png",Top News Marathi
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/topnewsmarathi/HLSPartner/index.m3u8
+https://live1.ottlive.co.in/topnewsmarathi/topnewsmarathi/index.m3u8
 
 #EXTINF:-1 tvg-id="1974" group-title="JioTV+ | Gujarati" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gujarat_First_24x7.png",Gujarat 1st 24x7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5257,25 +5250,25 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Gujarat_First_24x7_MOB/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/PMC_Telugu_MOB/WDVLive/index.mpd
 
-#EXTINF:-1 tvg-id="1001" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://i.postimg.cc/FH40r1LZ/unite8-1HD.png",Unite8 Sports 1 HD
+#EXTINF:-1 tvg-id="9624886" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://i.postimg.cc/FH40r1LZ/unite8-1HD.png",Unite8 Sports 1 HD
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281669
+https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd
 
-#EXTINF:-1 tvg-id="1007" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://i.postimg.cc/htng2RH2/Unite8-2HD.png",Unite8 Sports 2 HD
+#EXTINF:-1 tvg-id="9624884" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://i.postimg.cc/htng2RH2/Unite8-2HD.png",Unite8 Sports 2 HD
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://bdix.spidy.online/MAC/SBHGOLD/play.php?id=281311
+https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_Sports_2_HD.mpd
 
-#EXTINF:-1 tvg-id="1003" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://i.postimg.cc/FKh4DWFG/unite8-1.jpg",Unite8 Sports 1 HD | TATA PLAY
+#EXTINF:-1 tvg-id="9624886" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://i.postimg.cc/FKh4DWFG/unite8-1.jpg",Unite8 Sports 1 HD | TATA PLAY
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-http://tv.cloudcdn.me/live.ts?channelId=134096&uid=5410&deviceMac=00:1A:79:0E:F8:A1
+https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd
 
-#EXTINF:-1 tvg-id="1066" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://i.postimg.cc/qRX6WZ2w/unite8-2.jpg",Unite8 Sports 2 HD
+#EXTINF:-1 tvg-id="9624884" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://i.postimg.cc/qRX6WZ2w/unite8-2.jpg",Unite8 Sports 2 HD
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-http://tv.cloudcdn.me/live.ts?channelId=134097&uid=5410&deviceMac=00:1A:79:0E:F8:A1
+https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_Sports_2_HD.mpd
 
 #EXTINF:-1 tvg-id="tnt-sports-1" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://i.postimg.cc/66RZfCPg/Screenshot-2024-01-15-22-01-44-34-40deb401b9ffe8e1df2f1cc5ba480b12.jpg",TNT Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5298,7 +5291,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
 
-#EXTINF:-1 tvg-id="tnt-sports-4" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/TNT_Sports_4_logo.png",TNT Sports 4
+#EXTINF:-1 tvg-id="tnt-sports-4" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://media.info/l/o/1/1491.1690027975.png",TNT Sports 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
@@ -7716,6 +7709,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/EPIC_TV_MOB/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Nazara_MOB/WDVLive/index.mpd
 
+#EXTINF:-1 tvg-id="2116" group-title="JioTV+ | Entertainment" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://yt3.googleusercontent.com/vIzIao3mUOa_nWNShkI1_IlixE1L0HJrTXZbJ0UtMcvzn5WWktnLPfdMd377J9TPZrE7zv9jPw=s900-c-k-c0x00ffffff-no-rj",Epic Crimes
+#EXTVLCOPT:http-user-agent=TiviMate/5.1.0
+#EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8
+
 #EXTINF:-1 tvg-id="3384" group-title="JioTV+ | Bhojpuri" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Filamchi_Bhojpuri.png",EPIC Bhojpuri
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cff5580392c052a78302a940e350b02b:c4983c9e5cb98a14973664d0791a15bb
@@ -7767,14 +7765,14 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/utvtamil/HLSPartner/index.m3u8
 
 #EXTINF:-1 tvg-id="162" group-title="JioTV+ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png",Sony LIV Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3525c924e54154b39533d86b1c7a428a:8548b566fc6608a7d3bd601ee5f3d889
+#KODIPROP:inputstream.adaptive.license_key=4e4c5dba5bfe5a7c9338bc086eb80379:b8e8932f440084e1d2b705fa52eef94b
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://sliv.tgaadi.workers.dev/ten1hd.m3u8
 
 #EXTINF:-1 tvg-id="3373" group-title="JioTV+ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png",Sony LIV Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91fce77f2f8056f084ed961c7ebe86ed:8214bd5eb6c21444e8ea644824affd79
+#KODIPROP:inputstream.adaptive.license_key=ef24516ae38b50d18049343cd1cd998a:eb4810ec250a1795a0019dba7881ff45
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://sliv.tgaadi.workers.dev/ten2hd.m3u8
@@ -8599,24 +8597,33 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.8746997059522454" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249668_53087_SAU_WAU_FC-WEB.jpg",2026/27 [English]
-https://in-mc-flive.fancode.com/mumbai/4249668_english_hls_a2c3979ec985476_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793487555~_GO=Generated~acl=/mumbai/4249668_english_hls_a2c3979ec985476_1ta-di_h264/*~SessionID=fc-app_sportsguruand_b25_watcho_71faf523-0292-40~Signature=ATFKiJvvLu4h5HdI1dpocrIuIrgI1R5mtGillGNT9tgoegsEyr6ZlTd6kJqXxa1SxhW5BKsyyMo_X983rErFvs1Q_zcF
+#EXTINF:-1 tvg-id="ev-0.34034938875441745" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4249783_english_hls_97c5a4780024185_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793520329~_GO=Generated~acl=/mumbai/4249783_english_hls_97c5a4780024185_1ta-di_h264/*~SessionID=fc-app_sportsguruand_918_watcho_2f1887b7-1190-4a~Signature=ATFKiJs6XDIBjO5fuuWD1AO9YHJEhHa7kXImpojJctpw65F19j2K42Ga12AhoQ4e1Rp8_NPTrv5HVoFXLzWsvNqlWkkI
 
-#EXTINF:-1 tvg-id="ev-0.2721301709318249" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249669_53087_TAS_NSW_FC-WEB.jpg",2026/27 [English]
-https://in-mc-flive.fancode.com/mumbai/4249669_english_hls_0ad52e993378592_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793487556~_GO=Generated~acl=/mumbai/4249669_english_hls_0ad52e993378592_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9b8_watcho_4fb5c5cd-dca8-41~Signature=ATFKiJtM4yqv7_lGCtpXcH2yXxvVHtkMe7CLVReX0iEUbgFeVuU2vISXOgCii4uakcpZUiTKM3aVW0Is_S0OLh15OVAA
+#EXTINF:-1 tvg-id="ev-0.4471455647988798" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg",2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250526_english_hls_d3c070eb3062034_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793502739~_GO=Generated~acl=/mumbai/4250526_english_hls_d3c070eb3062034_1ta-di_h264/*~SessionID=fc-app_sportsguruand_f39_watcho_527b8621-7e58-4a~Signature=ATFKiJuq5dnmNElnQ6azaJHelJelZMekcrknZKAftEW0LktXT4SvUmQNrGFKIinv8p8JOdFk-mrWx9qoSa9ua3oMg9YK
 
-#EXTINF:-1 tvg-id="ev-0.445569619562331" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg",2026/27 [English]
-https://in-mc-flive.fancode.com/mumbai/4249670_english_hls_72230a09d416519_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793490617~_GO=Generated~acl=/mumbai/4249670_english_hls_72230a09d416519_1ta-di_h264/*~SessionID=fc-app_sportsguruand_494_watcho_0dced4d6-e051-43~Signature=ATFKiJu850NqEaV9tsqHZfoiQ8_kpx9-51kOpjjfk0L6TTqX732_qYa3XmapLHaMjV-6CyhjosrBC2MmFswohYFyrUcD
+#EXTINF:-1 tvg-id="ev-0.46218325914761527" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png",2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250519_english_hls_52d639dd0845065_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793510619~_GO=Generated~acl=/mumbai/4250519_english_hls_52d639dd0845065_1ta-di_h264/*~SessionID=fc-app_sportsguruand_d5e_watcho_81626f09-3ec1-47~Signature=ATFKiJsTh2IC2SilV8YAk0T8FL-NqDv4zgB087jyrUPrlAJv6jHYDh548PtBG28EOITY4QfKweeOrK4NrUE_dSv0ZNEM
 
-#EXTINF:-1 tvg-id="ev-0.5105400317996523" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250317_53120_SCO_SL_fc-web.jpg",2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250317_english_hls_649458dff333332_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793496074~_GO=Generated~acl=/mumbai/4250317_english_hls_649458dff333332_1ta-di_h264/*~SessionID=fc-app_sportsguruand_072_watcho_c6fc19bc-3cf9-48~Signature=ATFKiJsOzs2hbLC57rFL4jEXkDu83DJ--3DAEygf7mOtESNnbO0NbByrEQZvK10Wgsatkq7VttVICKqA9GCGcal_8LsL
+#EXTINF:-1 tvg-id="ev-0.07823030014701149" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",ICC CWC Challenge League A 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250349_english_hls_a784cd9b8693638_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793514861~_GO=Generated~acl=/mumbai/4250349_english_hls_a784cd9b8693638_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9e8_watcho_289aa8e1-8da2-40~Signature=ATFKiJuv9bQgcep1hFkuyUfMHlek4_oeTEhy7f1o19nh08ngZ_RbCWi7W6guhTf-9p0rZAJsgZJGZqWEdJ6_MmvcFC4P
 
-#EXTINF:-1 tvg-id="ev-0.1892135617664794" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250318_53120_UAE_IND_fc-web.jpg",2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250318_english_hls_70a4af040149501_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793499710~_GO=Generated~acl=/mumbai/4250318_english_hls_70a4af040149501_1ta-di_h264/*~SessionID=fc-app_sportsguruand_fb8_watcho_1c3930de-a362-43~Signature=ATFKiJsnMdEL3kAS5Ub7u7SB79q-TcxBBhVEgc8238CxI612GB2pycPfoPBEkPagygySNeAfvJzZzW3ot0t0BBAvyLoG
+#EXTINF:-1 tvg-id="ev-0.3012581279547185" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",ICC CWC Challenge League A 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250350_english_hls_b54e08c6d873024_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793514878~_GO=Generated~acl=/mumbai/4250350_english_hls_b54e08c6d873024_1ta-di_h264/*~SessionID=fc-app_sportsguruand_16e_watcho_12a52a96-64fa-4e~Signature=ATFKiJsUBZyz5I9hc37SCD2jv7D7rjKvPdIcSQ3Is-3JEqZMrEm77TW2yJVM6Ezw35KajGZWw50bnnayOLOQh74h1SsG
 
-#EXTINF:-1 tvg-id="ev-0.10811385238626536" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Petronas-Grand-Prix-of-Malaysia_fc-web.jpg",PETRONAS GRAND PRIX OF MALAYSIA 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/139982_english_hls_db06becffb50637_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1793493042~_GO=Generated~acl=/mumbai/139982_english_hls_db06becffb50637_1ta-di_h264/*~SessionID=fc-app_sportsguruand_7cb_watcho_a23f8368-aaea-4a~Signature=ATFKiJtQfzcpJoinDCNFbY8F0F1o2uttGWXFkyj_Hf1B8Rd3NTVmMgn1b91rttUPNR2B2d7sEWk5SiB9cBh5SoLImVQF
+#EXTINF:-1 tvg-id="ev-0.6298821398372056" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/SCO-vs-AFG_fc-web.jpg",2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250324_english_hls_f0fd3d36d835431_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793519722~_GO=Generated~acl=/mumbai/4250324_english_hls_f0fd3d36d835431_1ta-di_h264/*~SessionID=fc-app_sportsguruand_9e2_watcho_b43cc783-2779-47~Signature=ATFKiJvjULAhbwqDzI_CdpyRel2FknvM9Cgz6jy1sGyHQl_15VgFMv9PW5ef3R8LUXp0X80iliEs1J1iLt9Y14pR5dgM
 
-#EXTINF:-1 tvg-id="ev-0.3022066491006947" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027792/1793356107617263_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day1_landscape_thumb.jpg",2nd Unofficial Test - Day 1 - 31 Oct 2026 [ENG] - India A Tour of New Zealand
-https://sonydaime.akamaized.net/hls/live/2120303/criclive3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793457989~acl=/*~id=48044854470540049386613568437763~hmac=728d69eaf3ad6ea59248eea0b479ccd52bcfcc6444f84a84c6d94e7d9bafdd36
+#EXTINF:-1 tvg-id="ev-0.2324838629357323" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250391_53125_PS-W_MR-W_fc-web_1793352701283.jpg",2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250391_english_hls_9173e82c8482158_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793519723~_GO=Generated~acl=/mumbai/4250391_english_hls_9173e82c8482158_1ta-di_h264/*~SessionID=fc-app_sportsguruand_394_watcho_cf95e895-9542-4e~Signature=ATFKiJvR4wwx0LbliHDHzRh_cUgnSz6sVKewmwvFFeN5ExpcAxRVaVjJp3QXAsiIQuHkOVHt61daU4nzHuglrWwzmh8F
+
+#EXTINF:-1 tvg-id="ev-0.4599074390991986" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Petronas-Grand-Prix-of-Malaysia_fc-web.jpg",PETRONAS GRAND PRIX OF MALAYSIA 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/139982_english_hls_db06becffb50637_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1793522162~_GO=Generated~acl=/mumbai/139982_english_hls_db06becffb50637_1ta-di_h264/*~SessionID=fc-app_sportsguruand_dfa_watcho_089216a0-41ee-4b~Signature=ATFKiJsuRLln0tbly-yCNZUtRR8H8RrQm-5OBZr2C5iuWVJGC34HnptYIvlj5PpSHWGVEFIpYmb2GCtYw8CMQxjSObcP
+
+#EXTINF:-1 tvg-id="ev-0.21918428383091937" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Wistron-Ladies-Open-2026_fc-web.jpg",Wistron Ladies Open 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250514_english_hls_25387e8ba428316_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793512437~_GO=Generated~acl=/mumbai/4250514_english_hls_25387e8ba428316_1ta-di_h264/*~SessionID=fc-app_sportsguruand_269_watcho_3a89a51c-924b-4f~Signature=ATFKiJutLHRUbrdTRpMXGOU3alcipVPMKJtgTujWI5wCkOYcl2V-RxGxxw4Sq8F0IcUOyL65zvY7Y_-Q4Q4_b5csDkcM
+
+#EXTINF:-1 tvg-id="ev-0.03638457084239188" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249849_53101_MAC_SYW_fc-Web_1792223293101.jpg",A-League 2026-27 [English]
+https://in-mc-flive.fancode.com/mumbai/4249849_english_hls_b67260706b16169_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793521548~_GO=Generated~acl=/mumbai/4249849_english_hls_b67260706b16169_1ta-di_h264/*~SessionID=fc-app_sportsguruand_ed7_watcho_f1d9c10d-c109-4f~Signature=ATFKiJvNJPu1TrR1HxaUKOMXbNuBbYa_utA01EG9dPNH3Yn8U8oAOQlFfE5gLjuOzEL8G3DVoi3YFE_trm_De8d98usL
 
