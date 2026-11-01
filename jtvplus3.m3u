@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 2/11/2026, 01:25:28
+# Generated: 2/11/2026, 04:40:09
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -8597,18 +8597,15 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.2215421122997704" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250499_53130_AJM_EMR_fc-web_1792412929398.jpg",2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250499_english_hls_64f93326f698395_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793636426~_GO=Generated~acl=/mumbai/4250499_english_hls_64f93326f698395_1ta-di_h264/*~SessionID=fc-app_sportsguruand_470_watcho_a4463113-8c97-43~Signature=ATFKiJt8T54VyL2SkSYHti15Ja3of0QnLgbxMx1fUrvvfAxU3P0h8Y_3Ma6gWRuQPb2-MALfWC5oxsoMSGifeDK_eVsI
-
-#EXTINF:-1 tvg-id="ev-0.02624764643833033" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Mini.png",2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250203_english_hls_91f4cd541682224_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793638904~_GO=Generated~acl=/mumbai/4250203_english_hls_91f4cd541682224_1ta-di_h264/*~SessionID=fc-app_sportsguruand_385_watcho_b298c33e-8bf8-4f~Signature=ATFKiJsSysvWaQ66iw0KCWqvhaFnaSUn8049xrPHnVckFIXkVIPc6QbOIuTI54Z3aJVAYhO4DRvNdcgB8bXDlVN216gG
-
-#EXTINF:-1 tvg-id="ev-0.7480358398280647" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mexico_GP_FC_web.jpg",F1 GRAN PREMIO DE LA CUIDAD DE MEXICO 2026 [Hindi]
+#EXTINF:-1 tvg-id="ev-0.3167337407370998" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mexico_GP_FC_web.jpg",F1 GRAN PREMIO DE LA CUIDAD DE MEXICO 2026 [Hindi]
 https://in-mc-flive.fancode.com/mumbai/139511_hindi_hls_a6cb54363d37600_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1793556559~_GO=Generated~acl=/mumbai/139511_hindi_hls_a6cb54363d37600_1ta-di_h264/*~SessionID=8e2c069a44ee9f20_fc-app_sportsguruand_1fd43442-bac5-40~Signature=ATFKiJvdIUANLwjMJeBStTwODAF_JdQwx0V_M90j6C95VJs1NnuJwhCD1zehL3ZO5ImmWV86T8z1ttiwvKSneiQ9IvcP
 
-#EXTINF:-1 tvg-id="ev-0.004845959332001826" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mexico_GP_FC_web.jpg",F1 GRAN PREMIO DE LA CUIDAD DE MEXICO 2026 [Tamil]
+#EXTINF:-1 tvg-id="ev-0.9940645333674217" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mexico_GP_FC_web.jpg",F1 GRAN PREMIO DE LA CUIDAD DE MEXICO 2026 [Tamil]
 https://in-mc-flive.fancode.com/mumbai/139511_tamil_hls_326caee4ab94903_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1793556559~_GO=Generated~acl=/mumbai/139511_tamil_hls_326caee4ab94903_1ta-di_h264/*~SessionID=8e2c069a44ee9f20_fc-app_sportsguruand_8aaf734a-2be5-41~Signature=ATFKiJtLFsg_1ytUggEjjHieWFqNPCnpUmvE2vXz7qMEyXSLPQ6P-AMMJnrIbtcW8rKN--W7Ky_3FJYIxxwRaGRwGeIO
 
-#EXTINF:-1 tvg-id="ev-0.8324004697943485" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1792760641052.png",VidantaWorld Mexico Open 2026 [English]
+#EXTINF:-1 tvg-id="ev-0.49381269368613623" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1792760641052.png",VidantaWorld Mexico Open 2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4250511_english_hls_91146ecc6c34862_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793645692~_GO=Generated~acl=/mumbai/4250511_english_hls_91146ecc6c34862_1ta-di_h264/*~SessionID=fc-app_sportsguruand_279_watcho_be2eb0c0-6024-44~Signature=ATFKiJuFxJb_VpLSXL8-JHiZG6sryWP3xPLzJvMtBxWktHGYlvw13TA587gwo6IDJYgnvBzdbcGA4Qwa2o4ylF1TGVcC
+
+#EXTINF:-1 tvg-id="ev-0.6924820634952934" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027941/1793475427256507_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day3_landscape_thumb.jpg",2nd Unofficial Test - Day 3 - 2 Nov 2026 [ENG] - India A Tour of New Zealand
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793617544~acl=/*~id=38962073667426684574556937853566~hmac=f280d390f71307d932ca776da4915d5467cfe556a32fc7d85ffad90b2e0c45ea
 
