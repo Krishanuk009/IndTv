@@ -9,7 +9,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.net/mix/allowipmpd_key.php?id=chlajabsdk
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3Yf3PHX/DRMLIVE-Aggressive-Logo.png" group-title="1-Playlist-Activation",Activate Playlist
-https://mix.drmlive.net/mix/actchaljabsdk.mpd?token=YWJTTzZKeWI2amJwZ3FJY0hHb1RNeEdkSEtYc0E3bHJwbU9Hc1dFb1ZSTDRmZStzeDdrY2FQTGZiWmVack56dFRqOUREdmtBdk5vRDNlQUd5NjNaS1E9PQ==
+https://mix.drmlive.net/mix/actchaljabsdk.mpd?token=YWJTTzZKeWI2amJwZ3FJY0hHb1RNMW9Uc1VjVzVTem8yUGlIcXZtWkZ1WVAxOXk0ZUcwM0JNTTkxeXZhcjUyeUZNeFJZa2FFUDY5Q1VrYVhWMWxsRlE9PQ==
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://la.drmlive.net/tp/sling_ck?id=2152
@@ -3775,6 +3775,8 @@ https://mix.drmlive.net/mix/playboxtv.m3u8?id=PBha-10571
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=PBha-10573
 #EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/PBha-108351780576866646.png" group-title="Lifestyle & Education",DD Rajasthan
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=PBha-10835
+#EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/700128091.jpg" group-title="Religious & Devotional",Nistha Dhawani
+https://mix.drmlive.net/mix/playboxtv.m3u8?id=700128091
 #EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/698447019.jpeg" group-title="Religious & Devotional",Arihant
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=698447019
 #EXTINF:-1 tvg-logo="https://playboxtv-vod.multitvsolution.com/media.playboxtv.in/content/liveTv/699867085.jpeg" group-title="Religious & Devotional",Jinwani
