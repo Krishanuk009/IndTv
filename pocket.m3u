@@ -61,13 +61,13 @@ http://premiumplug.fun/tee/playlist.php/0-9-360.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f415c124a07c595b97c43cc9a96ded30:59e6c93d4fe43353b34a71eb87185aaa
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_TV_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_TV_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="368" group-title="Tamil" tvg-logo="https://tatalogo.pages.dev/496.png",Star Vijay HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=25dd000e5523540cbd82ae7957fef7d7:f1d145d84b648242ef0b3ad2cac7eeb8
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Vijay_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Vijay_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="1356" group-title="Tamil" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeTamilHD_Thumbnail_7022fe5b-89a2-4cca-a9d0-58e46baa6d5c.png",Zee Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -79,25 +79,25 @@ https://game.playindia.fun/Jtv/FoxRVM/Jtv.mpd?id=1356
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=baef1ec2689b57478d44a4138c0deeb7:e264b8d2dd6661ca6ca8540bffc44638
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsTamilHD_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsTamilHD_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="3622" group-title="Tamil" tvg-logo="https://i.ibb.co/k2S2X6Pg/sony-vizha.png",Sony Vizha HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fedc939f3c6b52c782d20b0a459d6ac6:5c03dfa28b790cdda468a01a1da7873c
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyVizha_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyVizha_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="894" group-title="Tamil" tvg-logo="https://i.ibb.co/27bxZ2Zs/ktv.png",KTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba9bfe750a56514e9c63c456fad1e428:e0ca0ee9dbaac2942753d928b92824c5
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/KTV_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/KTV_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="895" group-title="Tamil" tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Sun_Music_HD.png",Sun Music HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa0c0f2dd6ce50208b77e16976e38d90:7f83a8e5178b6562d81968886fc3fe8a
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_Music_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_Music_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="1209" group-title="Tamil" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-819-j5m8fsfs-v1/imageContent-819-j5m8fsfs-m1.png",Kalaignar TV
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
@@ -123,50 +123,50 @@ https://game.playindia.fun/Jtv/4wxhf2/Jtv.mpd?id=3051
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=accd6f6ff0f55c1db84694101db6fd2d:64b60808649a36fff96fd10016cf0add
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/Vijay_Super_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Vijay_Super_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="709" group-title="Tamil" tvg-logo="https://i.ibb.co/gFFC2vn9/aditya.png",Adithya TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b7d2d1228b275e219c9cdb282038d4c3:d75d95afc4a181803d2188456a052477
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/Adithya_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Adithya_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="682" group-title="Tamil" tvg-logo="https://i.ibb.co/MkK86W0P/life.png",Sun life
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03fff2c1ecea574b98da00b05c2a0be9:41670b42142fa8ba6bd3cf9fc2ae8cf5
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_Life_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_Life_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="3269" group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-73570-l91cvyrk-v1/imageContent-73570-l91cvyrk-m2.png",Vijay Takkar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b7c26f031a5518983e34d269f7f9218:acfb670c15004a1b11c5d3dd33dad027
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/Vijay_Takkar_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Vijay_Takkar_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="417" group-title="Movies" tvg-logo="https://tatalogo.pages.dev/201.png",J Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=531467efbbf156d793766adfe62d6a26:3e4eef5502a6da48b91894c33310ea93
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/J_Movies_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/J_Movies_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="683" group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11679-j9khnqag-v1/imageContent-11679-j9khnqag-m1.png",Raj Digital Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2773e9650f9b5f6ba411dfd53cdf7912:57e6dcc6387ceace62737326811a1ef5
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
-#https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_Digital_Plus_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+#https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_Digital_Plus_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="ts434" group-title="Tamil" tvg-logo="https://tatalogo.pages.dev/434.png",Jothi TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa875e7aa00e5f2186ba07232a318f7b:1edd25af2b8fa6a6b18e5630285ae234
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/Jothi_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Jothi_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="569" group-title="Tamil" tvg-logo="https://tatalogo.pages.dev/99.png",D Tamil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=28cc7ab1093057648dc408417bb57d43:45d146719c37669b4ab7f700fe63e82f
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/Discovery_Channel_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Discovery_Channel_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="762" tvg-logo="https://tatalogo.pages.dev/32.png" group-title="Movies",Sony Pix HD
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009258&uid=8004188626&pass=61498d15
@@ -175,20 +175,20 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009258&uid=8004188626
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fb29e5825b4554090de8d60674e4bd1:4234d56f45d2dc89f80e6d4d30b765be
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/StarMoviesHD_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/StarMoviesHD_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="1110" group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12193-j9q33dpc-v2/imageContent-12193-j9q33dpc-m3.png",Star Movies Select HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee96dad500c4537390df63f0f2c8de60:f6bee36ddb86f9c24def2a4a8df19e8e
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="748" group-title="Music" tvg-logo="https://i.ibb.co/k208SrCQ/raj.png",Raj Musix
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5968d25bb125bd6a8a1afe4b45d8711:ecb4f2a37bb7511baf2a3a93cdef375e
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
-#https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_Musix_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+#https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_Musix_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="420" group-title="Music" tvg-logo="https://tatalogo.pages.dev/199.png",Jaya Max
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -199,31 +199,31 @@ https://login.bheem.tv/bpk-tv/22374/output/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e30e813ab8935734a197205da8a5fd80:462b1cd9a1e74b6af3132e04fc307094
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Infinity_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Infinity_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="1145" group-title="Entertainment" tvg-logo="https://tatalogo.pages.dev/406.png",MTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8972143db295ee891a18692ddee0f8b:c48a806fadcb2ef8ae800d128c6f3332
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/MTV_HD_Plus_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/MTV_HD_Plus_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="1375" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11162-j99oso8o-v2/imageContent-11162-j99oso8o-m1.png",Disney International HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2504a914062c5bdeb186269abab353ad:0074716c4730c473be85070b2ba46cc9
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_International_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_International_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="2327" group-title="Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Lionsgate_Play.png",Lionsgate Play
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e102510d93855b6099797d7663926563:636665fc62b93f67db5266665615ea55
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/Lionsgate_Play_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Lionsgate_Play_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="676" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/478_144.png",Sun News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e8b0b960d29658969d74da596e2787e1:9b4051847231c9e1fd717df5aa5e0eea
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_News_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_News_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="3045" group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TAMILJNM_Thumbnail-v6/TAMILJNM_Thumbnail.png",Tamil Janam
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -235,43 +235,43 @@ https://onekey.virey40690.workers.dev/mpd/3045
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dbf09ac3d0f45b4ab418d62d206b4865:f440838bdffa36d041e405dc2734dab2
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_News_24x7_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_News_24x7_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="418" group-title="News" tvg-logo="https://tatalogo.pages.dev/198.png",Jaya Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1aefaf169735829b2a6fb77e403eac2:941252b4e0873390b6909258b7fc5b89
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/Jaya_Plus_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Jaya_Plus_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="1106" group-title="Sports" tvg-logo="https://tatalogo.pages.dev/78.png",Star Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #KODIPROP:inputstream.adaptive.license_key=06dd6287c4b956419d15d6c8e513aeed:a82d6b850b5c281c0054fc6d55e1c6ba,45825561f4ef516691a9e16d1d35dd1d:3951fe7fbf4b0b33e6246fc401f76797
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd?__hdnea__=st=1793680530~exp=1793702130~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=0e3be045fe1cff79ed318aa2f9b3119d4c50b2d244e2e2747a9599f32149cbfb
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd?__hdnea__=st=1793702736~exp=1793724336~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=d6cc098e7c678b081dd5aaca2892e762cd4fef92bc3737ecd684844f42fc4550
 
 #EXTINF:-1 tvg-id="1109" group-title="Sports" tvg-logo="https://tatalogo.pages.dev/235.png",Star Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b99144f27b865d6ba1007fead82b2783:b2f10f09a771327b9bc69484d78e4595,c1ea31b9099b5030b14b67b41dc547d2:db74fb55442bc9cf7e8e9f364b3fe37f
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd?__hdnea__=st=1793680530~exp=1793702130~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=0cf3127664cf62d2d0607f56378fce865b10ea819bbd2f0dd7b257ff41c79c9b
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd?__hdnea__=st=1793702736~exp=1793724336~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=67c8ce38135a5b8633775a11fe8f82200b923b3b875d0d29213889a227d05f84
 
 #EXTINF:-1 tvg-id="1389" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31405-jm2isen4-v1/imageContent-31405-jm2isen4-m1.png",Star Sports 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2904732c8fb55ebeaa0f59316916997e:f69101b71872dcfb2cd1987d3773c0f4,82dc7db814ef5165a3d93102f40a5142:f767c4c59fbfeaf84754994a0ed5dc8b
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd?__hdnea__=st=1793680541~exp=1793702141~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=25a7c49630673ddae5da346ff3557f7dc383c05894fdf1508816a873a686b61c
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd?__hdnea__=st=1793702747~exp=1793724347~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=97bed73116f9dd83141a1450127c2f074416b38a98d63c2f13776d6a14dc7c4b
 
 #EXTINF:-1 tvg-id="3277" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SS1TAMHD_Thumbnail-v1/SS1TAMHD_Thumbnail.png",Star Sports 1 Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1e9099af7f025ad6b3fd363bb2db8faf:c45a762695c40f6675b8b56ac50e97a5,439d31fa05525a99b856e852d035023b:83728b98188b1fa8bf69509e1796fb27
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1793680541~exp=1793702141~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=d9c96d255f8c1d08193522d3f15335508f817a11ccb011ba402d385c5549767c
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1793702747~exp=1793724347~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=ecb9ad5fa7ce31c93cb05fe50dc41fc89580443ef2af0d028ffb2edc64996aee
 
 #EXTINF:-1 tvg-id="3273" group-title="Sports" tvg-logo="https://i.ibb.co/B26cyzHQ/Picsart-25-09-02-15-54-57-364.png",Star Sports 2 Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=92cfd893ab8551d59a773afce91fc790:906e0d6c4accf6bdaad9a6167f8ae53a,bd9dfd385dbc56a99a048f88d3828571:eecf613dad0b8250ffaddc7ba86be68b
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1793680541~exp=1793702141~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=cd6a81ec488373d35972c6f6b5c501854a7a3250fcafa9363b3169efc53c7080
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1793702747~exp=1793724347~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=47d66b4f585701ed660b946fea966d2bf4dd78793c08c018c61a9146499e6ef0
 
 #EXTINF:-1 tvg-id="ts502" group-title="Sports" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Unite8Sports1HD_Thumbnail_eba6519a-bf0a-4073-ab79-72441c22c9a0.png",Unite8 Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -289,13 +289,13 @@ https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc04426ac28359a7b620934ddbbecb7c:0074c460557b1f21a60fa0aada550e3a,8fc8499852ea5182b2a9307bd921cea1:c0ff2fbd59e26d6633f98af470c4d7b6
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/index.mpd?__hdnea__=st=1793680541~exp=1793702141~acl=/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/*~hmac=2b827849dbbb77be3851fab1812cec671f2f4262736cab4f0100ed63497f6b17
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/index.mpd?__hdnea__=st=1793702747~exp=1793724347~acl=/bpk-tv/Star_Sports_Select_HD_1_BTS/WDVLive/*~hmac=a6b891974afb931574e7b0e31b5dad28c15144ad74d22127b44e2b35af2e6529
 
 #EXTINF:-1 tvg-id="ts463" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Sports",Star Sports Select 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c443dffefb256a5b7a1364cc4af3529:1d78f35200eb5977a95de669788cf128,25fbb2a932b25e9aacae947b2f873d3c:ac6a6a416b9d26be6819e80c2fe5d39f
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/index.mpd?__hdnea__=st=1793680541~exp=1793702141~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=dca18eda762be726f62cf706faa702511537ad6ef755e774ea3f133c96e3ce1d
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/index.mpd?__hdnea__=st=1793702747~exp=1793724347~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=e34084d9e9df3a1b232b54ed1d14defb4bcf1c53e4ca4aefff6c2a38d83606d5
 
 #EXTINF:-1 tvg-id="162" tvg-logo="https://tatalogo.pages.dev/81.png" group-title="Sports", Sony Sports Ten 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -323,13 +323,13 @@ https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c2adcfad63a35590b854ad5f2a0196da:c33d877834cab56aefcee23b05430b2e
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_Hindi_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_Hindi_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="815" group-title="Kids" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Sonic_Thumbnail_499a3f89-3733-4a5e-8a39-642a6eee5393.png",Sonic
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14af5805a98f52bdb1001f47ee99a211:fd7eb438ff90f8412832e230dd8db804
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/sonic_Hindi_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/sonic_Hindi_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="559" group-title="Kids" tvg-logo="https://tatalogo.pages.dev/239.png",Pogo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -350,61 +350,61 @@ https://login.bheem.tv/bpk-tv/22096/output/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6c198ef16ac5c5f8891dade7f781773:2be7b4ae3582fc2531dc1c36dd0fe91a
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/Chutti_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Chutti_TV_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="1373" group-title="Kids" tvg-logo="https://tatalogo.pages.dev/114.png",Disney Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=400d0f354dca5d44a540cd80db766f4c:22da170bb5ae36ef5cab42b3842658d8
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="1374" group-title="Kids" tvg-logo="https://tatalogo.pages.dev/144.png",Disney Junior
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a92e184d07a75cb6817cee9f0a677b47:d9b68fa62fb2ae68a044d36f6306569f
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Junior_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Junior_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="1391" group-title="Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11479-j9jr9a8o-v1/imageContent-11479-j9jr9a8o-m1.png",Hungama
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a24c34e396d75a18bce46aa471f1e164:b2b0db9965848d72fc3c13bf09724e83
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/Hungama_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Hungama_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="1392" group-title="Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png",Super Hungama
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=688db477181f50fd981c94efda31d6b8:9572ab827846677bc7e84fbc53ccc226
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/Super_Hungama_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Super_Hungama_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="544" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/NickJr_Thumbnail_7d189eb7-d1fa-40c5-a5dd-30b95e3ee79d.png" group-title="Kids",Nick Jr
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=05cfc30814e85bf583d62ca83b816d56:7a82110ea07a874a019c1402ac0d5339
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_Junior_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_Junior_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="554" group-title="Kids" tvg-logo="https://tatalogo.pages.dev/119.png",Discovery Kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=001a44205b2158be9db4bca1636ae5ac:9d1bddb7d66d4a73801abde7bc460a89
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/DiscoveryKidsHin_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/DiscoveryKidsHin_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="872" group-title="Kids" tvg-logo="https://tatalogo.pages.dev/45.png",Sony YAY!
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=271a8e6c5d9d5696a11c474a5c18371c:d6e2ece0c28b900dc6a868991cdf2517
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyYAYHin_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyYAYHin_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="1226" group-title="Kids" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/NickHDPlus_Thumbnail_c2d3ac26-019f-4f66-9dec-8c1228f92ddf.png",Nick HD+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0508bb9a7e695fe99c7c547d84f60522:85330921d24866be8d5b9da65ad01965
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_HD_Plus_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_HD_Plus_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="146" group-title="Infotainment" tvg-logo="https://tatalogo.pages.dev/616.png",History TV18 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d54023f9a77158a5a192c68e8d3086d6:dddf9f57a4ab5fc9c605545f13ebca94
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/History_18_Hindi_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/History_18_Hindi_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="3444" group-title="Infotainment" tvg-logo="https://tatalogo.pages.dev/219.png",Discovery HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -416,13 +416,13 @@ https://wbd.skandha.tv/DSC_HD_India/DSC_HD_India.isml/.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3af1f24c63a5cc2bf71921eed28d1ff:80f4de40d7603bd8e45fe41db53f5198
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/National_Geographic_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/National_Geographic_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="1332" group-title="Infotainment" tvg-logo="https://tatalogo.pages.dev/413.png",Nat Geo Wild HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=999ce48f3e4d5de8b72c34f213176d9e:13e3ca891d32d158d8108007fef88388
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="3451" group-title="Infotainment" tvg-logo="https://tatalogo.pages.dev/130.png",Animal Planet HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -433,13 +433,13 @@ https://login.bheem.tv/bpk-tv/22052/output/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d533dd92ca057ce85910fbb98be77d5:442690c7c5852ca7c63b63d483ab6bc3
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="814" group-title="Infotainment" tvg-logo="https://tatalogo.pages.dev/444.png",Travelxp Tamil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cf6ced63e3985712bfac07d09f21f2d6:703e7ab711207c756355edf6c38d96cc
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/Travel_XP_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1793684330~exp=1793705930~acl=/*~hmac=2328f7e3178b333adb2def27c6a17ffcbe9defb5b376a208d0e249e05e880dfc
+https://jiotvmblive.cdn.jio.com/bpk-tv/Travel_XP_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1793720492~exp=1793742092~acl=/*~hmac=32eee32ba6e9b7a94667ff63c72faaf3f2889463f3b235d6d36bc450f1a01857
 
 #EXTINF:-1 tvg-id="2948" group-title="Infotainment" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeZestHD_Thumbnail_3896179b-ce59-4e5e-aada-4d7a4160e25a.png",Zee Zest HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1585,6 +1585,10 @@ https://live.rojatv.cloud/rojatv/rojatv/index.m3u8
 https://apis.avmediawork.in/tvhls/rocktv.m3u8
 #EXTINF:-1 tvg-id="OLI TV" tvg-name="OLI TV" tvg-logo="https://i.ibb.co/tPsBQWky/logo-png.png" group-title="Local Channels", OLI TV
 https://live.olidigital.in/olitv/olitv/index.m3u8
+#EXTINF:-1 tvg-id="RojaTVENT" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/RojaTV2.png" tvg-region="Coimbatore" group-title="Local Channels",Roja TV Entertainment
+http://rojatv.stream.nellaiiptv.com/rojatv/rojatv/index.m3u8
+#EXTINF:-1 tvg-id="RojaTVENT" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/RojaTV2.png" tvg-region="Coimbatore" group-title="Local Channels",Roja Lifestyle
+http://rojatventer.stream.nellaiiptv.com/rojatventer/rojatventer/index.m3u8
 #EXTINF:-1 tvg-id="MNTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/MNTV.png" tvg-region="Dharmapuri" group-title="Local Channels",MN TV
 https://mntv.livebox.co.in/mntvhls/live.m3u8
 #EXTINF:-1 tvg-name="MN Music" group-title="Music" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_0846274573125433222986374.png",MN Music
@@ -1641,120 +1645,6 @@ http://brightmeltech.in/singamtv/singamtv.m3u8
 https://hlsstream.olidigital.in/kodumudi/tv/index.m3u8
 
 
-    IPCLOUD 
-  
-#EXTINF:-1  tvg-name="7star Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_0026202554836848690543423.png",7star Tv
-http://7starcloud.com:1935/live/7star2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1775660766_WhatsApp Image 2026-04-08 at 7.00.55 PM.jpeg" group-title="Local Channels", Mullai TV
-https://ipcloud.live/mullaitv/mullaitv/index.m3u8
-#EXTINF:-1 tvg-id="AadvikTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1736158234_Aadvik%20logo%201_00000.png" tvg-region="Sambavarvadakarai" group-title="Music",Aadvik TV
-http://ipcloud.live:8080/sachintv/aadviktv/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/SarvikTV.png" tvg-category="Local",Sarvik TV 
-https://live3.onecloudlive.in/sachintv/sarvikhd/index.m3u8
-#EXTINF:-1 tvg-id="MMTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/MMTV.png" tvg-region="Chennai" group-title="Local Channels",MM TV
-https://ipcloud.live/mmtv/mmtvhd/index.m3u8
-#EXTINF:-1 tvg-id="SkyPlusTV" tvg-logo="https://play-lh.googleusercontent.com/ApkLVeNBOSyeOx-ciN8PXlqUkBhGg2TmufFq8aei1tu2k8i9SU5PYR5byRI9C42dT4I" tvg-region="Tiruchengode;Namakkal" group-title="Local Channels",Sky Plus TV
-https://ipcloud.live/skytv/skytv/index.m3u8
-#EXTINF:-1 tvg-id="MagalirTV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-MAGALIR-TV.png?alt=media&token=479bc182-afa2-406a-8dbb" tvg-region="Unknown" group-title="Local Channels",Magalir TV
-https://ipcloud.live/ctn/magalir/index.m3u8
-#EXTINF:-1 tvg-name="Namma Gobi Tv" group-title="Local Channels" tvg-logo="https://i.ibb.co/gb4Rg2TG/1000147011.jpg",Namma Gobi Tv
-https://cdn1.rojatv.cloud/nammagobi/tv/index.m3u8
-#EXTINF:-1 tvg-id="SuperTVDindigul" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1769694007_super%20tv%20logo%20png.png" tvg-region="Dindigul" group-title="Local Channels",Super TV Dindigul
-https://stream.rojatv.cloud/super/tv/index.m3u8
-#EXTINF:-1 tvg-id="KumaranTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1752739119_WhatsApp%2520Image%25202025-07-17%2520at%252012.53.10%2520PM.jpeg&w=1080&q=75" group-title="Local Channels",Kumaran TV
-https://air.rojatv.cloud/kumarantv/gobi/index.m3u8
-#EXTINF:-1 tvg-id="HansithaTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1767717103_H1.png&w=1920&q=75" group-title="Local Channels",Hansitha TV
-https://air.rojatv.cloud/hanshitha/tv/index.m3u8
-#EXTINF:-1 tvg-id="ThirumalaiTV" tvg-logo="" group-title="Local Channels",Thirumalai TV Vadipatti
-https://ipcloud.live/thirumalaitv/madurai/index.m3u8
-#EXTINF:-1 tvg-id="NilaTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1772708977_Nila Tv_00151.png" tvg-region="Sivaganga;Madurai" group-title="Local Channels",Nila TV Sivagangai
-http://nilatvsg.stream.mystreams.in/live/nilatvsg/index.m3u8
-#EXTINF:-1 tvg-name="anandham tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1753975377_ANANTHAM TV LOGO.png" group-title="Local Channels",Anandham TV
-https://anandhamtv.stream.ipcloud.live/anandhamtv/anandhamtv/index.m3u8
-#EXTINF:-1 tvg-name="Subash HD" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785745653_1785411879_Subash Tv Logo copy.png" group-title="Local Channels",Subash HD
-https://subashhd.stream.onecloudlive.in/subashhd/subashtvhd/index.m3u8
-#EXTINF:-1  tvg-name="Rio Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240402_0221238756828529382335106.png",Rio Tv
-https://ipcloud.live/riotv/riotvhd/index.m3u8
-#EXTINF:-1 tvg-id="MTelevision" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1793170455.webp" tvg-region="Kodaikanal" group-title="Local Channels",M Television
-https://ipcloud.live/mtv/menhd/index.m3u8
-#EXTINF:-1 tvg-id="OmTVSalem" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1773769052_om%20tv.png" tvg-region="Salem" group-title="Local Channels",Om TV
-http://omtv.7starcloud.com:1935/omtv/live/live.m3u8
-#EXTINF:-1 tvg-id="ShaliniTVTiruvannamalai" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746462375_WhatsApp_Image_2025-05-05_at_8.18.04_PM-removebg-preview.png&w=1080&q=75" group-title="Local Channels",Shalini TV Tiruvannamalai
-https://ipcloud.live/shalinitv/shalinitv/index.m3u8
-#EXTINF:-1 tvg-id="SachinMusic" tvg-name="" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1736158383_Comp%201_00075.png" tvg-region="Sambavarvadakarai" group-title="Music",Sachin Music
-https://ipcloud.live/sachintv/musichd/index.m3u8
-#EXTINF:-1  tvg-name="Veera Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240330_1043373423456639852726320.png",Veera Tv
-https://ipcloud.live/veeratv/veeratvhd/index.m3u8
-#EXTINF:-1 tvg-id="AsokaTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1732009724_FB_IMG_1708271343320-removebg-preview.png" tvg-region="Coimbatore" group-title="Local Channels",Asoka TV
-http://ipcloud.live/asokatv/asokahd/index.m3u8
-#EXTINF:-1  tvg-name="Veera Tv" group-title="Local Channels" tvg-logo="",Mathan Tv
-https://ipcloud.live/mathantv/mathantv/index.m3u8
-#EXTINF:-1 tvg-id="AADHAVAN" tvg-name="AADHAVAN TV" tvg-logo="https://i.ibb.co/4nhfjpV9/Whats-App-Image-2025-03-14-at-9-29-23-PM.jpg" group-title="Local Channels", AADHAVAN TV
-http://mkpcloud.playit.plus:1024/Aadhavantv/Aadhavantv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="mkptv" tvg-name="MKP TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/MKP-CLOUD/main/MKP%20TV.png" group-title="Local Channels",MKP TV
-http://mkpcloud.playit.plus:1024/mkptv/myStream/playlist.m3u8
-#EXTINF:-1  tvg-name="Veerali TV" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240224_08235948468612976683204.png",Veerali Tv
-https://ipcloud.live/veerali/veeralitv/index.m3u8
-#EXTINF:-1 tvg-id="ashoka_hd_tv" tvg-name="Ashoka HD Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240306_2318315118330179838433975.png" group-title="Local Channels",Ashoka Hd Tv
-http://ipcloud.live/asokatv/asokahd/index.mpd
-#EXTINF:-1 tvg-id="UdhayamTV" tvg-logo="https://play-lh.googleusercontent.com/I-rcjG38vEXWpJnCPBGYwb7ewylDfPPM-F6V7YkQ2WovdqFdo5V3gpwebrMDNx_LX2V21hURwSbOLZKFvvo_pQ=w640-h960-rw" tvg-region="Pochampalli;Krishnagiri" group-title="Local Channels",Udhayam TV
-https://ipcloud.live/udhayamtv/udhayamtv/index.m3u8
-#EXTINF:-1 tvg-name="dhavathai tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784822125_LOGO New (1).png" group-title="Local Channels",devadhai Tv
-https://devadhaitv.stream.ipcloud.live/devadhaitv/devadhaitv/index.m3u8
-#EXTINF:-1 tvg-id="king_tv" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240417_0648507074090062179557333.png" group-title="Local Channels",King Tv
-https://ipcloud.live/kingtv/kingtv/index.m3u8
-#EXTINF:-1  tvg-name="Durai TV" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240227_2151186415467617602432815.png",Durai Tv
-https://ipcloud.live/duraitv/live/index.m3u8
-#EXTINF:-1  tvg-name="Nila Tv HD" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_09201262145112699027824.png",Nila Tv HD
-https://ipcloud.live/nilatvnellai/nilahd/index.m3u8
-#EXTINF:-1  tvg-name="Eagle Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240225_2103236185189714718413089.png",Eagle Tv
-https://ipcloud.live/eaglemedia/eagletv/index.m3u8
-#EXTINF:-1  tvg-name="Leo Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240225_205511675245587762198001.png",Leo Tv
-https://ipcloud.live/leotv/leotvhd/index.m3u8
-#EXTINF:-1 tvg-id="AgashamTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787145831_file_00000000df288208984131c6f69dc32d.png" tvg-region="Unknown" group-title="Local Channels",Agasham TV
-https://agashamtv.stream.ipcloud.live/agashamtv/livestream/index.m3u8
-#EXTINF:-1  tvg-name="MSN TV" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240224_083521413545287336763940.png",MSN Tv
-https://ipcloud.live/msntv/msntv/index.m3u8
-#EXTINF:-1 tvg-id="SJSuryaTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1760613543_Sjsurya.png&w=1080&q=75" group-title="Local Channels",SJ Surya TV
-https://nellaitv.stream.ipcloud.live/nellaitv/suriyatv/index.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/m0axMB9eZKt93L-twW_Tsl-F0S6_CP62DxHUW-nRe6toU-N8cAvPj2B1faU4ZeJyVDg=w240-h480-rw" group-title="Local Channels", Jeyam plus tv
-https://ipcloud.live/mmtv/jeyamplus/index.m3u8
-#EXTINF:-1tvg-id="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1748264819_thendral%2520tv%2520madurai.png&w=1920&q=75" tvg-logo="" group-title="Local Channels",Thendral madurai
-https://w6oy7zkpdxrg-hls-live.5centscdn.com/THENDRALHD/aac0b08f91370cd39f61343d2b6e8069.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="SaharaTV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FSAHARA-HD.png?alt=media&token=5c43da75-3639-4408-8964-0f62a61b9c03" tvg-region="Unknown" group-title="Local Channels",Sahara TV
-https://ipcloud.live/saharatv/saharatvhd/index.m3u8
-#EXTINF:-1  tvg-name="" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240403_0936351769201621059355755.png",Vani Visuals 
-https://vaanivisualsin.proxy.nellaiiptv.com/vaanitv/vaanitv/playlist.m3u8
-#EXTINF:-1 tvg-id="ArasuTV" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/02/ctn-arasu-tv204274256292633484.png" tvg-region="Unknown" group-title="Local Channels",Arasu TV
-https://ipcloud.live/ctn/arasu/index.m3u8
-#EXTINF:-1 tvg-name="Aadhavan Tamil Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1758903321_WhatsApp_Image_2025-09-26_at_11.19.20_AM-removebg-preview.png" group-title="Local Channels",Aadhavan Tamil Tv
-https://aadhavantamiltv.tamilstream.in/aadhavantamiltv/aadhavantamiltv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Local Channels",Thendral TV
-https://ipcloud.live/pothigai/thendral/index.m3u8
-#EXTINF:-1 tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739531400_IMG_2914.PNG" group-title="Local Channels",RJ TAMIL
-https://ipcloud.live/rjtamiltv/rjtamil/index.m3u8
-#EXTINF:-1 tvg-id="VIPTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/VIPTV.png" tvg-region="Shoolagiri;Krishnagiri" group-title="Local Channels",VIP TV
-https://ipcloud.live/vip/viptv/index.m3u8
-#EXTINF:-1 tvg-id="ShineTV" tvg-logo="" tvg-region="Coimbatore" group-title="Local Channels",Shine TV
-https://shinetv.ipcloud.live/shinetv/shinetv/index.m3u8
-#EXTINF:-1 tvg-id="SVChannel" tvg-logo="" tvg-region="Unknown" group-title="Local Channels",SV Channel
-http://svchannel.live.mystreams.in/live/svchannel/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Local Channels",Bhadra Tv
-https://ipcloud.live/sdevtv/bhadratv/index.m3u8
-#EXTINF:-1tvg-id="" tvg-logo="" group-title="Local Channels",JRPTVHD
-http://ipcloud.live:8080/jrptv/jrphd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Local Channels", RV TV HD
-https://ipcloud.live/rvtv/rvtvhd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Local Channels", Harin TV
-https://ipcloud.live/harintv/harintvhd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jPLQCgPx/1000123459.jpg" group-title="Local Channels", Anbu TV
-https://ipcloud.live/anbutv/anbutvhd/index.m3u8
-#EXTINF:-1 tvg-id="minnal_tv" tvg-name="Minnal Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240402_1007193547470980645342706.png" group-title="Local Channels",Minnal Tv
-https://ipcloud.live/app/minnaltv/minnalhd/index.m3u8
-#EXTINF:-1 tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/02/20240226_1554105857472875437555860.png" group-title="Local Channels", Saami TV
-https://ipcloud.live/msntv/saamitv/index.m3u8
-
-
   7STARCLOUD
 
 #EXTINF:-1  tvg-name="Thirumagal Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240305_0920178224610300763181208.png",Thirumagal Tv
@@ -1791,6 +1681,7 @@ http://hdserver.7starcloud.com:1935/smart/tv/playlist.m3u8
 http://103.110.236.141:8080/hls/erodekrishnatv/index.m3u8
 #EXTINF:-1 group-title="Local Channels" tvg-category="Local",Polimer Channel 
 http://polimer.7starcloud.com:1935/polimer/live/live.m3u8
+
 
 SSCLOUD
 
@@ -1858,6 +1749,118 @@ http://ajaytv.sscloud7.in/live/ajaytv/index.mpd
 https://sscloud7.com/live/thendraltv/index.m3u8
 
 
+    IPCLOUD 
+  
+#EXTINF:-1  tvg-name="7star Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240223_0026202554836848690543423.png",7star Tv
+http://7starcloud.com:1935/live/7star2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://phoenixcreations.online/ott/jayamott/uploads/1775660766_WhatsApp Image 2026-04-08 at 7.00.55 PM.jpeg" group-title="Local Channels", Mullai TV
+https://ipcloud.live/mullaitv/mullaitv/index.m3u8
+#EXTINF:-1 tvg-id="AadvikTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1736158234_Aadvik%20logo%201_00000.png" tvg-region="Sambavarvadakarai" group-title="Music",Aadvik TV
+http://ipcloud.live:8080/sachintv/aadviktv/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/SarvikTV.png" tvg-category="Local",Sarvik TV 
+https://live3.onecloudlive.in/sachintv/sarvikhd/index.m3u8
+#EXTINF:-1 tvg-id="MMTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/MMTV.png" tvg-region="Chennai" group-title="Local Channels",MM TV
+https://ipcloud.live/mmtv/mmtvhd/index.m3u8
+#EXTINF:-1 tvg-id="SkyPlusTV" tvg-logo="https://play-lh.googleusercontent.com/ApkLVeNBOSyeOx-ciN8PXlqUkBhGg2TmufFq8aei1tu2k8i9SU5PYR5byRI9C42dT4I" tvg-region="Tiruchengode;Namakkal" group-title="Local Channels",Sky Plus TV
+https://ipcloud.live/skytv/skytv/index.m3u8
+#EXTINF:-1 tvg-id="MagalirTV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FCTN%2FCTN-MAGALIR-TV.png?alt=media&token=479bc182-afa2-406a-8dbb" tvg-region="Unknown" group-title="Local Channels",Magalir TV
+https://ipcloud.live/ctn/magalir/index.m3u8
+#EXTINF:-1 tvg-name="Namma Gobi Tv" group-title="Local Channels" tvg-logo="https://i.ibb.co/gb4Rg2TG/1000147011.jpg",Namma Gobi Tv
+https://cdn1.rojatv.cloud/nammagobi/tv/index.m3u8
+#EXTINF:-1 tvg-id="SuperTVDindigul" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1769694007_super%20tv%20logo%20png.png" tvg-region="Dindigul" group-title="Local Channels",Super TV Dindigul
+https://stream.rojatv.cloud/super/tv/index.m3u8
+#EXTINF:-1 tvg-id="KumaranTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1752739119_WhatsApp%2520Image%25202025-07-17%2520at%252012.53.10%2520PM.jpeg&w=1080&q=75" group-title="Local Channels",Kumaran TV
+https://air.rojatv.cloud/kumarantv/gobi/index.m3u8
+#EXTINF:-1 tvg-id="HansithaTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1767717103_H1.png&w=1920&q=75" group-title="Local Channels",Hansitha TV
+https://air.rojatv.cloud/hanshitha/tv/index.m3u8
+#EXTINF:-1 tvg-id="ThirumalaiTV" tvg-logo="" group-title="Local Channels",Thirumalai TV Vadipatti
+https://ipcloud.live/thirumalaitv/madurai/index.m3u8
+#EXTINF:-1 tvg-id="NilaTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1772708977_Nila Tv_00151.png" tvg-region="Sivaganga;Madurai" group-title="Local Channels",Nila TV Sivagangai
+http://nilatvsg.stream.mystreams.in/live/nilatvsg/index.m3u8
+#EXTINF:-1 tvg-name="anandham tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1753975377_ANANTHAM TV LOGO.png" group-title="Local Channels",Anandham TV
+https://anandhamtv.stream.ipcloud.live/anandhamtv/anandhamtv/index.m3u8
+#EXTINF:-1 tvg-name="Subash HD" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785745653_1785411879_Subash Tv Logo copy.png" group-title="Local Channels",Subash HD
+https://subashhd.stream.onecloudlive.in/subashhd/subashtvhd/index.m3u8
+#EXTINF:-1  tvg-name="Rio Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240402_0221238756828529382335106.png",Rio Tv
+https://ipcloud.live/riotv/riotvhd/index.m3u8
+#EXTINF:-1 tvg-id="MTelevision" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1793170455.webp" tvg-region="Kodaikanal" group-title="Local Channels",M Television
+https://ipcloud.live/mtv/menhd/index.m3u8
+#EXTINF:-1 tvg-id="OmTVSalem" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1773769052_om%20tv.png" tvg-region="Salem" group-title="Local Channels",Om TV
+http://omtv.7starcloud.com:1935/omtv/live/live.m3u8
+#EXTINF:-1 tvg-id="ShaliniTVTiruvannamalai" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746462375_WhatsApp_Image_2025-05-05_at_8.18.04_PM-removebg-preview.png&w=1080&q=75" group-title="Local Channels",Shalini TV Tiruvannamalai
+https://ipcloud.live/shalinitv/shalinitv/index.m3u8
+#EXTINF:-1 tvg-id="SachinMusic" tvg-name="" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1736158383_Comp%201_00075.png" tvg-region="Sambavarvadakarai" group-title="Music",Sachin Music
+https://ipcloud.live/sachintv/musichd/index.m3u8
+#EXTINF:-1  tvg-name="Veera Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240330_1043373423456639852726320.png",Veera Tv
+https://ipcloud.live/veeratv/veeratvhd/index.m3u8
+#EXTINF:-1  tvg-name="Veera Tv" group-title="Local Channels" tvg-logo="",Mathan Tv
+https://ipcloud.live/mathantv/mathantv/index.m3u8
+#EXTINF:-1 tvg-id="AADHAVAN" tvg-name="AADHAVAN TV" tvg-logo="https://i.ibb.co/4nhfjpV9/Whats-App-Image-2025-03-14-at-9-29-23-PM.jpg" group-title="Local Channels", AADHAVAN TV
+http://mkpcloud.playit.plus:1024/Aadhavantv/Aadhavantv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="mkptv" tvg-name="MKP TV" tvg-logo="https://raw.githubusercontent.com/kanagaraj621212-cell/MKP-CLOUD/main/MKP%20TV.png" group-title="Local Channels",MKP TV
+http://mkpcloud.playit.plus:1024/mkptv/myStream/playlist.m3u8
+#EXTINF:-1  tvg-name="Veerali TV" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240224_08235948468612976683204.png",Veerali Tv
+https://ipcloud.live/veerali/veeralitv/index.m3u8
+#EXTINF:-1 tvg-id="ashoka_hd_tv" tvg-name="Ashoka HD Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240306_2318315118330179838433975.png" group-title="Local Channels",Ashoka Hd Tv
+http://ipcloud.live/asokatv/asokahd/index.m3u8
+#EXTINF:-1 tvg-id="UdhayamTV" tvg-logo="https://play-lh.googleusercontent.com/I-rcjG38vEXWpJnCPBGYwb7ewylDfPPM-F6V7YkQ2WovdqFdo5V3gpwebrMDNx_LX2V21hURwSbOLZKFvvo_pQ=w640-h960-rw" tvg-region="Pochampalli;Krishnagiri" group-title="Local Channels",Udhayam TV
+https://ipcloud.live/udhayamtv/udhayamtv/index.m3u8
+#EXTINF:-1 tvg-name="dhavathai tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1784822125_LOGO New (1).png" group-title="Local Channels",devadhai Tv
+https://devadhaitv.stream.ipcloud.live/devadhaitv/devadhaitv/index.m3u8
+#EXTINF:-1 tvg-id="king_tv" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240417_0648507074090062179557333.png" group-title="Local Channels",King Tv
+https://ipcloud.live/kingtv/kingtv/index.m3u8
+#EXTINF:-1  tvg-name="Durai TV" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240227_2151186415467617602432815.png",Durai Tv
+https://ipcloud.live/duraitv/live/index.m3u8
+#EXTINF:-1  tvg-name="Nila Tv HD" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240315_09201262145112699027824.png",Nila Tv HD
+https://ipcloud.live/nilatvnellai/nilahd/index.m3u8
+#EXTINF:-1  tvg-name="Eagle Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240225_2103236185189714718413089.png",Eagle Tv
+https://ipcloud.live/eaglemedia/eagletv/index.m3u8
+#EXTINF:-1  tvg-name="Leo Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240225_205511675245587762198001.png",Leo Tv
+https://ipcloud.live/leotv/leotvhd/index.m3u8
+#EXTINF:-1 tvg-id="AgashamTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787145831_file_00000000df288208984131c6f69dc32d.png" tvg-region="Unknown" group-title="Local Channels",Agasham TV
+https://agashamtv.stream.ipcloud.live/agashamtv/livestream/index.m3u8
+#EXTINF:-1  tvg-name="MSN TV" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/02/20240224_083521413545287336763940.png",MSN Tv
+https://ipcloud.live/msntv/msntv/index.m3u8
+#EXTINF:-1 tvg-id="SJSuryaTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1760613543_Sjsurya.png&w=1080&q=75" group-title="Local Channels",SJ Surya TV
+https://nellaitv.stream.ipcloud.live/nellaitv/suriyatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/m0axMB9eZKt93L-twW_Tsl-F0S6_CP62DxHUW-nRe6toU-N8cAvPj2B1faU4ZeJyVDg=w240-h480-rw" group-title="Local Channels",Jeyam plus tv
+https://ipcloud.live/mmtv/jeyamplus/index.m3u8
+#EXTINF:-1tvg-id="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1748264819_thendral%2520tv%2520madurai.png&w=1920&q=75" tvg-logo="" group-title="Local Channels",Thendral madurai
+https://w6oy7zkpdxrg-hls-live.5centscdn.com/THENDRALHD/aac0b08f91370cd39f61343d2b6e8069.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="SaharaTV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FSAHARA-HD.png?alt=media&token=5c43da75-3639-4408-8964-0f62a61b9c03" tvg-region="Unknown" group-title="Local Channels",Sahara TV
+https://ipcloud.live/saharatv/saharatvhd/index.m3u8
+#EXTINF:-1  tvg-name="" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240403_0936351769201621059355755.png",Vani Visuals 
+https://vaanivisualsin.proxy.nellaiiptv.com/vaanitv/vaanitv/playlist.m3u8
+#EXTINF:-1 tvg-id="ArasuTV" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/02/ctn-arasu-tv204274256292633484.png" tvg-region="Unknown" group-title="Local Channels",Arasu TV
+https://ipcloud.live/ctn/arasu/index.m3u8
+#EXTINF:-1 tvg-name="Aadhavan Tamil Tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1758903321_WhatsApp_Image_2025-09-26_at_11.19.20_AM-removebg-preview.png" group-title="Local Channels",Aadhavan Tamil Tv
+https://aadhavantamiltv.tamilstream.in/aadhavantamiltv/aadhavantamiltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Local Channels",Thendral TV
+https://ipcloud.live/pothigai/thendral/index.m3u8
+#EXTINF:-1 tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739531400_IMG_2914.PNG" group-title="Local Channels",RJ TAMIL
+https://ipcloud.live/rjtamiltv/rjtamil/index.m3u8
+#EXTINF:-1 tvg-id="VIPTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/VIPTV.png" tvg-region="Shoolagiri;Krishnagiri" group-title="Local Channels",VIP TV
+https://ipcloud.live/vip/viptv/index.m3u8
+#EXTINF:-1 tvg-id="ShineTV" tvg-logo="" tvg-region="Coimbatore" group-title="Local Channels",Shine TV
+https://shinetv.ipcloud.live/shinetv/shinetv/index.m3u8
+#EXTINF:-1 tvg-id="SVChannel" tvg-logo="" tvg-region="Unknown" group-title="Local Channels",SV Channel
+http://svchannel.live.mystreams.in/live/svchannel/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Local Channels",Bhadra Tv
+https://ipcloud.live/sdevtv/bhadratv/index.m3u8
+#EXTINF:-1tvg-id="" tvg-logo="" group-title="Local Channels",JRPTVHD
+http://ipcloud.live:8080/jrptv/jrphd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Local Channels", RV TV HD
+https://ipcloud.live/rvtv/rvtvhd/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Local Channels", Harin TV
+https://ipcloud.live/harintv/harintvhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jPLQCgPx/1000123459.jpg" group-title="Local Channels", Anbu TV
+https://ipcloud.live/anbutv/anbutvhd/index.m3u8
+#EXTINF:-1 tvg-id="minnal_tv" tvg-name="Minnal Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240402_1007193547470980645342706.png" group-title="Local Channels",Minnal Tv
+https://ipcloud.live/app/minnaltv/minnalhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/02/20240226_1554105857472875437555860.png" group-title="Local Channels", Saami TV
+https://ipcloud.live/msntv/saamitv/index.m3u8
+
+
   ONECLOUD
 
 #EXTINF:-1 tvg-id="TIMETV" tvg-name="TIME TV" tvg-logo="https://i.ibb.co/HLrvQpWy/512512.png" group-title="Local Channels", TIME TV
@@ -1866,8 +1869,14 @@ https://live.olidigital.in/timetv/timetv/index.m3u8
 https://hlsstream.olidigital.in/cholatv/cholatv/index.m3u8
 #EXTINF:-1 tvg-id="SGBTV" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/1000159114-1781435419226.jpg" tvg-region="Unknown" group-title="Local Channels",SGB TV
 http://hlsstream.olidigital.in/sgbtv/sgbtv/index.m3u8
+#EXTINF:-1 tvg-id="DevasenaTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/DevasenaTV.png" tvg-region="Sambavarvadakarai" group-title="Local Channels",Devasena TV
+http://stream.onecloudlive.in/sachintv/devasenatvhd/index.mpd
 #EXTINF:-1 tvg-name="Raga Tv" group-title="Local Channels" tvg-logo="https://i.ibb.co/KzSwyBN4/1000146992.jpg",Raga Tv
 https://live.onecloudlive.in/ragatv/ragatvhd/index.m3u8
+#EXTINF:-1 tvg-id="NaachiyaaTV" tvg-logo="" tvg-region="Palamedu;Vadipatti;Madurai" group-title="Local Channels",Nachiyaa TV
+http://stream.onecloudlive.in/nachiyaatv/nachiyaahd/index.m3u8
+#EXTINF:-1 tvg-id="IlanTV" tvg-logo="" tvg-region="Unknown" group-title="Local Channels",Ilan TV
+https://rtmphub.in/hls/ilantv/live/YesMTyuJdQmyMeWf4ktWAQ3ELJSBSDTR/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local Channels", Phoenix TV
 http://phoenixtv.stream.onecloudlive.in:8080/phoenixtv/phoenixtv/index.m3u8
 #EXTINF:-1 tvg-id="MaduraTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1772719964_madhura tv.png" tvg-region="Madurai" group-title="Local Channels",Madura TV
@@ -1933,7 +1942,7 @@ https://stream.onecloudlive.in/jeyantv/jeyantv/index.m3u8
 #EXTINF:-1 tvg-id="ArramTVKomarapalayam" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1733831106_IMG-20241210-WA0197.jpg" tvg-region="Komarapalayam;Namakkal" group-title="Local Channels",Arram TV Komarapalayam
 https://stream.rojatv.cloud/Arramtv/komarapalayam/index.m3u8
 #EXTINF:-1 tvg-id="SunSmartTV" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1771310549.webp" tvg-region="Coimbatore" group-title="Local Channels",Sun Smart TV
-https://live3.onecloudlive.in/sunsmart/sunsmarttvhd/index.m3u8
+https://sunsmart.ipcloud.live/sunsmarttv/sunsmarttv/index.m3u8
 #EXTINF:-1 tvg-id="SaiTVMadurai" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1739599891_logo-removebg-preview.png&w=1080&q=75" group-title="Local Channels",Sai TV
 https://stream.onecloudlive.in/saitvmdu/saitvmdu/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local Channels", KRN TV
@@ -1999,9 +2008,9 @@ http://srvvii.nellaiiptv.com:8033/app-restream/113d709-aruntv/index.m3u8
 #EXTINF:-1 tvg-id="SelfieTVNellai" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1784266089.webp" tvg-region="Tirunelveli" group-title="Local Channels",Selfie TV Nellai
 http://srvvii.nellaiiptv.com:8033/app-restream/150cqo-selfietv/index.m3u8
 #EXTINF:-1 tvg-id="VIPTVVirudhunagar" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/main/logos/VIPTVVRD.png" tvg-region="Virudhunagar" group-title="Local Channels",VIP TV Virudhunagar
-http://srvvii.nellaiiptv.com:8033/app-restream/q8cb9q-vishiltv1/index.m3u8
+http://whistletv1.stream.nellaiiptv.com:80/live/whistletv1/index.m3u8
 #EXTINF:-1 tvg-id="VishilMax" tvg-logo="https://sscloud7.in/app/sscloud7/assets/tvchannels/phoenixtv-tvchannelavathar-phoenixtv1744985304.jpeg" tvg-region="Virudhunagar" group-title="Local Channels",Vishil TV
-http://srvvii.nellaiiptv.com:8033/app-restream/5j7iw8-vishilmaxtv2/index.m3u8
+http://whistletv2.stream.nellaiiptv.com/live/whistletv2/index.m3u8
 #EXTINF:-1 tvg-id="STVMDU" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/1783178029.webp" tvg-region="Madurai" group-title="Local Channels",S TV Madurai
 http://srvvii.nellaiiptv.com:8033/app-restream/rwtcaa-stv/index.m3u8
 #EXTINF:-1 tvg-id="RoyalTVNellai" tvg-logo="https://api.nellaiiptv.com/public/uploads/channel/logos/royal_tv_1770713037.webp" tvg-region="Tirunelveli" group-title="Local Channels",Royal TV Nellai
@@ -2060,7 +2069,7 @@ https://singamcloud.in/arammtv/arammtv/index.m3u8
 https://jayamtv-ott.tamilstream.in/jayamtv/sivakasi/playlist.m3u8
 #EXTINF:-1 tvg-id="UCNTV" tvg-logo="" tvg-region="Unknown" group-title="Local Channels",UCN TV
 https://edge-tpr-01.tamilstreams.com/app/ucntv/index.m3u8
-#EXTINF:-1  tvg-name="Tharani Tv" group-title="Local Channels" tvg-logo="",Sri Naga Sai
+#EXTINF:-1  tvg-name="" group-title="Local Channels" tvg-logo="",Sri Naga Sai
 https://msleurope9.akamaized.net/saibaba/livekovai/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Local Channels", DJeyam Chennai
 https://stream.singamcloud.in/jjeyam/jjeyam/index.m3u8
@@ -2127,8 +2136,6 @@ https://app.ashokadigital.net/app/78b1bc36/index.m3u8
 https://live-stream.in/cititv/cititv/index.m3u8
 #EXTINF:-1 tvg-id="KMMusic" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1777715423_1771730164_km%20music.png" tvg-region="Unknown" group-title="Music",KM Music
 https://stream.ashokadigital.net/kmmusic/kmmusic/index.m3u8
-#EXTINF:-1 tvg-id="A1TVAriyalur" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1775921579_A1%20TV%2020%20copy.png" tvg-region="Ariyalur" group-title="Local Channels",A1 TV Ariyalur
-https://app.ashokadigital.net/app/0fca457c/index.m3u8
 #EXTINF:-1 tvg-id="ThendralTVChennai" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1774794281_thendral%20tv%20chennai.png" tvg-region="Chennai" group-title="Local Channels",Thendral TV Chennai
 https://stream.ashokadigital.net/thendraltv/thendraltv/index.m3u8
 
@@ -2226,8 +2233,8 @@ http://srnet.bmlive.net:1935/isaisaral/mystream/playlist.m3u8
 https://rtmp.bmlive.net/webaduga/webaduga/index.m3u8
 #EXTINF:-1 tvg-name="Jayam Tv Namakkal" group-title="Local Channels" tvg-logo="https://i.ibb.co/MxXLfHMg/1000145099.png",Jayam Tv Namakkal
 https://rtmp.bmlive.net/bms/jayamtv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Local Channels", KC TV
-https://rtmp.bmlive.net/bms/kctv/stream.m3u8
+#EXTINF:-1 tvg-id="KCTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1786437881_1784854333_WhatsApp%20Image%202026-07-23%20at%201.37.14%20PM-Photoroom.png" tvg-region="Coimbatore" group-title="Local Channels",KC TV
+https://rtmp.bmlive.net/bms/kctv/index.m3u8
 #EXTINF:-1 tvg-id="KCMusic" tvg-logo="https://bmcloud.in/apptest/uploads/6936d2ffdb5e8.png" tvg-region="Coimbatore" group-title="Music",KC Music
 https://rtmp.bmlive.net/bms/kcmusic/index.m3u8
 #EXTINF:-1 tvg-id="BlueMoonTV" tvg-logo="" tvg-region="Unknown" group-title="Local Channels",Blue Moon TV
@@ -2355,7 +2362,7 @@ https://applelive.in/mtntv/mtntv/index.m3u8
 #EXTINF:-1 tvg-id="EnthiranTV" tvg-logo="https://play-lh.googleusercontent.com/epEjdtuFkTZxmirMjLmL75RB3qpTByhZ1rFGQvWrLV5Y5UjytOYJ_OUAz9PQExkFpqw" tvg-region="Kanyakumari" group-title="Local Channels" ,Enthiran TV
 https://live.applelive.in/enthirantv/enthirantv/index.m3u8
 #EXTINF:-1 tvg-id="RPlusTV" tvg-logo="https://play-lh.googleusercontent.com/VuGcjfIEogf7W5cztkJKkyCINbL7gG_qRbn8Aoce5Sv15n0oCCglG4WhJtpQEeVpoG4=w512-h960-rw" tvg-region="Namakkal" group-title="Local Channels",R Plus TV
-https://live.applelive.in/rplus/rplus/index.m3u8
+https://live2.onecloudlive.in/rplustv/rplus/index.m3u8
 #EXTINF:-1 tvg-id="GMusic" tvg-logo="https://bmcloud.in/apptest/uploads/693b05704a9f7.png" tvg-region="Vellore" group-title="Local Channels",G Music
 https://rtmp.applelive.in/srivelavantv/srivelavantv4k/index.m3u8
 #EXTINF:-1 tvg-id="RowthiramTV" tvg-logo="https://play-lh.googleusercontent.com/wOu4K0Rlh5yCMDn0a7z-OBvypUO9Ub4YAPIptU2dLtvetv4SHWIFIQ1BdE2i-csTPTo" tvg-region="Kanyakumari" group-title="Local Channels",Rowthiram TV
@@ -2460,6 +2467,8 @@ https://stream.apcloud.in/manishatv/manishatvstream/index.m3u8
 https://view.rcserver.in/tmp_hls23/kaalaitv/index.m3u8
 #EXTINF:-1 group-title="Local Channels" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/AzhagiTV.png",Azhagi TV
 https://view.rcserver.in/tmp_hls17/azhagitv/index.m3u8
+#EXTINF:-1 tvg-id="ACFTV" tvg-logo="" tvg-region="Unknown" group-title="Local Channels",ACF TV
+https://view.rcserver.in/tmp_hls27/acftv/index.m3u8
 #EXTINF:-1 tvg-id="SenthamilTV" tvg-logo="https://raw.githubusercontent.com/amazeyourself/tamil-local-iptv/refs/heads/main/logos/SenthamilTV.png" tvg-region="Theni" group-title="Local Channels",Senthamil TV
 https://view.rcserver.in/tmp_hls16/senthamiltv/index.m3u8
 #EXTINF:-1 group-title="Local Channels" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739890766_WhatsApp_Image_2025-02-18_at_8.28.50_PM-removebg-preview.png",KCN TV
