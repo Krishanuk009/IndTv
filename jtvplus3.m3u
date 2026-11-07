@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 8/11/2026, 00:36:03
+# Generated: 8/11/2026, 04:38:23
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -8604,9 +8604,12 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.33374853498782464" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Mini.png",2026 [English]
+#EXTINF:-1 tvg-id="ev-0.8225372471764985" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Mini.png",2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4250206_english_hls_e26adb95b447719_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794160169~_GO=Generated~acl=/mumbai/4250206_english_hls_e26adb95b447719_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_b1a906c6-4201-48~Signature=AV7HGj6pJh8nECvbmxPHOGBvVEKYt2aixnVPfnYCyDL6wnq1vTQsaOh9MwSMmbQ56zK3B-WczOHwZ5i-QO7TfbmXVKwM
 
-#EXTINF:-1 tvg-id="ev-0.09076431977224086" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",ATP Masters - Rolex Paris Masters 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250570_english_hls_f720fe25b588128_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794162078~_GO=Generated~acl=/mumbai/4250570_english_hls_f720fe25b588128_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_16f4a4bf-8eb6-4c~Signature=AV7HGj4dj94iWvcxM_NpIcg_tKQtJVE3dGs0DjbIkt17Sw9a7VIsV4EhaDuIHx9NfCrWsgkiegwSnsGuNqeF3TCo3K0H
+#EXTINF:-1 tvg-id="ev-0.24765450444481862" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship_Web-match-card_1793992817308.png",World Wide Technology Championship 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250599_english_hls_688a7793522084_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794167685~_GO=Generated~acl=/mumbai/4250599_english_hls_688a7793522084_1ta-di_h264/*~SessionID=d41d8cd98f00b204e9800998ecf8427e_playbox_cff804b0-1337-44~Signature=AV7HGj7VacyyOhngcOTTnm4N73hr_JPxAiOCWUJypxdQqn6q5HTlyOjBYQpqVQrSqibSSnmqwYKQScogTLhz19lojTAE
+
+#EXTINF:-1 tvg-id="ev-0.8926105825868741" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793956010921809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day2_landscape_thumb.jpg",3rd Unofficial Test - Day 2 - 8 Nov 2026 [ENG] - India A Tour of New Zealand
+https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794135648~acl=/*~id=20793124249648001282447152233026~hmac=fc8ff00c3c4a2ea466b65e20a5a575c7ce1498407073571500a26e5b6d9d3220
 
