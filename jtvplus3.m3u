@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 15/11/2026, 21:24:58
+# Generated: 16/11/2026, 02:07:31
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -8768,9 +8768,15 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Life_BTS/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Telangana_BTS/WDVLive/index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.21290553193268635" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027715/1793198605065884_UNL26_MD6_Latvia_vs_Armenia_landscape_thumb.jpg",Latvia vs Armenia - 15 Nov 2026 [ENG] - UEFA Nations League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794801281~acl=/*~id=27634688062667073399657257229886~hmac=c8b1dabc97da9b329e2d6e4707dfd40611c7467772d2e3d64a2cb6f1cc290374
+#EXTINF:-1 tvg-id="ev-0.6353106260988288" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027854/1793254550038497_UNL26_MD6_Spain_vs_England_landscape_thumb.jpg",Spain vs England - 16 Nov 2026 [ENG] - UEFA Nations League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2094588/footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794817640~acl=/*~id=64231276064722946093876077948528~hmac=8b02c0b25a01cf94821cb4a46d0ef20877c02f622957fc7ad2947286b25e4f2f
 
-#EXTINF:-1 tvg-id="ev-0.003854044309827165" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027754/1793248801127967_UNL26_MD6_Cyprus_vs_Montenegro_landscape_thumb.jpg",Cyprus vs Montenegro - 15 Nov 2026 [ENG] - UEFA Nations League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794801281~acl=/*~id=27634688062667073399657257229886~hmac=c8b1dabc97da9b329e2d6e4707dfd40611c7467772d2e3d64a2cb6f1cc290374
+#EXTINF:-1 tvg-id="ev-0.18823072411666186" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027777/1793252426264187_UNL26_MD6_France_vs_Turkiye_landscape_thumb.jpg",France vs Türkiye - 16 Nov 2026 [ENG] - UEFA Nations League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120306/footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794817640~acl=/*~id=64231276064722946093876077948528~hmac=8b02c0b25a01cf94821cb4a46d0ef20877c02f622957fc7ad2947286b25e4f2f
+
+#EXTINF:-1 tvg-id="ev-0.8768375079278748" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027748/179325310259226_UNL26_MD6_Belgium_vs_Italy_landscape_thumb.jpg",Belgium vs Italy - 16 Nov 2026 [ENG] - UEFA Nations League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120307/footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794817640~acl=/*~id=64231276064722946093876077948528~hmac=8b02c0b25a01cf94821cb4a46d0ef20877c02f622957fc7ad2947286b25e4f2f
+
+#EXTINF:-1 tvg-id="ev-0.43042418623200807" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027751/1793255112238751_UNL26_MD6_Croatia_vs_Czechia_landscape_thumb.jpg",Croatia vs Czechia - 16 Nov 2026 [ENG] - UEFA Nations League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120308/footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794817640~acl=/*~id=64231276064722946093876077948528~hmac=8b02c0b25a01cf94821cb4a46d0ef20877c02f622957fc7ad2947286b25e4f2f
 
