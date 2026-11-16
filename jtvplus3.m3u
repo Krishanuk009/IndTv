@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 16/11/2026, 02:07:31
+# Generated: 16/11/2026, 05:56:52
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -8767,16 +8767,4 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Life_BTS/WDVLive/index.mpd
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Telangana_BTS/WDVLive/index.mpd
-
-#EXTINF:-1 tvg-id="ev-0.6353106260988288" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027854/1793254550038497_UNL26_MD6_Spain_vs_England_landscape_thumb.jpg",Spain vs England - 16 Nov 2026 [ENG] - UEFA Nations League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2094588/footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794817640~acl=/*~id=64231276064722946093876077948528~hmac=8b02c0b25a01cf94821cb4a46d0ef20877c02f622957fc7ad2947286b25e4f2f
-
-#EXTINF:-1 tvg-id="ev-0.18823072411666186" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027777/1793252426264187_UNL26_MD6_France_vs_Turkiye_landscape_thumb.jpg",France vs Türkiye - 16 Nov 2026 [ENG] - UEFA Nations League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120306/footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794817640~acl=/*~id=64231276064722946093876077948528~hmac=8b02c0b25a01cf94821cb4a46d0ef20877c02f622957fc7ad2947286b25e4f2f
-
-#EXTINF:-1 tvg-id="ev-0.8768375079278748" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027748/179325310259226_UNL26_MD6_Belgium_vs_Italy_landscape_thumb.jpg",Belgium vs Italy - 16 Nov 2026 [ENG] - UEFA Nations League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120307/footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794817640~acl=/*~id=64231276064722946093876077948528~hmac=8b02c0b25a01cf94821cb4a46d0ef20877c02f622957fc7ad2947286b25e4f2f
-
-#EXTINF:-1 tvg-id="ev-0.43042418623200807" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027751/1793255112238751_UNL26_MD6_Croatia_vs_Czechia_landscape_thumb.jpg",Croatia vs Czechia - 16 Nov 2026 [ENG] - UEFA Nations League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120308/footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794817640~acl=/*~id=64231276064722946093876077948528~hmac=8b02c0b25a01cf94821cb4a46d0ef20877c02f622957fc7ad2947286b25e4f2f
 
