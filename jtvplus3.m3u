@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 16/11/2026, 23:01:36
+# Generated: 17/11/2026, 06:38:12
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -8767,13 +8767,4 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Life_BTS/WDVLive/index.mpd
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Telangana_BTS/WDVLive/index.mpd
-
-#EXTINF:-1 tvg-id="ev-0.22393463034543137" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027787/1793259677394700_UNL26_MD6_Iceland_vs_Luxembourg_landscape_thumb.jpg",Iceland vs Luxembourg - 16 Nov 2026 [ENG] - UEFA Nations League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2005444/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794892772~acl=/*~id=76327164473546224412503789702932~hmac=08ac68478a857d0a3987eaaeea1a7b314a9464cd25c6608cd433c1cf62413981
-
-#EXTINF:-1 tvg-id="ev-0.13437362238044048" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027761/179326116564755_UNL26_MD6_Estonia_vs_Bulgaria_landscape_thumb.jpg",Estonia vs Bulgaria - 16 Nov 2026 [ENG] - UEFA Nations League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2018457/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794892772~acl=/*~id=76327164473546224412503789702932~hmac=08ac68478a857d0a3987eaaeea1a7b314a9464cd25c6608cd433c1cf62413981
-
-#EXTINF:-1 tvg-id="ev-0.8651056399693121" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027835/1793267180605986_UNL26_MD6_Lithuania_vs_Liechtenstein_landscape_thumb.jpg",Lithuania vs Liechtenstein - 16 Nov 2026 [ENG] - UEFA Nations League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2094589/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794892772~acl=/*~id=76327164473546224412503789702932~hmac=08ac68478a857d0a3987eaaeea1a7b314a9464cd25c6608cd433c1cf62413981
 
