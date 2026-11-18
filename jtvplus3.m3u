@@ -1,55 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 18/11/2026, 00:17:59
-
-#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_640/sources/r1/cms/prod/2305/1788708712305-h",Bigg Boss Hindi: 24 HRS Channel
-#EXTHTTP:{"Cookie":"hdntl=exp=1794974701~acl=%2f*~id=75100f8f97e4949d207391b9f874fa8f~data=hdntl~hmac=cccd9639941e522fb85ce355a048b1c8464dfb8a4d60b7a5cdce2f3eb75bdbac","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@dtv(Android/15)
-https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-hin-2026/93e0d4ee03b34575bbf8f8a55824de63/index_6.m3u8?&hdntl=exp=1794974701~acl=%2f*~id=75100f8f97e4949d207391b9f874fa8f~data=hdntl~hmac=cccd9639941e522fb85ce355a048b1c8464dfb8a4d60b7a5cdce2f3eb75bdbac
-
-#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/835/1788705250835-h",Bigg Boss Telugu: 24 HRS Channel
-#EXTHTTP:{"Cookie":"hdntl=exp=1794974701~acl=%2f*~id=75100f8f97e4949d207391b9f874fa8f~data=hdntl~hmac=cccd9639941e522fb85ce355a048b1c8464dfb8a4d60b7a5cdce2f3eb75bdbac","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@dtv(Android/15)
-https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-tel-2026/f129670ca03b4bb988c841f9bbdce777/index_6.m3u8?&hdntl=exp=1794974701~acl=%2f*~id=75100f8f97e4949d207391b9f874fa8f~data=hdntl~hmac=cccd9639941e522fb85ce355a048b1c8464dfb8a4d60b7a5cdce2f3eb75bdbac
-
-#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3164/1788686783164-h",Bigg Boss Tamil: 24 HRS Channel
-#EXTHTTP:{"Cookie":"hdntl=exp=1794974701~acl=%2f*~id=75100f8f97e4949d207391b9f874fa8f~data=hdntl~hmac=cccd9639941e522fb85ce355a048b1c8464dfb8a4d60b7a5cdce2f3eb75bdbac","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@dtv(Android/15)
-https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-tam-2026/0e8f0050df134b708ab297477fbf0e86/index_6.m3u8?&hdntl=exp=1794974701~acl=%2f*~id=75100f8f97e4949d207391b9f874fa8f~data=hdntl~hmac=cccd9639941e522fb85ce355a048b1c8464dfb8a4d60b7a5cdce2f3eb75bdbac
-
-#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6575/1788707966575-h",Bigg Boss Malayalam: 24 HRS Channel
-#EXTHTTP:{"Cookie":"hdntl=exp=1794974701~acl=%2f*~id=75100f8f97e4949d207391b9f874fa8f~data=hdntl~hmac=cccd9639941e522fb85ce355a048b1c8464dfb8a4d60b7a5cdce2f3eb75bdbac","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@dtv(Android/15)
-https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-mal-2026/28fdd2300bf04a60ac3c3318ff009886/index_6.m3u8?&hdntl=exp=1794974701~acl=%2f*~id=75100f8f97e4949d207391b9f874fa8f~data=hdntl~hmac=cccd9639941e522fb85ce355a048b1c8464dfb8a4d60b7a5cdce2f3eb75bdbac
-
-#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6673/1788706616673-h",Bigg Boss Kannada: 24 HRS Channel
-#EXTHTTP:{"Cookie":"hdntl=exp=1794974701~acl=%2f*~id=75100f8f97e4949d207391b9f874fa8f~data=hdntl~hmac=cccd9639941e522fb85ce355a048b1c8464dfb8a4d60b7a5cdce2f3eb75bdbac","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@dtv(Android/15)
-https://live09p.hotstar.com/mp1/incagbsgallow-biggboss-kan-2026/511768cd9dab414aa551e9d15da2202b/index_6.m3u8?&hdntl=exp=1794974701~acl=%2f*~id=75100f8f97e4949d207391b9f874fa8f~data=hdntl~hmac=cccd9639941e522fb85ce355a048b1c8464dfb8a4d60b7a5cdce2f3eb75bdbac
-
-#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7635/1788653107635-h",Bigg Boss Bengali: 24 HRS Channel
-#EXTHTTP:{"Cookie":"hdntl=exp=1794974701~acl=%2f*~id=75100f8f97e4949d207391b9f874fa8f~data=hdntl~hmac=cccd9639941e522fb85ce355a048b1c8464dfb8a4d60b7a5cdce2f3eb75bdbac","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@dtv(Android/15)
-https://live09p.hotstar.com/mp1/incagbsgallow-biggboss-ben-2026/d8b1f4b4b6ad493d845fb9669712ee6e/index_6.m3u8?&hdntl=exp=1794974701~acl=%2f*~id=75100f8f97e4949d207391b9f874fa8f~data=hdntl~hmac=cccd9639941e522fb85ce355a048b1c8464dfb8a4d60b7a5cdce2f3eb75bdbac
-
-#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",SS2 Hindi HD
-#EXTHTTP:{"Cookie":"hdntl=exp=1794974701~acl=%2f*~id=75100f8f97e4949d207391b9f874fa8f~data=hdntl~hmac=cccd9639941e522fb85ce355a048b1c8464dfb8a4d60b7a5cdce2f3eb75bdbac","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)
-https://jcevents.hotstar.com/bpk-tv/f0e3e64ae415771d8e460317ce97aa5e/Fallback/f0e3e64ae415771d8e460317ce97aa5e.m3u8?hdntl=exp=1794974701~acl=%2f*~id=75100f8f97e4949d207391b9f874fa8f~data=hdntl~hmac=cccd9639941e522fb85ce355a048b1c8464dfb8a4d60b7a5cdce2f3eb75bdbac
-
-#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",SS2 Hindi SD
-#EXTHTTP:{"Cookie":"hdntl=exp=1794974701~acl=%2f*~id=75100f8f97e4949d207391b9f874fa8f~data=hdntl~hmac=cccd9639941e522fb85ce355a048b1c8464dfb8a4d60b7a5cdce2f3eb75bdbac","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)
-https://jcevents.hotstar.com/bpk-tv/2c7182c8e6a22cfa6ebc02bbc9ed6dd0/Fallback/2c7182c8e6a22cfa6ebc02bbc9ed6dd0.m3u8?hdntl=exp=1794974701~acl=%2f*~id=75100f8f97e4949d207391b9f874fa8f~data=hdntl~hmac=cccd9639941e522fb85ce355a048b1c8464dfb8a4d60b7a5cdce2f3eb75bdbac
-
-#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",SS2 Tamil
-#EXTHTTP:{"Cookie":"hdntl=exp=1794974701~acl=%2f*~id=75100f8f97e4949d207391b9f874fa8f~data=hdntl~hmac=cccd9639941e522fb85ce355a048b1c8464dfb8a4d60b7a5cdce2f3eb75bdbac","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)
-https://jcevents.hotstar.com/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/4db6f833701e78ae4443cb268020f03b.m3u8?hdntl=exp=1794974701~acl=%2f*~id=75100f8f97e4949d207391b9f874fa8f~data=hdntl~hmac=cccd9639941e522fb85ce355a048b1c8464dfb8a4d60b7a5cdce2f3eb75bdbac
-
-#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",SS2 Telugu
-#EXTHTTP:{"Cookie":"hdntl=exp=1794974701~acl=%2f*~id=75100f8f97e4949d207391b9f874fa8f~data=hdntl~hmac=cccd9639941e522fb85ce355a048b1c8464dfb8a4d60b7a5cdce2f3eb75bdbac","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)
-https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9.m3u8?hdntl=exp=1794974701~acl=%2f*~id=75100f8f97e4949d207391b9f874fa8f~data=hdntl~hmac=cccd9639941e522fb85ce355a048b1c8464dfb8a4d60b7a5cdce2f3eb75bdbac
+# Generated: 18/11/2026, 06:52:42
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
