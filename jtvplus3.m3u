@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 20/11/2026, 10:11:29
+# Generated: 20/11/2026, 19:09:57
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -8768,18 +8768,27 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Life_BTS/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Telangana_BTS/WDVLive/index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.6829223857302849" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795085973106996_NZvsIND_1st_Test_Day2_landscape_thumb.jpg",1st Test - Day 2 - 20 Nov 2026 [ENG] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795192328~acl=/*~id=62632681380888612415168042456419~hmac=c3d986515abc51f7f0b7c5581b6760075ce399728995e657051717a55291ef8e
+#EXTINF:-1 tvg-id="ev-0.47129219110004095" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029418/1795109522697691_ACRS_India_A_vs_Nepal_live_landscape_thumb.jpg",India A vs Nepal - 20 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795224590~acl=/*~id=00086137242186961784968286513232~hmac=d89e990e34996acd38ca4ae48e239f2b09a63e595e9def72e2af8e1bc5112c15
 
-#EXTINF:-1 tvg-id="ev-0.33367395564848445" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795085973106996_NZvsIND_1st_Test_Day2_landscape_thumb.jpg",1st Test - Day 2 - 20 Nov 2026 [HIN] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1911/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795192328~acl=/*~id=62632681380888612415168042456419~hmac=c3d986515abc51f7f0b7c5581b6760075ce399728995e657051717a55291ef8e
+#EXTINF:-1 tvg-id="ev-0.3870079590838704" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029418/1795109522697691_ACRS_India_A_vs_Nepal_live_landscape_thumb.jpg",India A vs Nepal - 20 Nov 2026 [HIN] - ACC Men's Asia Cup Rising Stars 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795224590~acl=/*~id=00086137242186961784968286513232~hmac=d89e990e34996acd38ca4ae48e239f2b09a63e595e9def72e2af8e1bc5112c15
 
-#EXTINF:-1 tvg-id="ev-0.8336704856656018" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795085973106996_NZvsIND_1st_Test_Day2_landscape_thumb.jpg",1st Test - Day 2 - 20 Nov 2026 [TAM] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1911/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795192328~acl=/*~id=62632681380888612415168042456419~hmac=c3d986515abc51f7f0b7c5581b6760075ce399728995e657051717a55291ef8e
+#EXTINF:-1 tvg-id="ev-0.5018411193785678" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029418/1795109522697691_ACRS_India_A_vs_Nepal_live_landscape_thumb.jpg",India A vs Nepal - 20 Nov 2026 [TAM] - ACC Men's Asia Cup Rising Stars 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795224590~acl=/*~id=00086137242186961784968286513232~hmac=d89e990e34996acd38ca4ae48e239f2b09a63e595e9def72e2af8e1bc5112c15
 
-#EXTINF:-1 tvg-id="ev-0.48247262291367754" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795085973106996_NZvsIND_1st_Test_Day2_landscape_thumb.jpg",1st Test - Day 2 - 20 Nov 2026 [TEL] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1911/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795192328~acl=/*~id=62632681380888612415168042456419~hmac=c3d986515abc51f7f0b7c5581b6760075ce399728995e657051717a55291ef8e
+#EXTINF:-1 tvg-id="ev-0.05342321218086732" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029418/1795109522697691_ACRS_India_A_vs_Nepal_live_landscape_thumb.jpg",India A vs Nepal - 20 Nov 2026 [TEL] - ACC Men's Asia Cup Rising Stars 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2011/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795224590~acl=/*~id=00086137242186961784968286513232~hmac=d89e990e34996acd38ca4ae48e239f2b09a63e595e9def72e2af8e1bc5112c15
 
-#EXTINF:-1 tvg-id="ev-0.7394488733783919" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795085973106996_NZvsIND_1st_Test_Day2_landscape_thumb.jpg",1st Test - Day 2 - 20 Nov 2026 [KAN] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1911/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795192328~acl=/*~id=62632681380888612415168042456419~hmac=c3d986515abc51f7f0b7c5581b6760075ce399728995e657051717a55291ef8e
+#EXTINF:-1 tvg-id="ev-0.9645730567466277" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029418/1795109522697691_ACRS_India_A_vs_Nepal_live_landscape_thumb.jpg",India A vs Nepal - 20 Nov 2026 [KAN] - ACC Men's Asia Cup Rising Stars 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795224590~acl=/*~id=00086137242186961784968286513232~hmac=d89e990e34996acd38ca4ae48e239f2b09a63e595e9def72e2af8e1bc5112c15
+
+#EXTINF:-1 tvg-id="ev-0.5490095514326585" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029333/1794695810000511_ISL26_EBFC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",East Bengal FC vs Sporting Club Delhi - 20 Nov 2026 [ENG] - MG Indian Super League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795224590~acl=/*~id=00086137242186961784968286513232~hmac=d89e990e34996acd38ca4ae48e239f2b09a63e595e9def72e2af8e1bc5112c15
+
+#EXTINF:-1 tvg-id="ev-0.831114288967376" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029333/1794695810000511_ISL26_EBFC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",East Bengal FC vs Sporting Club Delhi - 20 Nov 2026 [HIN] - MG Indian Super League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795224590~acl=/*~id=00086137242186961784968286513232~hmac=d89e990e34996acd38ca4ae48e239f2b09a63e595e9def72e2af8e1bc5112c15
+
+#EXTINF:-1 tvg-id="ev-0.18145677351404554" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029333/1794695810000511_ISL26_EBFC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",East Bengal FC vs Sporting Club Delhi - 20 Nov 2026 [BEN] - MG Indian Super League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive2011/BEN/std_lrh-800300010.m3u8?hdnea=exp=1795224590~acl=/*~id=00086137242186961784968286513232~hmac=d89e990e34996acd38ca4ae48e239f2b09a63e595e9def72e2af8e1bc5112c15
 
