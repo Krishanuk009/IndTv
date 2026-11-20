@@ -1,55 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 20/11/2026, 05:26:05
-
-#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_640/sources/r1/cms/prod/2305/1788708712305-h",Bigg Boss Hindi: 24 HRS Channel
-#EXTHTTP:{"Cookie":"hdntl=exp=1795149080~acl=%2f*~id=2563d596c90290dac5b2537c33c9f212~data=hdntl~hmac=3eff1238842df39c5c4ccfb6f1554400f834c2df5b826bbd526bef6bdd958490","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@dtv(Android/15)
-https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-hin-2026/93e0d4ee03b34575bbf8f8a55824de63/index_6.m3u8?&hdntl=exp=1795142592~acl=%2f*~id=48a4bfa43b803823f56ab807f80fcb35~data=hdntl~hmac=6f5a7d4e70b144605d88e3608666f598011a47ea6f3fe736ba2a3d3c960fc381
-
-#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/835/1788705250835-h",Bigg Boss Telugu: 24 HRS Channel
-#EXTHTTP:{"Cookie":"hdntl=exp=1795149080~acl=%2f*~id=2563d596c90290dac5b2537c33c9f212~data=hdntl~hmac=3eff1238842df39c5c4ccfb6f1554400f834c2df5b826bbd526bef6bdd958490","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@dtv(Android/15)
-https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-tel-2026/f129670ca03b4bb988c841f9bbdce777/index_6.m3u8?&hdntl=exp=1795142592~acl=%2f*~id=48a4bfa43b803823f56ab807f80fcb35~data=hdntl~hmac=6f5a7d4e70b144605d88e3608666f598011a47ea6f3fe736ba2a3d3c960fc381
-
-#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3164/1788686783164-h",Bigg Boss Tamil: 24 HRS Channel
-#EXTHTTP:{"Cookie":"hdntl=exp=1795149080~acl=%2f*~id=2563d596c90290dac5b2537c33c9f212~data=hdntl~hmac=3eff1238842df39c5c4ccfb6f1554400f834c2df5b826bbd526bef6bdd958490","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@dtv(Android/15)
-https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-tam-2026/0e8f0050df134b708ab297477fbf0e86/index_6.m3u8?&hdntl=exp=1795142592~acl=%2f*~id=48a4bfa43b803823f56ab807f80fcb35~data=hdntl~hmac=6f5a7d4e70b144605d88e3608666f598011a47ea6f3fe736ba2a3d3c960fc381
-
-#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6575/1788707966575-h",Bigg Boss Malayalam: 24 HRS Channel
-#EXTHTTP:{"Cookie":"hdntl=exp=1795149080~acl=%2f*~id=2563d596c90290dac5b2537c33c9f212~data=hdntl~hmac=3eff1238842df39c5c4ccfb6f1554400f834c2df5b826bbd526bef6bdd958490","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@dtv(Android/15)
-https://live09p.hotstar.com/mp2/incagbsgallow-biggboss-mal-2026/28fdd2300bf04a60ac3c3318ff009886/index_6.m3u8?&hdntl=exp=1795142592~acl=%2f*~id=48a4bfa43b803823f56ab807f80fcb35~data=hdntl~hmac=6f5a7d4e70b144605d88e3608666f598011a47ea6f3fe736ba2a3d3c960fc381
-
-#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6673/1788706616673-h",Bigg Boss Kannada: 24 HRS Channel
-#EXTHTTP:{"Cookie":"hdntl=exp=1795149080~acl=%2f*~id=2563d596c90290dac5b2537c33c9f212~data=hdntl~hmac=3eff1238842df39c5c4ccfb6f1554400f834c2df5b826bbd526bef6bdd958490","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@dtv(Android/15)
-https://live09p.hotstar.com/mp1/incagbsgallow-biggboss-kan-2026/511768cd9dab414aa551e9d15da2202b/index_6.m3u8?&hdntl=exp=1795142592~acl=%2f*~id=48a4bfa43b803823f56ab807f80fcb35~data=hdntl~hmac=6f5a7d4e70b144605d88e3608666f598011a47ea6f3fe736ba2a3d3c960fc381
-
-#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7635/1788653107635-h",Bigg Boss Bengali: 24 HRS Channel
-#EXTHTTP:{"Cookie":"hdntl=exp=1795149080~acl=%2f*~id=2563d596c90290dac5b2537c33c9f212~data=hdntl~hmac=3eff1238842df39c5c4ccfb6f1554400f834c2df5b826bbd526bef6bdd958490","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@dtv(Android/15)
-https://live09p.hotstar.com/mp1/incagbsgallow-biggboss-ben-2026/d8b1f4b4b6ad493d845fb9669712ee6e/index_6.m3u8?&hdntl=exp=1795142592~acl=%2f*~id=48a4bfa43b803823f56ab807f80fcb35~data=hdntl~hmac=6f5a7d4e70b144605d88e3608666f598011a47ea6f3fe736ba2a3d3c960fc381
-
-#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",SS2 Hindi HD
-#EXTHTTP:{"Cookie":"hdntl=exp=1795149080~acl=%2f*~id=2563d596c90290dac5b2537c33c9f212~data=hdntl~hmac=3eff1238842df39c5c4ccfb6f1554400f834c2df5b826bbd526bef6bdd958490","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)
-https://jcevents.hotstar.com/bpk-tv/f0e3e64ae415771d8e460317ce97aa5e/Fallback/f0e3e64ae415771d8e460317ce97aa5e.m3u8?hdntl=exp=1795142592~acl=%2f*~id=48a4bfa43b803823f56ab807f80fcb35~data=hdntl~hmac=6f5a7d4e70b144605d88e3608666f598011a47ea6f3fe736ba2a3d3c960fc381
-
-#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",SS2 Hindi SD
-#EXTHTTP:{"Cookie":"hdntl=exp=1795149080~acl=%2f*~id=2563d596c90290dac5b2537c33c9f212~data=hdntl~hmac=3eff1238842df39c5c4ccfb6f1554400f834c2df5b826bbd526bef6bdd958490","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)
-https://jcevents.hotstar.com/bpk-tv/2c7182c8e6a22cfa6ebc02bbc9ed6dd0/Fallback/2c7182c8e6a22cfa6ebc02bbc9ed6dd0.m3u8?hdntl=exp=1795142592~acl=%2f*~id=48a4bfa43b803823f56ab807f80fcb35~data=hdntl~hmac=6f5a7d4e70b144605d88e3608666f598011a47ea6f3fe736ba2a3d3c960fc381
-
-#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",SS2 Tamil
-#EXTHTTP:{"Cookie":"hdntl=exp=1795149080~acl=%2f*~id=2563d596c90290dac5b2537c33c9f212~data=hdntl~hmac=3eff1238842df39c5c4ccfb6f1554400f834c2df5b826bbd526bef6bdd958490","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)
-https://jcevents.hotstar.com/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/4db6f833701e78ae4443cb268020f03b.m3u8?hdntl=exp=1795142592~acl=%2f*~id=48a4bfa43b803823f56ab807f80fcb35~data=hdntl~hmac=6f5a7d4e70b144605d88e3608666f598011a47ea6f3fe736ba2a3d3c960fc381
-
-#EXTINF:-1 group-title="BIGG BOSS 24/7 | STREAMX" group-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Bigg_Boss_Hindi_TV_Series_Logo.jpg" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",SS2 Telugu
-#EXTHTTP:{"Cookie":"hdntl=exp=1795149080~acl=%2f*~id=2563d596c90290dac5b2537c33c9f212~data=hdntl~hmac=3eff1238842df39c5c4ccfb6f1554400f834c2df5b826bbd526bef6bdd958490","Referer":"https://www.hotstar.com/","Origin":"https://www.hotstar.com"}
-#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)
-https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9.m3u8?hdntl=exp=1795142592~acl=%2f*~id=48a4bfa43b803823f56ab807f80fcb35~data=hdntl~hmac=6f5a7d4e70b144605d88e3608666f598011a47ea6f3fe736ba2a3d3c960fc381
+# Generated: 20/11/2026, 10:11:29
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -8818,18 +8768,18 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Life_BTS/WDVLive/index.mpd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Telangana_BTS/WDVLive/index.mpd
 
-#EXTINF:-1 tvg-id="ev-0.29961317396291975" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795085973106996_NZvsIND_1st_Test_Day2_landscape_thumb.jpg",1st Test - Day 2 - 20 Nov 2026 [ENG] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795175273~acl=/*~id=77616836726527394175563053615689~hmac=b0f9ef24f6affd85251329d0600624de10bff976233fb08dc92fbb4c0f9efeae
+#EXTINF:-1 tvg-id="ev-0.6829223857302849" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795085973106996_NZvsIND_1st_Test_Day2_landscape_thumb.jpg",1st Test - Day 2 - 20 Nov 2026 [ENG] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795192328~acl=/*~id=62632681380888612415168042456419~hmac=c3d986515abc51f7f0b7c5581b6760075ce399728995e657051717a55291ef8e
 
-#EXTINF:-1 tvg-id="ev-0.0868699929909933" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795085973106996_NZvsIND_1st_Test_Day2_landscape_thumb.jpg",1st Test - Day 2 - 20 Nov 2026 [HIN] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1911/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795175273~acl=/*~id=77616836726527394175563053615689~hmac=b0f9ef24f6affd85251329d0600624de10bff976233fb08dc92fbb4c0f9efeae
+#EXTINF:-1 tvg-id="ev-0.33367395564848445" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795085973106996_NZvsIND_1st_Test_Day2_landscape_thumb.jpg",1st Test - Day 2 - 20 Nov 2026 [HIN] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1911/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795192328~acl=/*~id=62632681380888612415168042456419~hmac=c3d986515abc51f7f0b7c5581b6760075ce399728995e657051717a55291ef8e
 
-#EXTINF:-1 tvg-id="ev-0.44229376860498193" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795085973106996_NZvsIND_1st_Test_Day2_landscape_thumb.jpg",1st Test - Day 2 - 20 Nov 2026 [TAM] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1911/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795175273~acl=/*~id=77616836726527394175563053615689~hmac=b0f9ef24f6affd85251329d0600624de10bff976233fb08dc92fbb4c0f9efeae
+#EXTINF:-1 tvg-id="ev-0.8336704856656018" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795085973106996_NZvsIND_1st_Test_Day2_landscape_thumb.jpg",1st Test - Day 2 - 20 Nov 2026 [TAM] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1911/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795192328~acl=/*~id=62632681380888612415168042456419~hmac=c3d986515abc51f7f0b7c5581b6760075ce399728995e657051717a55291ef8e
 
-#EXTINF:-1 tvg-id="ev-0.6734937957437498" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795085973106996_NZvsIND_1st_Test_Day2_landscape_thumb.jpg",1st Test - Day 2 - 20 Nov 2026 [TEL] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1911/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795175273~acl=/*~id=77616836726527394175563053615689~hmac=b0f9ef24f6affd85251329d0600624de10bff976233fb08dc92fbb4c0f9efeae
+#EXTINF:-1 tvg-id="ev-0.48247262291367754" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795085973106996_NZvsIND_1st_Test_Day2_landscape_thumb.jpg",1st Test - Day 2 - 20 Nov 2026 [TEL] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1911/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795192328~acl=/*~id=62632681380888612415168042456419~hmac=c3d986515abc51f7f0b7c5581b6760075ce399728995e657051717a55291ef8e
 
-#EXTINF:-1 tvg-id="ev-0.3379383438353373" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795085973106996_NZvsIND_1st_Test_Day2_landscape_thumb.jpg",1st Test - Day 2 - 20 Nov 2026 [KAN] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1911/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795175273~acl=/*~id=77616836726527394175563053615689~hmac=b0f9ef24f6affd85251329d0600624de10bff976233fb08dc92fbb4c0f9efeae
+#EXTINF:-1 tvg-id="ev-0.7394488733783919" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795085973106996_NZvsIND_1st_Test_Day2_landscape_thumb.jpg",1st Test - Day 2 - 20 Nov 2026 [KAN] - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1911/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795192328~acl=/*~id=62632681380888612415168042456419~hmac=c3d986515abc51f7f0b7c5581b6760075ce399728995e657051717a55291ef8e
 
