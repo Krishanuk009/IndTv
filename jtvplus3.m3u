@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-# Generated: 26/11/2026, 14:27:56
+# Generated: 27/11/2026, 00:15:23
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -8774,4 +8774,10 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Life_BTS/WDVLive/index.mpd
 #EXTVLCOPT:http-user-agent=TiviMate/5.1.0
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Telangana_BTS/WDVLive/index.mpd
+
+#EXTINF:-1 tvg-id="ev-0.3482352590618194" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028403/1793601374540623_UEL26_MD5_Olympiacos-vs-Milan_live_landscape_thumb.jpg",Olympiacos FC vs AC Milan - MD 5 - 26 Nov 2026 [ENG] - UEFA Europa League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795761332~acl=/*~id=60549160768976140827291511997003~hmac=905a9d9e0808be822a00506ed431707501ae3abe413022f4a0acb7f7126b6bde
+
+#EXTINF:-1 tvg-id="ev-0.3929220171900196" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029126/1793611880670259_UEL26_MD5_Real-Club-Celta-vs-AFC-Bournemouth_live_landscape_thumb.jpg",Celta vs Bournemouth - 26 Nov 2026 [ENG] - UEFA Europa League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795761332~acl=/*~id=60549160768976140827291511997003~hmac=905a9d9e0808be822a00506ed431707501ae3abe413022f4a0acb7f7126b6bde
 
